@@ -1,0 +1,98 @@
+![Cover image for The Service Desk Handbook – A guide to service desk implementation, management and support](https://imgdetail.ebookreading.net/cover/cover/20200920/EB9781787782372.jpg)
+
+[The Service Desk Handbook – A guide to service desk implementation, management and support](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_1.html "The Service Desk Handbook – A guide to service desk implementation, management and support")
+====================================================================================================================
+
+Author : [Sanjay Nair](https://ebookreading.net/search/author/Sanjay+Nair)
+
+Release Date : 2020/09/01
+
+Book Description
+-----------------
+
+
+    
+    The Service Desk Handbook - A guide to service desk implementation, management and support provides operational guidance for implementing, managing and supporting service desks in the enterprise. It will help service desk teams in adopting ITIL® to accomplish their tasks while making the necessary adaptations as per their organisation’s needs.
+
+  
+
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_1.html)
+1. [Title](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_3.html#title)
+1. [Copyright](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_4.html#copy)
+1. [Dedication](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_5.html#ded)
+1. [About the Author](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_6.html#au)
+1. [Prologue](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_7.html#pro)
+1. [Acknowledgements](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_8.html#ack)
+1. [Contents](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_9.html#con)
+1. [Chapter 1: What is a service desk?](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_10.html#ch1)
+    1. [Mission and vision statements](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_10.html#sec1-1)
+    1. [The environment](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_10.html#sec1-2)
+1. [Chapter 2: Planning for a service desk](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_11.html#ch2)
+    1. [1. Type of support experience you want to deliver](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_11.html#sec2-1)
+    1. [2. Staffing requirements](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_11.html#sec2-2)
+    1. [3. Well-defined categorisation and prioritisation](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_11.html#sec2-3)
+    1. [4. Service level agreements (SLAs)](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_11.html#sec2-4)
+    1. [5. Knowledge base and self-service portal](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_11.html#sec2-5)
+    1. [6. Track and improve on key metrics](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_11.html#sec2-6)
+1. [Chapter 3: Telephony and ITSM tools](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_12.html#ch3)
+    1. [Telephony](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_12.html#sec3-1)
+    1. [ITSM tool](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_12.html#sec3-2)
+    1. [ITSM configuration](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_12.html#sec3-3)
+1. [Chapter 4: The service desk team](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_13.html#ch4)
+    1. [Respect and integrity](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_13.html#sec4-1)
+    1. [Teamwork](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_13.html#sec4-2)
+    1. [Quality service and performance](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_13.html#sec4-3)
+    1. [Efficient and proactive](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_13.html#sec4-4)
+    1. [Single point of contact](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_13.html#sec4-5)
+    1. [The service desk agent](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_13.html#sec4-6)
+    1. [The service desk manager](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_13.html#sec4-7)
+1. [Chapter 5: Documentation](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#ch5)
+    1. [Standard operating procedure manual (SOP)](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#sec5-1)
+    1. [Knowledge base (solution database)](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#sec5-2)
+    1. [Process documents](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#sec5-3)
+    1. [Responsibilities of an incident manager](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#sec5-4)
+    1. [RACI matrix](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#sec5-5)
+    1. [RACI matrix](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#sec5-6)
+    1. [Responsibilities of a problem manager](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#sec5-7)
+    1. [RACI matrix](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#sec5-8)
+    1. [Operational level agreement (OLA)](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#sec5-9)
+    1. [Service catalogue](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#sec5-10)
+    1. [Service request approval matrix](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#sec5-11)
+    1. [IT policy and procedure manual](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_14.html#sec5-12)
+1. [Chapter 6: Performance measures](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_15.html#ch6)
+    1. [Critical success factors (CSFs)](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_15.html#sec6-1)
+    1. [Key performance indicators](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_15.html#sec6-2)
+    1. [Balanced scorecard](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_15.html#sec6-3)
+    1. [Metrics for customer satisfaction survey](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_15.html#sec6-4)
+    1. [Evaluation and appraisal](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_15.html#sec6-5)
+    1. [Quantitative evaluation](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_15.html#sec6-6)
+    1. [Qualitative evaluation](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_15.html#sec6-7)
+1. [Chapter 7: An insight into the future](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_16.html#ch7)
+    1. [Current scenario](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_16.html#sec7-1)
+    1. [Future scenario](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_16.html#sec7-2)
+    1. [Key features](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_16.html#sec7-3)
+    1. [Objectives of a smart service desk](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_16.html#sec7-4)
+    1. [Role of the future service desk agent](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_16.html#sec7-5)
+    1. [Benefits to the organisation](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_16.html#sec7-6)
+    1. [ITIL 4](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_16.html#sec7-7)
+1. [Chapter 8: Technology considerations](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_17.html#ch8)
+    1. [Artificial intelligence](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_17.html#sec8-1)
+    1. [Chatbots](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_17.html#sec8-2)
+    1. [Others uses of AI in the service desk](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_17.html#sec8-3)
+    1. [AI in IT support](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_17.html#sec8-4)
+    1. [Managers](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_17.html#sec8-5)
+    1. [AI in knowledge management](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_17.html#sec8-6)
+    1. [AI in change management](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_17.html#sec8-7)
+    1. [AI in IT asset management](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_17.html#sec8-8)
+1. [Chapter 9: General reference](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_18.html#ch9)
+    1. [Tips for the service desk](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_18.html#sec9-1)
+    1. [Certifications for individuals](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_18.html#sec9-2)
+    1. [Certification for the service desk unit](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_18.html#sec9-3)
+    1. [Common terms explained](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_18.html#sec9-4)
+    1. [Root cause analysis – overview](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_18.html#sec9-5)
+    1. [Root cause analysis methods](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_18.html#sec9-6)
+1. [Chapter 10: Conclusion](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_19.html#ch10)
+1. [Further reading](https://ebookreading.net/view/book/The+Service+Desk+Handbook+%E2%80%93+A+guide+to+service+desk+implementation%2C+management+and+support-EB9781787782372_20.html#rea)

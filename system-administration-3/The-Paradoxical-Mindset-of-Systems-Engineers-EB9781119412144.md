@@ -1,0 +1,106 @@
+![Cover image for The Paradoxical Mindset of Systems Engineers](https://imgdetail.ebookreading.net/cover/cover/20200215/EB9781119412144.jpg)
+
+[The Paradoxical Mindset of Systems Engineers](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_1.html "The Paradoxical Mindset of Systems Engineers")
+====================================================================================================================
+
+Author : [Devanandham Henry](https://ebookreading.net/search/author/Devanandham+Henry),[ Nicole Hutchison](https://ebookreading.net/search/author/+Nicole+Hutchison),[ Arthur Pyster](https://ebookreading.net/search/author/+Arthur+Pyster)
+
+Release Date : 2018/10/01
+
+ISBN : 9781119412144
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ A guide that explores what enables systems engineers to be effective in their profession and reveals how organizations can help them attain success
+The Paradoxical Mindset of Systems Engineers offers an in-depth look at the proficiencies and personal qualities effective systems engineers require and the positions they should seek for successful careers. The book also gives employers practical strategies and tools to evaluate their systems engineers and advance them to higher performance. The authors explore why systems engineers are uncommon and how they can assess, improve, and cleverly leverage their uncommon strengths. These insights for being an ever more effective systems engineer apply equally well to classic engineers and project managers who secondarily do some systems engineering.
+The authors have written a guide to help systems engineers embrace the values that are most important to themselves and their organizations. Solidly based on interviews with over 350 systems engineers, classic engineers, and managers as well as detailed written career descriptions from 2500 systems engineers — The Paradoxical Mindset of Systems Engineers identifies behavioral patterns that effective systems engineers use to achieve success. This important resource:
+Offers aspiring systems engineers practical methods for success that are built on extensive empirical evidence and underlying theoryShows systems engineers how to visually document their relative strengths and weaknesses, map out their careers, and compare themselves to the best in their organizations – a rich set of tools for individuals, mentors, and organizationsOffers practical guidance to managers and executives who lead systems engineering workforce improvement initiatives  Written for systems engineers, their managers, business executives, those who do some systems engineering but primarily identify with other professions, as well as HR professionals, The Paradoxical Mindset of Systems Engineers offers the most comprehensive career guidance in the field available today.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [COVER](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_1.html)
+1. [ABOUT THE AUTHORS](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_7.html)
+1. [FOREWORD](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_9.html)
+1. [PREFACE](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_10.html)
+1. [1 PARADOXICAL MINDSET](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_11.html)
+    1. [WHAT IS SYSTEMS ENGINEERING?](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_11.html#head-2-1)
+    1. [BEING A SYSTEMS ENGINEER](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_11.html#head-2-2)
+    1. [BOOK STRUCTURE](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_11.html#head-2-3)
+    1. [CAREER DEVELOPMENT “ECOSYSTEM” FOR SYSTEMS ENGINEERS](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_11.html#head-2-4)
+    1. [A SHORT SUMMARY OF THE HELIX PROJECT](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_11.html#head-2-5)
+    1. [VIGNETTES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_11.html#head-2-6)
+    1. [NOTES AND REFERENCES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_11.html#head-2-7)
+1. [2 SIX UNCOMMON VALUES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_12.html)
+    1. [THE PARABLE OF THE THREE STONECUTTERS](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_12.html#head-2-8)
+    1. [WHAT IS GREATNESS, ANYHOW?](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_12.html#head-2-9)
+    1. [VALUE 1: KEEP AND MAINTAIN THE SYSTEM VISION](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_12.html#head-2-10)
+    1. [VALUE 2: TRANSLATE TECHNICAL JARGON INTO BUSINESS OR OPERATIONAL TERMS AND VICE VERSA](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_12.html#head-2-11)
+    1. [VALUE 3: ENABLE DIVERSE TEAMS TO SUCCESSFULLY DEVELOP SYSTEMS](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_12.html#head-2-12)
+    1. [VALUE 4: MANAGE EMERGENCE IN BOTH THE PROJECT AND THE SYSTEM](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_12.html#head-2-13)
+    1. [VALUE 5: ENABLE GOOD TECHNICAL DECISIONS AT THE SYSTEM LEVEL](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_12.html#head-2-14)
+    1. [VALUE 6: SUPPORT THE BUSINESS CASE FOR THE SYSTEM](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_12.html#head-2-15)
+    1. [HOW OTHERS VIEW SYSTEMS ENGINEERS](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_12.html#head-2-16)
+    1. [NOTES AND REFERENCES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_12.html#head-2-17)
+1. [3 FIFTEEN ROLES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_13.html)
+    1. [ROLES FOCUSED ON THE SYSTEMS BEING DEVELOPED](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_13.html#head-2-18)
+    1. [ROLES FOCUSED ON SYSTEMS ENGINEERING PROCESS AND ORGANIZATION](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_13.html#head-2-19)
+    1. [ROLES FOCUSED ON TEAMS THAT BUILD SYSTEMS](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_13.html#head-2-20)
+    1. [RELATIONSHIP BETWEEN ROLES AND VALUES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_13.html#head-2-21)
+    1. [ART PYSTER AT DIGITAL SOUND CORPORATION](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_13.html#head-2-22)
+    1. [SYSTEMS ENGINEERS OFTEN PERFORM MANAGEMENT ROLES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_13.html#head-2-23)
+    1. [SENIORITY](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_13.html#head-2-24)
+    1. [THREE SYSTEMS ENGINEERS WITH INCREASING SENIORITY](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_13.html#head-2-25)
+    1. [NOTES AND REFERENCES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_13.html#head-2-26)
+1. [4 A SYSTEMS ENGINEER’S PROFICIENCIES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_14.html)
+    1. [ENGINEERING PROFICIENCY CLUSTER](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_14.html#head-2-27)
+    1. [SYSTEMS PROFICIENCY CLUSTER](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_14.html#head-2-28)
+    1. [PROFESSIONAL PROFICIENCY CLUSTER](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_14.html#head-2-29)
+    1. [EXAMPLE POSITIONS](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_14.html#head-2-30)
+    1. [SYSTEMS ENGINEERS ARE Π‐SHAPED](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_14.html#head-2-31)
+    1. [THE WHOLE PACKAGE](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_14.html#head-2-32)
+    1. [NOTES AND REFERENCES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_14.html#head-2-33)
+1. [5 HIDDEN IN PLAIN SIGHT](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_15.html)
+    1. [CASE 1: JAPANESE BULLET TRAIN: FAST, FREQUENT, SAFE, AND PUNCTUAL ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_15.html#head-2-34)
+    1. [CASE 2: BOEING 777: MAINTAINING THE VISION FROM START TO END ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_15.html#head-2-35)
+    1. [CASE 3: HEALTHCARE.GOV: DISASTROUS START, INCREDIBLE RECOVERY ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_15.html#head-2-36)
+    1. [NOTES AND REFERENCES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_15.html#head-2-37)
+1. [6 PROFICIENCY PROFILES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_16.html)
+    1. [ASSESSING PROFICIENCY ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_16.html#head-2-38)
+    1. [EXEMPLAR AND RECOMMENDED PROFICIENCY PROFILES ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_16.html#head-2-39)
+    1. [AGGREGATE PROFICIENCY PROFILES ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_16.html#head-2-40)
+    1. [NOTES AND REFERENCES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_16.html#head-2-41)
+1. [7 THREE FORCES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_17.html)
+    1. [FORCE 1: EXPERIENCES ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_17.html#head-2-42)
+    1. [FORCE 2: MENTORING ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_17.html#head-2-43)
+    1. [FORCE 3: EDUCATION &amp; TRAINING ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_17.html#head-2-44)
+    1. [FORCE MULTIPLIERS ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_17.html#head-2-45)
+    1. [NOTES AND REFERENCES ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_17.html#head-2-46)
+1. [8 SUCCESSFUL CAREERS](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_18.html)
+    1. [NICOLE HUTCHISON GROWS INTO A SYSTEMS ENGINEER ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_18.html#head-2-47)
+    1. [TWO DATASETS ABOUT SENIOR SYSTEMS ENGINEERS ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_18.html#head-2-48)
+    1. [FOUR QUESTIONS ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_18.html#head-2-49)
+    1. [THE EDUCATION OF SYSTEMS ENGINEERS ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_18.html#head-2-50)
+    1. [THE EXPERIENCES OF CHIEF SYSTEMS ENGINEERS ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_18.html#head-2-51)
+    1. [CATHY’S CAREER REVISITED ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_18.html#head-2-52)
+    1. [CAREER MAPS FOR PYSTER AND HUTCHISON ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_18.html#head-2-53)
+    1. [NOTES AND REFERENCES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_18.html#head-2-54)
+1. [9 SECONDARILY A SYSTEMS ENGINEER](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_19.html)
+    1. [CLASSIC ENGINEERS ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_19.html#head-2-55)
+    1. [PROGRAM AND PROJECT MANAGERS ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_19.html#head-2-56)
+    1. [NOTES AND REFERENCES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_19.html#head-2-57)
+1. [10 THRIVE](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_20.html)
+    1. [LOOKING AHEAD ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_20.html#head-2-58)
+    1. [HOW A JUNIOR OR MID‐LEVEL SYSTEMS ENGINEER CAN THRIVE ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_20.html#head-2-59)
+    1. [HOW A CLASSIC ENGINEER, WHO IS SECONDARILY A SYSTEMS ENGINEER, CAN THRIVE ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_20.html#head-2-60)
+    1. [HOW A MANAGER OF SYSTEMS ENGINEERS CAN THRIVE ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_20.html#head-2-61)
+    1. [HOW AN EXECUTIVE CAN THRIVE ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_20.html#head-2-62)
+    1. [CLOSING THOUGHTS ](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_20.html#head-2-63)
+    1. [NOTES AND REFERENCES](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_20.html#head-2-64)
+1. [APPENDIX BIOGRAPHICAL SKETCHES OF QUOTED SYSTEMS ENGINEERS](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_21.html)
+1. [GLOSSARY AND ACRONYMS](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_22.html)
+1. [INDEX](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_23.html)
+1. [END USER LICENSE AGREEMENT](https://ebookreading.net/view/book/The+Paradoxical+Mindset+of+Systems+Engineers-EB9781119412144_24.html)

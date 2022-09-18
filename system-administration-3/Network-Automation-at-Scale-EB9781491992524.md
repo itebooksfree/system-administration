@@ -1,0 +1,102 @@
+![Cover image for Network Automation at Scale](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9781491992524.jpg)
+
+[Network Automation at Scale](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_1.html "Network Automation at Scale")
+====================================================================================================================
+
+Author : [Seth House](https://ebookreading.net/search/author/Seth+House),[ Mircea Ulinic](https://ebookreading.net/search/author/+Mircea+Ulinic)
+
+Release Date : 2017/12/01
+
+ISBN : 9781491992524
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ Network automation today is a continuous process of generating and deploying configuration changes, management, and operations of network devices. Whether you’re managing large or small deployments, it’s important to ensure consistency with other devices and reduce human error. With this practical ebook, network engineers will learn how easy it is to implement automation methodologies in a variety of multi-vendor networks.
+Authors Mircea Ulinic and Seth House not only walk you through setup and installation, they also provide real-world usage examples—including several recipes that you can use as-is. Throughout the book, you’ll use the Salt configuration management platform, along with the NAPALM library, and the Jinja and YAML data representation languages.
+No knowledge of software development is required. If you have basic network engineering skills, all you need to get started is a system to install and use.
+Learn the steps necessary to prepare your environment for automationUnderstand how Salt works when running commands from the CLIDive into Salt’s configuration management and the advanced templating capabilitiesTackle advanced configuration management with Salt’s state subsystemLearn how Salt’s event bus internally sends messages from one process to anotherExplore Beacon modules and how they perform a variety of tasks by interacting with the event busImport external events or export Salt events with bidirectional engines        Show and hide more                
+Table of Contents
+-----------------
+
+1. [1. Introduction](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_4.html#introduction)
+    1. [Salt and SaltStack](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_4.html#introduction-salt)
+        1. [Exploring the Architecture of Salt](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_4.html#introduction-salt-a)
+        1. [Diving into the Salt Proxy Minion](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_4.html#idm140071197402448)
+    1. [Installing Salt: The Easy Way](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_4.html#install-salt-bootst)
+    1. [Introducing NAPALM](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_4.html#introduction-napalm)
+        1. [The NAPALM Proxy](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_4.html#idm140071193010912)
+    1. [Brief Introduction to Jinja and YAML](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_4.html#introduction-yaml-j)
+        1. [The Three Rules of YAML](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_4.html#introduction-yaml)
+        1. [The Three Rules of Jinja](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_4.html#introduction-jinja)
+    1. [Extensible and Scalable Configuration Files: SLS](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_4.html#introduction-sls)
+1. [2. Preparing the Salt Environment](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#getting_started)
+    1. [Salt Nomenclature](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#getting_started-sal)
+        1. [Pillar](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#getting_started-pil)
+        1. [Configuring the NAPALM Pillar](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#napalm-pillar-cfg)
+        1. [Grains](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#getting_started-gra)
+    1. [Master Configuration](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#idm140071192173392)
+        1. [File Roots](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#idm140071192164784)
+        1. [Pillar Roots](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#idm140071192074416)
+        1. [Using External Pillar](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#getting_started-ext)
+    1. [Proxy Configuration](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#idm140071191931424)
+    1. [The Pillar Top File](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#idm140071191907744)
+    1. [Starting the Processes](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#idm140071191906000)
+        1. [Starting the Master Process](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#idm140071191792496)
+        1. [Starting the Proxy Processes](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_5.html#idm140071191705072)
+1. [3. Understanding the Salt CLI Syntax](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#cli)
+    1. [Functions and Arguments](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#cli_functions)
+    1. [Targeting Devices](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#cli_targeting)
+        1. [Targeting Using the Minion ID](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#idm140071191551936)
+        1. [Targeting Using a List of Minion IDs](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#idm140071191440048)
+        1. [Targeting Using Shell-Like Globbing](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#idm140071191345792)
+        1. [Targeting Using Regular Expressions](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#idm140071191350576)
+        1. [Targeting Using Grains](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#idm140071191358832)
+        1. [Targeting Using Pillar Data](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#idm140071191268320)
+        1. [Compound Target Matching](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#idm140071191301424)
+        1. [Defining and Targeting Using Nodegroups](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#idm140071191197680)
+        1. [Targeting Inside the Top File](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#idm140071191007600)
+    1. [Options](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#idm140071191554304)
+        1. [Outputters](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_6.html#idm140071191021056)
+1. [4. Configuration Management: Introduction](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_7.html#cfg_mgmt)
+    1. [Loading Static Configuration](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_7.html#cfg_mgmt-static)
+    1. [Loading Dynamic Changes](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_7.html#idm140071190917680)
+1. [5. Salt States: Advanced Configuration Management](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_8.html#salt_states)
+    1. [The State Top File](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_8.html#idm140071190486144)
+    1. [NetConfig](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_8.html#idm140071190282032)
+        1. [Automating the Configuration of the NTP Servers](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_8.html#salt_states-ntp)
+        1. [Automating the Interfaces Configuration of a Multivendor Network](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_8.html#idm140071190456688)
+    1. [NetYANG](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_8.html#idm140071189594176)
+        1. [Writing the Pillar Corresponding to the openconfig-lldp YANG Model](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_8.html#idm140071189562080)
+        1. [Automating the Interfaces Configuration of a Multivendor Network, Using the NetYANG State](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_8.html#idm140071189691328)
+    1. [Capirca and the NetACL Salt State Module](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_8.html#idm140071189640736)
+1. [6. The Salt Event Bus](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#event_bus)
+    1. [Event Tags and Data](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#idm140071189059328)
+    1. [Consume Salt Events](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#idm140071189045472)
+        1. [Reactor](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#idm140071189043872)
+        1. [HTTP Stream](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#idm140071189133760)
+        1. [Raw ZeroMQ](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#idm140071189131312)
+    1. [Event Types](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#idm140071189129536)
+        1. [Job Events](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#idm140071189127856)
+        1. [Authentication Events](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#event_bus-event-aut)
+        1. [Minion Start Events](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#event_bus-event-sta)
+        1. [Key Events](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#idm140071188808304)
+        1. [Presence Events](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#idm140071188757632)
+        1. [State Events](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_9.html#event_bus-state-eve)
+1. [7. Beacons](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_10.html#beacons)
+    1. [Configuration](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_10.html#idm140071188567824)
+    1. [Troubleshooting](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_10.html#idm140071188562000)
+1. [8. Engines](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_11.html#engine)
+    1. [Engines Are Easy to Configure](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_11.html#engines-configurati)
+    1. [napalm-logs and the napalm-syslog Engine](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_11.html#engines-napalm-logs)
+        1. [The napalm-logs Library and Daemon](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_11.html#engines-napalm-logs)
+        1. [The napalm-syslog Salt Engine](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_11.html#engines-napalm-sysl)
+1. [9. Salt Reactor](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_12.html#reactor)
+    1. [Getting Started](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_12.html#idm140071188064736)
+    1. [Best Practices](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_12.html#reactor-best-practi)
+    1. [Debugging](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_12.html#idm140071187833472)
+1. [Acknowledgments](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_13.html#acknowledgements)
+    1. [From Mircea](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_13.html#idm140071187823744)
+    1. [From Seth](https://ebookreading.net/view/book/Network+Automation+at+Scale-EB9781491992524_13.html#idm140071187821824)

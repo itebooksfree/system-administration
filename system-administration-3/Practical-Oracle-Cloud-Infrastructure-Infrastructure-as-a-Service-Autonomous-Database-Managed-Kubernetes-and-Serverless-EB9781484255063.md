@@ -1,0 +1,32 @@
+![Cover image for Practical Oracle Cloud Infrastructure: Infrastructure as a Service, Autonomous Database, Managed Kubernetes, and Serverless](https://imgdetail.ebookreading.net/cover/cover/20200215/EB9781484255063.jpg)
+
+[Practical Oracle Cloud Infrastructure: Infrastructure as a Service, Autonomous Database, Managed Kubernetes, and Serverless](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_1.html "Practical Oracle Cloud Infrastructure: Infrastructure as a Service, Autonomous Database, Managed Kubernetes, and Serverless")
+====================================================================================================================
+
+Author : [Michał Tomasz Jakóbczyk](https://ebookreading.net/search/author/Micha%C5%82+Tomasz+Jak%C3%B3bczyk)
+
+Release Date : 2020/01/01
+
+ISBN : 9781484255063
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ Use this fast-paced and comprehensive guide to build cloud-based solutions on Oracle Cloud Infrastructure. You will understand cloud infrastructure, and learn how to launch new applications and move existing applications to Oracle Cloud. Emerging trends in software architecture are covered such as autonomous platforms, infrastructure as code, containerized applications, cloud-based container orchestration with managed Kubernetes, and running serverless workloads using open-source tools. Practical examples are provided.This book teaches you how to self-provision the cloud resources you require to run and scale your custom cloud-based applications using a convenient web console and programmable APIs, and you will learn how to manage your infrastructure as code with Terraform. You will be able to plan, design, implement, deploy, run, and monitor your production-grade and fault-tolerant cloud software solutions in Oracle's data centers across the world, paying only for the resources you actually use.Oracle Cloud Infrastructure is part of Oracle's new generation cloud that delivers a complete and well-integrated set of Infrastructure as a Service (IaaS) capabilities (compute, storage, networking), edge services (DNS, web application firewall), and Platform as a Service (PaaS) capabilities (such as Oracle Autonomous Database which supports both transactional and analytical workloads, the certified and fully managed Oracle Kubernetes Engine, and a serverless platform based on an open-source Fn Project).Oracle Autonomous Database which supports both transactional and analytical workloads), and Oracle's certified and managed Container Engine for Kubernetes.What You Will LearnBuild software solutions on Oracle CloudAutomate cloud infrastructure with CLI and TerraformFollow best practices for architecting on Oracle CloudEmploy Oracle Autonomous Database to obtain valuable data insightsRun containerized applications on Oracle’s Container Engine for KubernetesUnderstand the emerging Cloud Native ecosystemWho This Book Is ForCloud architects, developers, DevOps engineers, and technology students and others who want to learn how to build cloud-based systems on Oracle Cloud Infrastructure (OCI) leveraging a broad range of OCI Infrastructure as a Service (IAAS) capabilities, Oracle Autonomous Database, and Oracle's Container Engine for Kubernetes. Readers should have a working knowledge of Linux, exposure to programming, and a basic understanding of networking concepts. All exercises in the book can be done at no cost with a 30-day Oracle Cloud trial.        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_1.html)
+1. [Front Matter](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_2.html)
+1. [1. Introducing Oracle Cloud Infrastructure](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_3.html)
+1. [2. Building Your First Cloud Application](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_4.html)
+1. [3. Automating Cloud Infrastructure](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_5.html)
+1. [4. Cloud Security and Project Environments](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_6.html)
+1. [5. Data Storage in the Oracle Cloud](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_7.html)
+1. [6. Patterns for Compute and Networking](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_8.html)
+1. [7. Autonomous Database](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_9.html)
+1. [8. Oracle Container Engine for Kubernetes](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_10.html)
+1. [9. Cloud-Native Architecture](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_11.html)
+1. [Back Matter](https://ebookreading.net/view/book/Practical+Oracle+Cloud+Infrastructure%3A+Infrastructure+as+a+Service%2C+Autonomous+Database%2C+Managed+Kubernetes%2C+and+Serverless-EB9781484255063_12.html)

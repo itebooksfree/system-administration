@@ -1,0 +1,102 @@
+![Cover image for Application Delivery with DC/OS](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9781491983454.jpg)
+
+[Application Delivery with DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_1.html "Application Delivery with DC/OS")
+====================================================================================================================
+
+Author : [Andrew Jefferson](https://ebookreading.net/search/author/Andrew+Jefferson)
+
+Release Date : 2017/05/01
+
+ISBN : 9781491983454
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ Developers and ops engineers have their hands full today delivering scalable, interconnected, always-on applications that can be consumed on a wide range of platforms—all while dealing with a container-driven distributed architecture. This practical report explores a new technology that can greatly aid the process: DC/OS from Mesosphere, a distributed operating system for managing multiple datacenter machines as if they were a single computer.
+Author Andrew Jefferson, VP Engineering at Tractable, demonstrates how the integrated set of software tools in DC/OS (Data Center Operating System) allows you to easily manage and run containerized apps and data services in production. You’ll learn how to automate resource management, facilitate inter-process communication, and simplify the installation and management of distributed services.
+This report helps you:
+Learn exactly what DC/OS is and how it helps you configure and automate interdependent applications across on machine clustersManage DC/OS clusters, and install and configure packages from Mesosphere’s Universe registryDesign and write applications to run on DC/OS, manage persistent state, and use service discoveryLearn how to run DC/OS in production—from scaling, deployment, and security to monitoring and intrusion detectionDiscover the enterprise application architecture requirements that DC/OS addresses        Show and hide more                
+Table of Contents
+-----------------
+
+1. [1. Introduction](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_4.html#introduction)
+1. [2. Why Do We Need Modern Enterprise Architecture?](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_5.html#why_do_we_need_mode)
+    1. [Highly Connected World](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_5.html#highly_connected_wo)
+    1. [Operations](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_5.html#operations)
+    1. [Application Development](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_5.html#application_develop)
+    1. [Hardware and Infrastructure](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_5.html#hardware_and_infras)
+    1. [Analytics, Machine Learning, and Data Science](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_5.html#analyticscomma_mach)
+    1. [Business Value](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_5.html#business_value)
+        1. [Vendor Lock-In](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_5.html#vendor_lock-in)
+        1. [Human Resources](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_5.html#human_resources)
+        1. [Control](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_5.html#control)
+        1. [Regulatory and Statutory Requirements](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_5.html#regulatory_and_stat)
+    1. [Chapter Conclusion: MEA Requirements](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_5.html#chapter_conclusion_)
+1. [3. Understanding DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#understanding_dcsol)
+    1. [Getting Started with DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#getting_started_wit)
+    1. [How DC/OS works](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#how_dcsolidusos_wor)
+        1. [Master Nodes](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#master_nodes)
+        1. [Agent Nodes](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#agent_nodes)
+        1. [Mesos Tasks and Frameworks](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#mesos_tasks_and_fra)
+        1. [Mesos Attributes and Roles](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#mesos_attributes_an)
+        1. [Other Mesos Functionality](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#other_mesos_functio)
+        1. [DC/OS Abstractions](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#dcsolidusos_abstrac)
+        1. [Other DC/OS Components](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#other_dcsolidusos_c)
+    1. [DC/OS Packages](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#dcsolidusos_package)
+        1. [Package Examples](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#package_examples)
+    1. [DC/OS CLI](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_6.html#dcsolidusos_cli)
+1. [4. Running Applications in DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_7.html#running_application)
+    1. [Marathon (for apps) and Metronome (for jobs)](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_7.html#marathon_left_paren)
+        1. [Containerization](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_7.html#containerization)
+        1. [Alternative Platform Layers](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_7.html#alternative_platfor)
+        1. [Marathon Pods](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_7.html#marathon_pods)
+        1. [Failure Handling in Marathon](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_7.html#failure_handling_in)
+        1. [High Availability and Change Management in Marathon](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_7.html#high_availability_a)
+        1. [Other Marathon Features](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_7.html#other_marathon_feat)
+1. [5. Writing Applications to Run on DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#writing_application)
+    1. [Service Discovery in DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#service_discovery_i)
+        1. [What Is Service Discovery?](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#what_is_service_dis)
+        1. [Service Discovery Using VIPs](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#service_discovery_u)
+        1. [Service Discovery with Mesos DNS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#service_discovery_w)
+        1. [Other Service Discovery Options](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#other_service_disco)
+    1. [Managing Persistent State in DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#managing_persistent)
+        1. [Local Persistent Volumes](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#local_persistent_vo)
+    1. [External Persistent Volumes](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#external_persistent)
+        1. [Other External Storage](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#other_external_stor)
+        1. [Storage Packages](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#storage_packages)
+    1. [Publishing Applications and Services](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#publishing_applicat)
+        1. [High Availability and Load-Balancing External Services](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#high_availability_a)
+    1. [Section Conclusion: Example Applications on DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_8.html#section_conclusion_)
+1. [6. Operating DC/OS in Production](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#operating_dcsolidus)
+    1. [Scaling](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#scaling)
+        1. [Scaling a DC/OS Cluster](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#scaling_a_dcsolidus)
+        1. [Scaling Masters](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#scaling_masters)
+        1. [Capacity Planning](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#capacity_planning)
+    1. [Dynamic Workloads](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#dynamic_workloads)
+        1. [Batch Processing](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#batch_processing)
+    1. [Multidatacenter DC/OS Configuration](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#multidatacenter_dcs)
+    1. [Deployment](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#deployment)
+        1. [Deploying a Marathon Application](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#deploying_a_maratho)
+        1. [Application Configuration](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#application_configu)
+        1. [Deploying an Application Update with a Breaking Interface Change](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#deploying_an_applic)
+    1. [Deploying a DC/OS Package](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#deploying_a_dcsolid)
+        1. [The DC/OS Package Universe](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#the_dcsolidusos_pac)
+        1. [Package Configuration](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#package_configurati)
+        1. [Updating a Package](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#updating_a_package)
+    1. [Security in DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#security_in_dcsolid)
+        1. [Secure Networking](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#secure_networking)
+        1. [Administrative Access and Authentication](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#administrative_acce)
+        1. [Monitoring and Intrusion Detection](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#monitoring_and_intr)
+        1. [Adding SSL](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#adding_ssl)
+        1. [Mesosphere Enterprise DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#mesosphere_enterpri)
+    1. [Disaster Planning and Business Continuity](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#disaster_planning_a)
+        1. [Durability of Data in DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#durability_of_data_)
+        1. [Recovering DC/OS After a Disaster](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_9.html#recovering_dcsolidu)
+1. [7. Implications of Using DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_10.html#implications_of_usi)
+    1. [How DC/OS Addresses Enterprise Application Architecture Requirements](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_10.html#how_dcsolidusos_add)
+        1. [Operational Benefits of DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_10.html#operational_benefit)
+        1. [Development Benefits of DC/OS](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_10.html#development_benefit)
+        1. [MEA Requirements](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_10.html#mea_requirements)
+    1. [Conclusion](https://ebookreading.net/view/book/Application+Delivery+with+DC%2FOS-EB9781491983454_10.html#conclusion)

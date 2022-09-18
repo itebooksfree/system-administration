@@ -1,0 +1,132 @@
+![Cover image for Official Google Cloud Certified Professional Data Engineer Study Guide](https://imgdetail.ebookreading.net/cover/cover/20201212/EB9781119618430.jpg)
+
+[Official Google Cloud Certified Professional Data Engineer Study Guide](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_1.html "Official Google Cloud Certified Professional Data Engineer Study Guide")
+====================================================================================================================
+
+Author : [Dan Sullivan](https://ebookreading.net/search/author/Dan+Sullivan)
+
+Release Date : 2020/06/01
+
+Book Description
+-----------------
+
+
+    
+    The proven Study Guide that prepares you for this new Google Cloud exam
+The&nbsp;Google Cloud Certified Professional Data Engineer Study Guide, provides everything you need to prepare for this important exam and master the skills necessary to land that coveted Google Cloud Professional Data Engineer certification. Beginning with a pre-book assessment quiz to evaluate what you know before you begin, each chapter features exam objectives and review questions, plus the online learning environment includes additional complete practice tests.&nbsp;
+Written by Dan Sullivan, a popular and experienced online course author for machine learning, big data, and Cloud topics,&nbsp;Google Cloud Certified Professional Data Engineer Study Guide is your ace in the hole for deploying and managing analytics and machine learning applications.&nbsp;
+•&nbsp;&nbsp;&nbsp; Build and operationalize storage systems, pipelines, and compute infrastructure
+•&nbsp;&nbsp;&nbsp; Understand machine learning models and learn how to select pre-built models
+•&nbsp;&nbsp;&nbsp; Monitor and troubleshoot machine learning models
+•&nbsp;&nbsp;&nbsp; Design analytics and machine learning applications that are secure, scalable, and highly available.&nbsp;
+This exam guide is designed to help you develop an in depth understanding of data engineering and machine learning on Google Cloud Platform.
+
+  
+
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_1.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_5.html)
+1. [About the Author](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_6.html)
+1. [About the Technical Editor](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_7.html)
+1. [Introduction](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_9.html)
+1. [Assessment Test](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_10.html)
+1. [Answers to Assessment Test](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_11.html)
+1. [Chapter 1 Selecting Appropriate Storage Technologies](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_12.html)
+    1. [From Business Requirements to&nbsp;Storage Systems](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_12.html#usec0002)
+    1. [Technical Aspects of Data: Volume, Velocity, Variation, Access, and Security](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_12.html#usec0015)
+    1. [Types of Structure: Structured, Semi-Structured, and Unstructured](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_12.html#usec0021)
+    1. [Schema Design Considerations](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_12.html#usec0028)
+    1. [Exam Essentials](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_12.html#usec0040)
+    1. [Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_12.html#c01-exsec-0001)
+1. [Chapter 2 Building and Operationalizing Storage Systems](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_13.html)
+    1. [Cloud SQL](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_13.html#usec0002)
+    1. [Cloud Spanner](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_13.html#usec0006)
+    1. [Cloud Bigtable](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_13.html#usec0011)
+    1. [Cloud Firestore](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_13.html#usec0015)
+    1. [BigQuery](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_13.html#usec0019)
+    1. [Cloud Memorystore](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_13.html#usec0027)
+    1. [Cloud Storage](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_13.html#usec0028)
+    1. [Unmanaged Databases](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_13.html#usec0033)
+    1. [Exam Essentials](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_13.html#usec0034)
+    1. [Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_13.html#c02-exsec-0001)
+1. [Chapter 3 Designing Data Pipelines](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_14.html)
+    1. [Overview of Data Pipelines](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_14.html#usec0002)
+    1. [GCP Pipeline Components](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_14.html#usec0020)
+    1. [Migrating Hadoop and Spark to GCP](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_14.html#usec0032)
+    1. [Exam Essentials](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_14.html#usec0033)
+    1. [Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_14.html#c03-exsec-0001)
+1. [Chapter 4 Designing a Data Processing Solution](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_15.html)
+    1. [Designing Infrastructure](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_15.html#usec0002)
+    1. [Designing for Distributed Processing](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_15.html#usec0018)
+    1. [Migrating a Data Warehouse](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_15.html#usec0027)
+    1. [Exam Essentials](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_15.html#usec0034)
+    1. [Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_15.html#c04-exsec-0001)
+1. [Chapter 5 Building and Operationalizing Processing Infrastructure](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_16.html)
+    1. [Provisioning and Adjusting Processing Resources](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_16.html#usec0002)
+    1. [Monitoring Processing Resources](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_16.html#usec0022)
+    1. [Exam Essentials](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_16.html#usec0026)
+    1. [Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_16.html#c05-exsec-0001)
+1. [Chapter 6 Designing for Security and Compliance](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_17.html)
+    1. [Identity and Access Management with Cloud IAM](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_17.html#usec0002)
+    1. [Using IAM with Storage and Processing Services](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_17.html#usec0007)
+    1. [Data Security](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_17.html#usec0012)
+    1. [Ensuring Privacy with the Data Loss Prevention API](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_17.html#usec0020)
+    1. [Legal Compliance](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_17.html#usec0024)
+    1. [Exam Essentials](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_17.html#usec0029)
+    1. [Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_17.html#c06-exsec-0001)
+1. [Chapter 7 Designing Databases for Reliability, Scalability, and Availability](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_18.html)
+    1. [Designing Cloud Bigtable Databases for Scalability and Reliability](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_18.html#usec0002)
+    1. [Designing Cloud Spanner Databases for Scalability and Reliability](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_18.html#usec0010)
+    1. [Designing BigQuery Databases for Data Warehousing](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_18.html#usec0020)
+    1. [Exam Essentials](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_18.html#usec0033)
+    1. [Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_18.html#c07-exsec-0001)
+1. [Chapter 8 Understanding Data Operations for Flexibility and Portability](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_19.html)
+    1. [Cataloging and Discovery with Data Catalog](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_19.html#usec0002)
+    1. [Data Preprocessing with Dataprep](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_19.html#usec0005)
+    1. [Visualizing with Data Studio](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_19.html#usec0011)
+    1. [Exploring Data with Cloud Datalab](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_19.html#usec0015)
+    1. [Orchestrating Workflows with Cloud Composer](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_19.html#usec0019)
+    1. [Exam Essentials](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_19.html#usec0023)
+    1. [Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_19.html#c08-exsec-0001)
+1. [Chapter 9 Deploying Machine Learning Pipelines](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_20.html)
+    1. [Structure of ML Pipelines](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_20.html#usec0002)
+    1. [GCP Options for Deploying Machine Learning Pipeline](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_20.html#usec0024)
+    1. [Exam Essentials](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_20.html#usec0029)
+    1. [Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_20.html#c09-exsec-0001)
+1. [Chapter 10 Choosing Training and Serving Infrastructure](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_21.html)
+    1. [Hardware Accelerators](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_21.html#usec0002)
+    1. [Distributed and Single Machine Infrastructure](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_21.html#usec0006)
+    1. [Edge Computing with GCP](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_21.html#usec0010)
+    1. [Exam Essentials](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_21.html#usec0015)
+    1. [Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_21.html#c10-exsec-0001)
+1. [Chapter 11 Measuring, Monitoring, and Troubleshooting Machine Learning Models](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_22.html)
+    1. [Three Types of Machine Learning Algorithms](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_22.html#usec0002)
+    1. [Deep Learning](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_22.html#usec0009)
+    1. [Engineering Machine Learning Models](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_22.html#usec0010)
+    1. [Common Sources of Error in Machine Learning Models](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_22.html#usec0025)
+    1. [Exam Essentials](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_22.html#usec0029)
+    1. [Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_22.html#c11-exsec-0001)
+1. [Chapter 12 Leveraging Prebuilt Models as a Service](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_23.html)
+    1. [Sight](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_23.html#usec0002)
+    1. [Conversation](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_23.html#usec0005)
+    1. [Language](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_23.html#usec0009)
+    1. [Structured Data](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_23.html#usec0012)
+    1. [Exam Essentials](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_23.html#usec0015)
+    1. [Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_23.html#c12-exsec-0001)
+1. [Appendix Answers to Review Questions](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html)
+    1. [Chapter 1: Selecting Appropriate Storage Technologies](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html#usec0001)
+    1. [Chapter 2: Building and Operationalizing Storage Systems](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html#usec0002)
+    1. [Chapter 3: Designing Data Pipelines](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html#usec0003)
+    1. [Chapter 4: Designing a Data Processing Solution](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html#usec0004)
+    1. [Chapter 5: Building and Operationalizing Processing Infrastructure](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html#usec0005)
+    1. [Chapter 6: Designing for Security and&nbsp;Compliance](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html#usec0006)
+    1. [Chapter 7: Designing Databases for Reliability, Scalability, and Availability](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html#usec0007)
+    1. [Chapter 8: Understanding Data Operations for Flexibility and Portability](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html#usec0008)
+    1. [Chapter 9: Deploying Machine Learning Pipelines](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html#usec0009)
+    1. [Chapter 10: Choosing Training and&nbsp;Serving Infrastructure](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html#usec0010)
+    1. [Chapter 11: Measuring, Monitoring, and Troubleshooting Machine Learning&nbsp;Models](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html#usec0011)
+    1. [Chapter 12: Leveraging Prebuilt Models as a Service](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_24.html#usec0012)
+1. [Index](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_25.html)
+1. [End User License Agreement](https://ebookreading.net/view/book/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-EB9781119618430_27.html)

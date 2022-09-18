@@ -1,0 +1,90 @@
+![Cover image for CompTIA A+ Practice Questions Exam Cram Core 1 (220-1001) and Core 2 (220-1002)](https://imgdetail.ebookreading.net/cover/cover/20200215/EB9780135598122.jpg)
+
+[CompTIA A+ Practice Questions Exam Cram Core 1 (220-1001) and Core 2 (220-1002)](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_1.html "CompTIA A+ Practice Questions Exam Cram Core 1 (220-1001) and Core 2 (220-1002)")
+====================================================================================================================
+
+Author : [David L. Prowse](https://ebookreading.net/search/author/David+L.+Prowse)
+
+Release Date : 2019/10/01
+
+ISBN : 9780135598122
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ CompTIA A+ Practice Questions Exam Cram Core 1 (220-1001) and Core 2 (220-1002) complements any A+ study plan with 480 practice test questions in the book plus two bonus exams on the companion website–all supported by complete explanations of every answer. This package's highly realistic questions cover every area of knowledge for both new A+ exams: 220-1001 and 220-1002.
+Covers the critical information you'll need to know to score higher on your A+ 220-1001 and 220-1002 examsFeatures 480 questions presented as three full, realistic practice exams for each A+ certification test: both 220-1001 and 220-1002Includes a detailed answer explanation for every questionAddresses all objectives for the 220-1001 and 220-1002 A+ exams, so you can easily assess your knowledge of every topic        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Cover Page](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_1.html)
+1. [About This eBook](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_2.html)
+1. [Title Page](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_3.html)
+1. [Copyright Page](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_4.html)
+1. [Contents at a Glance](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_5.html#toc01)
+1. [Table of Contents](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_6.html#toc)
+1. [About the Author](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_7.html#about)
+1. [About the Technical Reviewer](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_8.html#about1)
+1. [Acknowledgments](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_9.html#ack)
+1. [We Want to Hear from You!](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_10.html#pref01)
+1. [Reader Services](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_11.html#pref02)
+1. [Introduction](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_12.html#ch00)
+    1. [Who This Book Is For](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_12.html#ch00lev2sec1)
+    1. [What You Will Find in This Book](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_12.html#ch00lev2sec2)
+    1. [Hints for Using This Book](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_12.html#ch00lev2sec3)
+    1. [Companion Website](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_12.html#ch00lev2sec4)
+    1. [Pearson Test Prep Practice Test Software](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_12.html#ch00lev2sec5)
+    1. [Accessing the Pearson Test Prep Software Online](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_12.html#ch00lev2sec6)
+    1. [Accessing the Pearson Test Prep Software Offline](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_12.html#ch00lev2sec7)
+    1. [Customizing Your Exams](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_12.html#ch00lev2sec8)
+    1. [Updating Your Exams](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_12.html#ch00lev2sec9)
+    1. [Need Further Study?](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_12.html#ch00lev2sec10)
+1. [Chapter 1. Introduction to the 220-1001 Exam](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_13.html#ch01)
+    1. [Exam Breakdown](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_13.html#ch01lev1sec1)
+    1. [Test-Taking Tips](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_13.html#ch01lev1sec2)
+    1. [Getting Ready for the Practice Exams](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_13.html#ch01lev1sec3)
+1. [Chapter 2. 220-1001 Practice Exam A](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_14.html#ch02)
+    1. [Practice Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_14.html#ch02lev1sec1)
+    1. [Quick-Check Answer Key](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_14.html#ch02lev1sec2)
+    1. [Answers and Explanations](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_14.html#ch02lev1sec3)
+1. [Chapter 3. 220-1001 Practice Exam B](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_15.html#ch03)
+    1. [Practice Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_15.html#ch03lev1sec1)
+    1. [Quick-Check Answer Key](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_15.html#ch03lev1sec2)
+    1. [Answers and Explanations](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_15.html#ch03lev1sec3)
+1. [Chapter 4. 220-1001 Practice Exam C](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_16.html#ch04)
+    1. [Practice Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_16.html#ch04lev1sec1)
+    1. [Quick-Check Answer Key](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_16.html#ch04lev1sec2)
+    1. [Answers and Explanations](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_16.html#ch04lev1sec3)
+1. [Chapter 5. Review of the Core (220-1001)](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_17.html#ch05)
+    1. [Review of the Domains](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_17.html#ch05lev1sec1)
+    1. [Review What You Know](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_17.html#ch05lev1sec2)
+    1. [More Test-Taking Tips](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_17.html#ch05lev1sec3)
+    1. [Taking the Real Exam](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_17.html#ch05lev1sec4)
+1. [Chapter 6. Introduction to the 220-1002 Exam](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_18.html#ch06)
+    1. [Exam Breakdown](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_18.html#ch06lev1sec1)
+    1. [Test-Taking Tips](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_18.html#ch06lev1sec2)
+1. [Chapter 7. 220-1002 Practice Exam A](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_19.html#ch07)
+    1. [Practice Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_19.html#ch07lev1sec1)
+    1. [Quick-Check Answer Key](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_19.html#ch07lev1sec2)
+    1. [Answers and Explanations](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_19.html#ch07lev1sec3)
+1. [Chapter 8. 220-1002 Practice Exam B](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_20.html#ch08)
+    1. [Practice Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_20.html#ch08lev1sec1)
+    1. [Quick-Check Answer Key](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_20.html#ch08lev1sec2)
+    1. [Answers and Explanations](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_20.html#ch08lev1sec3)
+1. [Chapter 9. 220-1002 Practice Exam C](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_21.html#ch09)
+    1. [Practice Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_21.html#ch09lev1sec1)
+    1. [Quick-Check Answer Key](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_21.html#ch09lev1sec2)
+    1. [Answers and Explanations](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_21.html#ch09lev1sec3)
+1. [Chapter 10. Review of the Core (220-1002)](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_22.html#ch10)
+    1. [Review of the Domains](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_22.html#ch10lev1sec1)
+    1. [Review What You Know](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_22.html#ch10lev1sec2)
+    1. [More Test-Taking Tips](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_22.html#ch10lev1sec3)
+    1. [Taking the Real Exam](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_22.html#ch10lev1sec4)
+1. [Chapter 11. Wrap-Up](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_23.html#ch11)
+    1. [Getting Ready and the Exam Preparation Checklist](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_23.html#ch11lev1sec1)
+    1. [Tips for Taking the Real Exam](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_23.html#ch11lev1sec2)
+    1. [Beyond the CompTIA A+ Certification](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_23.html#ch11lev1sec3)
+1. [Code Snippets](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_27.html#ch07_images)
+1. [Where are the companion content files?](https://ebookreading.net/view/book/CompTIA+A%2B+Practice+Questions+Exam+Cram+Core+1+%28220-1001%29+and+Core+2+%28220-1002%29-EB9780135598122_29.html#app01)

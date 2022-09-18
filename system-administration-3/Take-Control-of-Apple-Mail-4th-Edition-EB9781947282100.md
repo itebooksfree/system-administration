@@ -1,0 +1,135 @@
+![Cover image for Take Control of Apple Mail, 4th Edition](https://imgdetail.ebookreading.net/cover/cover/20200215/EB9781947282100.jpg)
+
+[Take Control of Apple Mail, 4th Edition](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_1.html "Take Control of Apple Mail, 4th Edition")
+====================================================================================================================
+
+Author : [Joe Kissell](https://ebookreading.net/search/author/Joe+Kissell)
+
+Release Date : 2018/10/01
+
+ISBN : 9781947282100
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ Wrangling your web passwords can be easy and secure, thanks to 1Password, the popular password manager from AgileBits. In this book, Joe Kissell brings years of real-world 1Password experience into play to explain not only how to create, edit, and enter web login data easily, but also how to autofill contact and credit card info when shopping online, audit your passwords and generate better ones, handle two-factor authentication (2FA), and sync and share passwords in various ways—including a hosted 1Password account (individual, family, or team), iCloud or Dropbox.
+The book focuses on 1Password 7 for Mac and Windows, but it also provides details and directions for the iOS and Android versions of 1Password. It briefly covers 1Password X, a chrome extension that brings 1Password to Chrome OS and Linux.
+Topics include:
+Meet 1Password: Set your master password, explore the various 1Password components, and decide on your ideal usage strategy.
+Master logins: In 1Password, a typical login contains a set of credentials used to sign in to a website. Find out how to create logins, sort them, search them, tag them, and more. You’ll also find help with editing logins—for example, changing a password or adding further details.
+Understand password security: Get guidance on what makes for a good password, and read Joe’s important Password Dos and Don’ts. A special topic covers how to perform a security audit in order to improve poor passwords quickly. 
+Go beyond web logins: A primary point of 1Password is to speed up web logins, but 1Password can also store and autofill contact information (for more than one identity, even), along with credit card information. You’ll also find advice on storing passwords for password-protected files and encrypted disk images, plus ideas for keeping track of confidential files, software licenses, scans of important cards or documents, and more.
+Sync your passwords: Discover which 1Password syncing solution is right for you: a hosted 1Password account, Dropbox, iCloud, a manually synced folder, or even device-to-device Wi-Fi sync.
+Share your passwords: Learn to store passwords in shared vaults within a family or team hosted account.
+You’ll also discover the answers to key questions, including:
+What are my options for licensing 1Password?What are the differences between vaults in 1Password accounts and standalone vaults?Should I keep using my web browser’s autofill feature?What about iCloud Keychain? Should I use that too?What can I do quickly to get better password security?How can I find and update weak passwords I created long ago?What should I do about security questions, like the name of my pet?How can 1Password provide a time-based one-time password (TOTP)? How do I use 1Password logins from utilities like LaunchBar?        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Read Me First](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_4.html#ReadMeFirst)
+    1. [Updates and More](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_4.html#UpdatesandMore)
+    1. [Basics](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_4.html#Basics)
+    1. [What’s New in Version 4.1](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_4.html#WhatsNewinVersion41)
+    1. [What Was New in the Fourth Edition](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_4.html#WhatWasNewintheFour)
+1. [Introduction](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_5.html#Introduction)
+1. [Apple Mail Quick Start](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_6.html#AppleMailQuickStart)
+1. [Learn What’s New in Mail](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_7.html#LearnWhatsNewinMail)
+    1. [Mail Changes in Mojave](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_7.html#MailChangesinMojave)
+    1. [Mail Changes in High Sierra](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_7.html#MailChangesinHighSi)
+    1. [Mail Changes in iOS 12](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_7.html#MailChangesiniOS12)
+    1. [Mail Changes in iOS 11](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_7.html#MailChangesiniOS11)
+1. [Learn About Email Protocols](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_8.html#LearnAboutEmailProt)
+    1. [POP](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_8.html#POP)
+    1. [IMAP](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_8.html#IMAP)
+    1. [SMTP](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_8.html#SMTP)
+    1. [IMAP and POP Misconceptions](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_8.html#IMAPandPOPMisconcep)
+    1. [Switch from POP to IMAP](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_8.html#SwitchfromPOPtoIMAP)
+    1. [iCloud](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_8.html#iCloud)
+    1. [Exchange](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_8.html#Exchange)
+    1. [Gmail](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_8.html#Gmail)
+    1. [Fetch, Push, and IMAP IDLE](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_8.html#FetchPushandIMAPIDL)
+1. [Master Mail Concepts](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#MasterMailConcepts)
+    1. [Account Setup](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#AccountSetup)
+    1. [Decoding the Mail Sidebar](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#DecodingtheMailSide)
+    1. [Special Mailboxes](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#SpecialMailboxes)
+    1. [Controlling Mail Formatting](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#ControllingMailForm)
+    1. [Hidden Interface Elements](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#HiddenInterfaceElem)
+    1. [Gestures](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#Gestures)
+    1. [Full-Screen Mode](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#FullScreenMode)
+    1. [Addressing](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#Addressing)
+    1. [Filing](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#Filing)
+    1. [Archiving](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#Archiving)
+    1. [Notifications](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#Notifications)
+    1. [Data Detectors](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#DataDetectors)
+    1. [Attachments](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#Attachments)
+    1. [Handoff](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_9.html#Handoff)
+1. [Customize Mail](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_10.html#CustomizeMail)
+    1. [Sidebar](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_10.html#Sidebar)
+    1. [Toolbars](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_10.html#Toolbars)
+    1. [Message Header](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_10.html#MessageHeader)
+    1. [Views](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_10.html#Views)
+    1. [Tabbed Windows](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_10.html#TabbedWindows)
+    1. [Favorites Bar](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_10.html#FavoritesBar)
+    1. [Message Filters](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_10.html#MessageFilters)
+    1. [VIPs](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_10.html#VIPs)
+    1. [Signatures](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_10.html#Signatures)
+    1. [Keyboard Shortcuts](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_10.html#KeyboardShortcuts)
+1. [Extend and Automate Mail](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_11.html#ExtendandAutomateMa)
+    1. [Use Third-Party Plugins](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_11.html#UseThirdPartyPlugin)
+    1. [Noteworthy Plugins](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_11.html#NoteworthyPlugins)
+    1. [Archive and Search Messages](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_11.html#ArchiveandSearchMes)
+    1. [Remove Duplicate Messages](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_11.html#RemoveDuplicateMess)
+    1. [Use AppleScript and Automator](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_11.html#UseAppleScriptandAu)
+1. [Use Gmail with Mail](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_12.html#UseGmailwithMail)
+    1. [Understand How Mail Works (or Not) with Gmail](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_12.html#UnderstandHowMailWo)
+    1. [Set Up Mail to Use Gmail](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_12.html#SetUpMailtoUseGmail)
+    1. [Avoid Gmail Problems](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_12.html#AvoidGmailProblems)
+1. [Find Your Messages](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_13.html#FindYourMessages)
+    1. [Perform a Natural Language Search](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_13.html#PerformaNaturalLang)
+    1. [Perform a Conventional Search](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_13.html#PerformaConventiona)
+    1. [Search for a Phrase](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_13.html#SearchforaPhrase)
+    1. [Use Boolean Expressions](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_13.html#UseBooleanExpressio)
+    1. [Search by Date Range](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_13.html#SearchbyDateRange)
+    1. [Search Within the Current Message](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_13.html#SearchWithintheCurr)
+    1. [Work Smarter with Smart Mailboxes](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_13.html#WorkSmarterwithSmar)
+1. [Take Control of Your Inbox](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_14.html#TakeControlofYourIn)
+    1. [Take Responsibility](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_14.html#TakeResponsibility)
+    1. [Consolidate Your Accounts](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_14.html#ConsolidateYourAcco)
+    1. [Optimize Your Mailboxes](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_14.html#OptimizeYourMailbox)
+    1. [Use Rules](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_14.html#UseRules)
+    1. [Control Spam](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_14.html#ControlSpam)
+    1. [Develop an Email Strategy](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_14.html#DevelopanEmailStrat)
+    1. [Back Up and Restore Your Email](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_14.html#BackUpandRestoreYou)
+    1. [Import Email](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_14.html#ImportEmail)
+1. [Become a Better Correspondent](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_15.html#BecomeaBetterCorres)
+    1. [Don’t Be Part of the Problem](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_15.html#DontBePartoftheProb)
+    1. [Choose Formatting Wisely](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_15.html#ChooseFormattingWis)
+    1. [Use Attachments Judiciously](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_15.html#UseAttachmentsJudic)
+    1. [Quote Effectively](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_15.html#QuoteEffectively)
+1. [Sign and Encrypt Messages](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_16.html#SignandEncryptMessa)
+    1. [Learn When and Why to Sign or Encrypt Messages](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_16.html#LearnWhenandWhytoSi)
+    1. [Use S/MIME Encryption](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_16.html#UseSMIMEEncryption)
+    1. [Use GnuPG for Mail](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_16.html#UseGnuPGforMail)
+    1. [Sign and Encrypt Messages in iOS](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_16.html#SignandEncryptMessa)
+    1. [About the EFAIL Vulnerability](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_16.html#AbouttheEFAILVulner)
+1. [Fix Mail Problems](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_17.html#FixMailProblems)
+    1. [Fix Incoming Mail Problems](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_17.html#FixIncomingMailProb)
+    1. [Fix Outgoing Mail (SMTP) Problems](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_17.html#FixOutgoingMailSMTP)
+    1. [Untangle Special Mailboxes](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_17.html#UntangleSpecialMail)
+    1. [Fix Mailbox Problems](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_17.html#FixMailboxProblems)
+    1. [Fix Searching Errors](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_17.html#FixSearchingErrors)
+    1. [Deal with Recovered Messages](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_17.html#DealwithRecoveredMe)
+    1. [Solve Other Problems](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_17.html#SolveOtherProblems)
+1. [Use Mail in iOS](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_18.html#UseMailiniOS)
+    1. [iOS Mail vs. macOS Mail](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_18.html#iOSMailvsmacOSMail)
+    1. [18 Things Every iOS Mail User Should Know](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_18.html#Z18ThingsEveryiOSMa)
+    1. [Troubleshoot iOS Mail Problems](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_18.html#TroubleshootiOSMail)
+1. [About This Book](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_19.html#AboutThisBook)
+    1. [Ebook Extras](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_19.html#EbookExtras)
+    1. [About the Author and Publisher](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_19.html#AbouttheAuthorandPu)
+    1. [Shameless Plug](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_19.html#ShamelessPlug)
+    1. [Credits](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_19.html#Credits)
+1. [Copyright and Fine Print](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_20.html#CopyrightandFinePri)
+1. [Also by Joe Kissell](https://ebookreading.net/view/book/Take+Control+of+Apple+Mail%2C+4th+Edition-EB9781947282100_21.html#AlsobyJoeKissell)

@@ -1,0 +1,86 @@
+![Cover image for PHR/SPHR Professional in Human Resources Certification Practice Exams, Second Edition, 2nd Edition](https://imgdetail.ebookreading.net/cover/cover/20200215/EB9781260453140.jpg)
+
+[PHR/SPHR Professional in Human Resources Certification Practice Exams, Second Edition, 2nd Edition](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_1.html "PHR/SPHR Professional in Human Resources Certification Practice Exams, Second Edition, 2nd Edition")
+====================================================================================================================
+
+Author : [Joanne Simon-Walters](https://ebookreading.net/search/author/Joanne+Simon-Walters),[ Gabriella Parente-Neubert](https://ebookreading.net/search/author/+Gabriella+Parente-Neubert),[ Tresha Moreland](https://ebookreading.net/search/author/+Tresha+Moreland)
+
+Release Date : 2019/06/01
+
+ISBN : 9781260453140
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ Publisher's Note: Products purchased from Third Party sellers are not guaranteed by the publisher for quality, authenticity, or access to any online entitlements included with the product.Don’t Let the Real Test Be Your First Test!Based on the HR Certification Institute’s Professional and Senior Professional in Human Resources bodies of knowledge, this practical guide contains 600+ realistic practice exam questions to prepare you for the 2018 versions of these challenging certification exams. To aid in your understanding of the material, in-depth explanations of both the correct and incorrect answers are provided for every question. A valuable pre-assessment exam tests your readiness and identifies areas requiring further study. Designed to help you pass the exams, this is the perfect companion to PHR®/SPHR® Professional in Human Resources Certification All-in-One Exam Guide, Second Edition.PHR/SPHR Professional in Human Resources Certification Practice Exams covers all PHR and SPHR functional areas, including:•Business Management and Strategy•Workforce Planning and Employment•Human Resource Development•Compensation and Benefits•Employee and Labor Relations•Risk ManagementOnline content includes:•All 600+ practice exam questions from the book in the Total Tester exam engine—test yourself by exam topic or take complete exams        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_1.html)
+1. [Title Page](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_2.html)
+1. [Copyright Page](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_3.html)
+1. [Dedication](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_4.html)
+1. [About the Authors](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_5.html)
+1. [Contents](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_6.html)
+1. [Preface](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_7.html#preface)
+1. [Acknowledgments](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_8.html#ack)
+1. [Introduction](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_9.html#intro)
+1. [PHR Exam Objective Map](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_10.html#map1)
+1. [SPHR Exam Objective Map](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_11.html#map2)
+1. [Part I Pre-assessment Test](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_12.html#part1)
+    1. [Chapter 1 Pre-assessment Test: PHR and SPHR](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_13.html#ch1)
+        1. [Questions](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_13.html#lev1)
+        1. [Quick Answer Key](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_13.html#lev2)
+        1. [Answers](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_13.html#lev3)
+1. [Part II PHR Body of Knowledge Functional Areas](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_14.html#part2)
+    1. [Chapter 2 Business Management](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_15.html#ch2)
+        1. [Questions](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_15.html#lev4)
+        1. [Quick Answer Key](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_15.html#lev5)
+        1. [Answers](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_15.html#lev6)
+    1. [Chapter 3 Talent Planning and Acquisition](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_16.html#ch3)
+        1. [Questions](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_16.html#lev7)
+        1. [Quick Answer Key](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_16.html#lev8)
+        1. [Answers](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_16.html#lev9)
+    1. [Chapter 4 Learning and Development](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_17.html#ch4)
+        1. [Questions](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_17.html#lev10)
+        1. [Quick Answer Key](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_17.html#lev11)
+        1. [Answers](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_17.html#lev12)
+    1. [Chapter 5 Total Rewards](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_18.html#ch5)
+        1. [Questions](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_18.html#lev13)
+        1. [Quick Answer Key](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_18.html#lev14)
+        1. [Answers](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_18.html#lev15)
+    1. [Chapter 6 Employee and Labor Relations](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_19.html#ch6)
+        1. [Questions](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_19.html#lev16)
+        1. [Quick Answer Key](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_19.html#lev17)
+        1. [Answers](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_19.html#lev18)
+1. [Part III SPHR Body of Knowledge Functional Areas](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_20.html#part3)
+    1. [Chapter 7 Leadership and Strategy](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_21.html#ch7)
+        1. [Questions](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_21.html#lev19)
+        1. [Quick Answer Key](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_21.html#lev20)
+        1. [Answers](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_21.html#lev21)
+    1. [Chapter 8 Talent Planning and Acquisition](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_22.html#ch8)
+        1. [Questions](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_22.html#lev22)
+        1. [Quick Answer Key](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_22.html#lev23)
+        1. [Answers](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_22.html#lev24)
+    1. [Chapter 9 Learning and Development](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_23.html#ch9)
+        1. [Questions](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_23.html#lev25)
+        1. [Quick Answer Key](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_23.html#lev26)
+        1. [Answers](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_23.html#lev27)
+    1. [Chapter 10 Total Rewards](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_24.html#ch10)
+        1. [Questions](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_24.html#lev28)
+        1. [Quick Answer Key](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_24.html#lev29)
+        1. [Answers](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_24.html#lev30)
+    1. [Chapter 11 Employee Relations and Engagement](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_25.html#ch11)
+        1. [Questions](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_25.html#lev31)
+        1. [Quick Answer Key](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_25.html#lev32)
+        1. [Answers](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_25.html#lev33)
+1. [Appendix About the Online Content](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_26.html#app)
+    1. [System Requirements](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_26.html#lev34)
+    1. [Your Total Seminars Training Hub Account](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_26.html#lev35)
+        1. [Privacy Notice](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_26.html#lev36)
+    1. [Single-User License Terms and Conditions](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_26.html#lev37)
+    1. [TotalTester Online](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_26.html#lev38)
+    1. [New Question Types](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_26.html#lev39)
+    1. [Technical Support](https://ebookreading.net/view/book/PHR%2FSPHR+Professional+in+Human+Resources+Certification+Practice+Exams%2C+Second+Edition%2C+2nd+Edition-EB9781260453140_26.html#lev40)
