@@ -1,0 +1,113 @@
+![Cover image for LDAP Implementation Cookbook](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB0738413313.jpg)
+
+[LDAP Implementation Cookbook](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_1.html "LDAP Implementation Cookbook")
+====================================================================================================================
+
+Author : [Permana Widhiasta](https://ebookreading.net/search/author/Permana+Widhiasta),[ Harri Stranden](https://ebookreading.net/search/author/+Harri+Stranden),[ Michel Melot](https://ebookreading.net/search/author/+Michel+Melot),[ Heinz Johner](https://ebookreading.net/search/author/+Heinz+Johner)
+
+Release Date : 1999/06/01
+
+ISBN : 0738413313
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+The implementation and exploitation of centralized, corporate-wide directories are among the top priority projects in most organizations in the years 1999 and 2000. The need for a centralized directory emerges as organizations realize the overhead and cost involved in managing the many distributed micro and macro directories introduced in the past decade with decentralized client/server applications and network operating systems.
+ 		
+ Directories are key for a successful IT operation in medium and large environments. IBM understands this requirement and supports it by providing directory implementations based on industry standards at no additional cost on all its major platforms and even important non-IBM platforms. The IBM SecureWay Directory, formerly known as the IBM eNetwork LDAP Directory, implements the Lightweight Directory Access Protocol (LDAP) standard that has emerged quickly in the past years as a result of the demand for such a standard.
+ 		
+ This redbook will help you understand, install, and configure the IBM SecureWay Directory . It is targeted at system specialists who need to know the concepts and the detailed instructions for a successful LDAP implementation.
+              
+Table of Contents
+-----------------
+
+1. [Copyright](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_1.html)
+1. [Figures](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_2.html)
+1. [Tables](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_3.html)
+1. [Preface](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_4.html)
+1. [Introduction](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_5.html)
+    1. [What Is a Directory?](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_6.html)
+    1. [The Directory as Infrastructure](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_7.html)
+    1. [LDAP: Protocol or Directory?](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_8.html)
+    1. [The LDAP Road Map](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_9.html)
+    1. [The Framework for Creating Enterprise-Wide Solutions](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_10.html)
+    1. [IBM Directory Strategy](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_11.html)
+    1. [IBM Directory Offerings](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_12.html)
+    1. [LDAP Standards](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_13.html)
+    1. [Summary](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_14.html)
+1. [Schema and Namespace](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_15.html)
+    1. [LDAP Information Model Overview](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_16.html)
+    1. [LDAP Names](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_17.html)
+    1. [Directory Information Tree (Namespace) Structure](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_18.html)
+    1. [Relationship Between Objects](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_19.html)
+    1. [The IBM Schema](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_20.html)
+    1. [Schema Categories](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_21.html)
+    1. [The IBM Schema Repository](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_22.html)
+1. [A Step-by-Step Approach for Directory Implementation](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_23.html)
+    1. [Define the Objective for Using an LDAP Directory Service](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_24.html)
+    1. [Define the Data to Store in the Directory Service](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_25.html)
+    1. [Evaluate Data and Its Relationship to Directory Schema](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_26.html)
+    1. [Define and Assign Responsibilities for the Data](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_27.html)
+    1. [Evaluate Data and Its Placement in the Namespace](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_28.html)
+    1. [Evaluate the Existing Security Policy](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_29.html)
+    1. [Define the Migration Model](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_30.html)
+    1. [Define the LDAP Programming Model](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_31.html)
+    1. [Define the Deployment and Performance Criteria](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_32.html)
+    1. [Step-by-Step Summary](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_33.html)
+1. [Managing an LDAP Directory](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_34.html)
+    1. [Overview: Administration Tools, Utilities, and APIs](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_35.html)
+    1. [Centralized versus Distributed Administration](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_36.html)
+    1. [UTF-8 Support](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_37.html)
+    1. [Tivoli TME Considerations](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_38.html)
+    1. [Distributed Directories - Split Namespaces](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_39.html)
+    1. [Migration from the Previous Release](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_40.html)
+    1. [Migration from Non-LDAP Sources](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_41.html)
+    1. [Summary and Conclusions](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_42.html)
+1. [Directory Security](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_43.html)
+    1. [Security of the Directory](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_44.html)
+    1. [Security Support of the IBM SecureWay Directory](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_45.html)
+    1. [SSL Utilities](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_46.html)
+    1. [Configuring SSL Security](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_47.html)
+    1. [Delegation Model](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_48.html)
+    1. [Access Control](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_49.html)
+    1. [Storing Security Related Information in the Directory](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_50.html)
+1. [Installation and Configuration](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_51.html)
+    1. [Windows NT](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_52.html)
+    1. [AIX](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_53.html)
+    1. [OS/390](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_54.html)
+    1. [OS/400](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_55.html)
+1. [LDAP Data and System Administration](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_56.html)
+    1. [The Directory Management Tool](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_57.html)
+    1. [The Administrator Graphical User Interface](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_58.html)
+    1. [Database Configuration](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_59.html)
+    1. [Defining a Suffix](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_60.html)
+    1. [Database Population](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_61.html)
+    1. [Replication](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_62.html)
+    1. [Referrals](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_63.html)
+    1. [Command Line Utilities](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_64.html)
+    1. [Security Setup](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_65.html)
+    1. [Schema Data Management](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_66.html)
+    1. [Locating LDAP Servers Using DNS](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_67.html)
+1. [Developing Directory-Enabled Applications](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_68.html)
+    1. [Java Naming and Directory Interface (JNDI)](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_69.html)
+    1. [C LDAP Application Programming Interface (API)](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_70.html)
+    1. [Special Programming Topics](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_71.html)
+1. [Standards](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_72.html)
+1. [Special Notices](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_73.html)
+1. [Other References and Related Publications](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_74.html)
+    1. [International Technical Support Organization Publications](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_75.html)
+    1. [Redbooks on CD-ROMs](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_76.html)
+    1. [Other Publications](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_77.html)
+    1. [The Internet Engineering Task Force (IETF)](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_78.html)
+    1. [The University of Michigan (UMICH)](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_79.html)
+    1. [IBM Internet Wet Site for the IBM SecureWay Directory](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_80.html)
+    1. [IBM Intranet Web Site](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_81.html)
+    1. [Lotus Notes Discussion Database](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_82.html)
+    1. [Software Development Kits](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_83.html)
+    1. [Other Sources](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_84.html)
+1. [How to Get ITSO Redbooks](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_85.html)
+    1. [IBM Redbook Fax Order Form](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_86.html)
+1. [List of Abbreviations](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_87.html)
+1. [Index](https://ebookreading.net/view/book/LDAP+Implementation+Cookbook-EB0738413313_88.html)

@@ -1,0 +1,158 @@
+![Cover image for J2EE™ Platform Web Services](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB0131014021.jpg)
+
+[J2EE™ Platform Web Services](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_1.html "J2EE™ Platform Web Services")
+====================================================================================================================
+
+Author : [Ray Lai](https://ebookreading.net/search/author/Ray+Lai)
+
+Release Date : 2003/08/01
+
+ISBN : 0131014021
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+Build robust, scalable, end-to-end business solutions with J2EE™ Web Services.
+This is the definitive practitioner's guide to building enterprise-class J2EE Web Services that integrate with any B2B application and interoperate with any legacy system. Sun senior architect Ray Lai introduces 25 vendor-independent architectural patterns and best practices for designing Web Services that deliver outstanding performance, scalability, and reliability. Lai takes you to the frontiers of emerging Web Services technologies, showing how to make the most of today's leading-edge tools, from Java Web Services Developer Pack to Apache Axis. Coverage includes:
+Web Services: making the business case, and overcoming the technical and business challenges
+Real-life examples and scenarios, and a start-to-finish application case study
+Expert guidance on reducing risk and avoiding implementation pitfalls
+Building complete business solutions with rich messaging and workflow collaboration
+Mainframe interoperability and B2B integration within and beyond the enterprise
+Framework and methodology to develop your Web Services patterns and best practices
+Up-to-the-minute coverage of Web Services security
+New applications: service consolidation, wireless, and more
+An extensive library of links to Web resources, reference material, and vendors
+Whether you're an architect, designer, project leader, or developer, these are the best practices, patterns, and techniques you need to succeed with Web services in your enterprise environment. Enterprises seeking to leverage Web Services to revolutionize the ways they deliver services to customers, partners, and employees will find the answers they need in this book.
+"Ray Lai's J2EETM Platform Web Services is a comprehensive look at J2EE platform architecture and should be a must read for any serious Web Services developer." —Larry Tabb, Senior Strategic Advisor, Tower Group
+"This is a book for true practitioners. It's for those interested in designing and implementing Web Services now-and preparing for new opportunities on the horizon." —Jonathan Schwartz, Executive Vice President, Sun Microsystems
+              
+Table of Contents
+-----------------
+
+1. [Copyright](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_1.html)
+1. [About Prentice Hall Professional Technical Reference](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_2.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_3.html)
+1. [Foreword](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_4.html)
+1. [Jumpstart](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_5.html)
+    1. [What Are the Next Frontiers?](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_6.html)
+    1. [How This Book Is Different](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_7.html)
+    1. [Bringing the Pieces Together](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_8.html)
+    1. [Tour of the Book](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_9.html)
+    1. [Special Features](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_10.html)
+1. [The Web Services Phenomenon and Emerging Trends](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_11.html)
+    1. [Chapter Overview](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_12.html)
+    1. [Chapter Objectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_13.html)
+    1. [Changing Economic Landscape](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_14.html)
+    1. [Emerging Trends](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_15.html)
+    1. [Case Studies](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_16.html)
+    1. [Establishing a Business Case](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_17.html)
+    1. [Perspectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_18.html)
+1. [Web Services Technology Overview](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_19.html)
+    1. [Chapter Overview](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_20.html)
+    1. [Chapter Objectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_21.html)
+    1. [Web Services—The Evolution](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_22.html)
+    1. [Enabling Technology](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_23.html)
+    1. [The Web Services Marketplace](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_24.html)
+    1. [Web Services-Enabling Your Applications](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_25.html)
+    1. [Web Services in Action](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_26.html)
+    1. [Perspectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_27.html)
+1. [Web Services Architecture and Best Practices](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_28.html)
+    1. [Chapter Overview](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_29.html)
+    1. [Chapter Objectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_30.html)
+    1. [Web Services Architecture](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_31.html)
+    1. [What Is a Reference Architecture?](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_32.html)
+    1. [Web Services Architecture Principles](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_33.html)
+    1. [Supporting Software Tools](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_34.html)
+    1. [Inside Web Services](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_35.html)
+    1. [Web Services Design Patterns](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_36.html)
+    1. [Perspectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_37.html)
+1. [Mainframe Integration and Interoperability](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_38.html)
+    1. [Chapter Summary](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_39.html)
+    1. [Chapter Objectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_40.html)
+    1. [Background to Mainframe Interoperability](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_41.html)
+    1. [Integration Points](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_42.html)
+    1. [Alternatives to Mainframe Interoperability](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_43.html)
+    1. [Perspectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_44.html)
+1. [Enterprise and Cross-Enterprise Integration](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_45.html)
+    1. [Chapter Overview](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_46.html)
+    1. [Chapter Objectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_47.html)
+    1. [Background](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_48.html)
+    1. [Web Services and EAI—Friends or Foes?](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_49.html)
+    1. [Cross-Enterprise Integration Framework](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_50.html)
+    1. [Emerging Integration Technology](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_51.html)
+    1. [Integration Design Patterns](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_52.html)
+    1. [Perspectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_53.html)
+1. [Web Services Security](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_54.html)
+    1. [Chapter Overview](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_55.html)
+    1. [Chapter Objectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_56.html)
+    1. [Some Myths and Common Beliefs](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_57.html)
+    1. [Web Services Security Requirements](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_58.html)
+    1. [Recent Web Services Security Initiatives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_59.html)
+    1. [Web Services Security Patterns](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_60.html)
+    1. [Perspectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_61.html)
+    1. [Paper and Pencil](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_62.html)
+1. [Web Services in Action: Case Study](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_63.html)
+    1. [Objective](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_64.html)
+    1. [Assumptions](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_65.html)
+    1. [Use Case Scenario](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_66.html)
+    1. [Case Study Design](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_67.html)
+    1. [Case Study Design](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_68.html)
+    1. [User Experience](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_69.html)
+    1. [Sample Code Analysis](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_70.html)
+    1. [Code Customization and Deployment](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_71.html)
+    1. [Lessons Learned](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_72.html)
+1. [The Next Frontiers](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_73.html)
+    1. [So Many Changes](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_74.html)
+    1. [Are There Any Next Frontiers?](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_75.html)
+    1. [Managing the Next Wave](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_76.html)
+    1. [Paper and Pencil](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_77.html)
+1. [Resources and References](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_78.html)
+    1. [Web Services Portals](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_79.html)
+    1. [Web Services News](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_80.html)
+    1. [Development Platforms and Tools, Including Tutorials and Articles](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_81.html)
+    1. [Vendor-Specific Web Services Sites](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_82.html)
+    1. [Web Services Standards Bodies and Communities](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_83.html)
+    1. [SOAP-Specific](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_84.html)
+    1. [UDDI-Specific](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_85.html)
+    1. [Web Services Security](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_86.html)
+    1. [Web Services Conferences](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_87.html)
+    1. [Miscellaneous](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_88.html)
+1. [Some Web Services Vendors](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_89.html)
+    1. [Objectives](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_90.html)
+    1. [Avinon](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_91.html)
+    1. [BEA](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_92.html)
+    1. [bindsystems](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_93.html)
+    1. [bowstreet](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_94.html)
+    1. [CapeClear](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_95.html)
+    1. [IBM](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_96.html)
+    1. [IONA&#39;s XMLBus](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_97.html)
+    1. [Kildara](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_98.html)
+    1. [Microsoft](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_99.html)
+    1. [mindElectric](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_100.html)
+    1. [Novell (Silverstream)](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_101.html)
+    1. [Sun Microsystems](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_102.html)
+    1. [Systinet](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_103.html)
+    1. [XML Global](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_104.html)
+1. [Demo Environment Set-up](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_105.html)
+    1. [Platform Requirements](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_106.html)
+    1. [Installation and Configuration](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_107.html)
+    1. [Java 2 Standard Edition (J2SE)](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_108.html)
+    1. [Java Web Services Developer Pack (JWSDP)](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_109.html)
+    1. [AXIS](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_110.html)
+    1. [ANT](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_111.html)
+    1. [Trust Service Integration Kit (TSIK)](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_112.html)
+    1. [jSAML](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_113.html)
+    1. [SOAP-Lite](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_114.html)
+    1. [Directory Structure](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_115.html)
+    1. [Software Environment Configuration](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_116.html)
+    1. [CLASSPATH Set-up](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_117.html)
+    1. [Verifying Set-up](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_118.html)
+    1. [Java Web Services Developer Pack (JWSDP)](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_119.html)
+    1. [AXIS](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_120.html)
+    1. [Trust Service Integration Kit (TSIK)](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_121.html)
+    1. [jSAML](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_122.html)
+    1. [SOAP-Lite](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_123.html)
+    1. [Troubleshooting](https://ebookreading.net/view/book/J2EE%E2%84%A2+Platform+Web+Services-EB0131014021_124.html)

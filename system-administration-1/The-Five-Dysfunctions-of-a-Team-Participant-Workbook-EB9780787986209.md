@@ -1,0 +1,93 @@
+![Cover image for The Five Dysfunctions of a Team, Participant Workbook](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9780787986209.jpg)
+
+[The Five Dysfunctions of a Team, Participant Workbook](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_1.html "The Five Dysfunctions of a Team, Participant Workbook")
+====================================================================================================================
+
+Author : [Patrick Lencioni](https://ebookreading.net/search/author/Patrick+Lencioni)
+
+Release Date : 2007/01/01
+
+ISBN : 9780787986209
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+The Five Dysfunctions of a Team: Participant Workbook is part of The Five Dysfunctions of a Team Workshop collection. It is the companion piece to The Five Dysfunctions of a Team: Facilitator's Guide. The workbook gives the workshop participant a structure to engage in exercises and review presented material.
+              
+Table of Contents
+-----------------
+
+1. [Cover Page](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_1.html)
+1. [Title Page](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_2.html)
+1. [Copyright](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_3.html)
+1. [Contents](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_4.html)
+1. [Preface](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_5.html#preface)
+1. [Workshop Objective](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_6.html#work)
+    1. [OUR OBJECTIVE FOR THIS WORKSHOP](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_6.html#work-sec001)
+    1. [NOTES ON PERSONAL GOALS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_6.html#work-sec002)
+1. [The Five Dysfunctions of a Team](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_7.html#thefive)
+    1. [NOTES ON THE FIVE DYSFUNCTIONS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_7.html#thefive-sec001)
+1. [Team Assessment: Where We Are and Where We&#39;re Going](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_8.html#team)
+    1. [OVERALL ASSESSMENT](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_8.html#team-sec001)
+    1. [ABSENCE OF TRUST](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_8.html#team-sec002)
+    1. [FEAR OF CONFLICT](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_8.html#team-sec003)
+    1. [LACK OF COMMITMENT](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_8.html#team-sec004)
+    1. [AVOIDANCE OF ACCOUNTABILITY](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_8.html#team-sec005)
+    1. [INATTENTION TO RESULTS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_8.html#team-sec006)
+    1. [SUMMARY OF ASSESSMENT RESULTS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_8.html#team-sec007)
+1. [FUNDAMENTAL #1: Building Trust](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_9.html#ch1)
+    1. [TRUST ASSESSMENT ITEMS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_9.html#ch1-sec001)
+    1. [NOTES](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_9.html#ch1-sec002)
+    1. [PERSONAL HISTORIES EXERCISE](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_9.html#ch1-sec003)
+    1. [PERSONAL HISTORIES EXERCISE](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_9.html#ch1-sec004)
+    1. [BEHAVIORAL PROFILING EXERCISE](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_9.html#ch1-sec005)
+    1. [KEY POINTS—BUILDING TRUST](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_9.html#ch1-sec006)
+    1. [NOTES ON BUILDING TRUST](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_9.html#ch1-sec007)
+1. [FUNDAMENTAL #2: Mastering Conflict](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_10.html#ch2)
+    1. [CONFLICT ASSESSMENT ITEMS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_10.html#ch2-sec001)
+    1. [NOTES](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_10.html#ch2-sec002)
+    1. [CONFLICT PROFILING EXERCISE](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_10.html#ch2-sec003)
+    1. [CONFLICT NORMING EXERCISE](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_10.html#ch2-sec004)
+    1. [CONFLICT RESOLUTION MODEL](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_10.html#ch2-sec005)
+    1. [NOTES ON THE CONFLICT RESOLUTION MODEL](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_10.html#ch2-sec006)
+    1. [CONFLICT RESOLUTION EXERCISE](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_10.html#ch2-sec007)
+    1. [KEY POINTS—MASTERING CONFLICT](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_10.html#ch2-sec008)
+    1. [NOTES ON MASTERING CONFLICT](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_10.html#ch2-sec009)
+1. [FUNDAMENTAL #3: Achieving Commitment](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3)
+    1. [COMMITMENT ASSESSMENT ITEMS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec001)
+    1. [NOTES](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec002)
+    1. [COMMITMENT CLARIFICATION](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec003)
+    1. [NOTES](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec004)
+    1. [CASCADING COMMUNICATION](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec005)
+    1. [NOTES](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec006)
+    1. [THEMATIC GOAL MODEL](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec007)
+    1. [ESTABLISHING A THEMATIC GOAL](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec008)
+    1. [NOTES](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec009)
+    1. [OUR TEAM&#39;S THEMATIC GOAL](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec010)
+    1. [OUR THEMATIC GOAL DETAILS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec011)
+    1. [RULES OF ENGAGEMENT](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec012)
+    1. [KEY POINTS—ACHIEVING COMMITMENT](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec013)
+    1. [NOTES ON ACHIEVING COMMITMENT](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_11.html#ch3-sec014)
+1. [FUNDAMENTAL #4: Embracing Accountability](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_12.html#ch4)
+    1. [ACCOUNTABILITY ASSESSMENT ITEMS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_12.html#ch4-sec001)
+    1. [NOTES](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_12.html#ch4-sec002)
+    1. [TEAM EFFECTIVENESS EXERCISE](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_12.html#ch4-sec003)
+    1. [FEEDBACK FROM MY PEERS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_12.html#ch4-sec004)
+    1. [KEY POINTS—EMBRACING ACCOUNTABILITY](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_12.html#ch4-sec005)
+    1. [NOTES ON EMBRACING ACCOUNTABILITY](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_12.html#ch4-sec006)
+1. [FUNDAMENTAL #5 Focusing on Results](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_13.html#ch5)
+    1. [RESULTS ASSESSMENT ITEMS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_13.html#ch5-sec001)
+    1. [NOTES](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_13.html#ch5-sec002)
+    1. [THE FOUR COMMON DISTRACTIONS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_13.html#ch5-sec003)
+    1. [NOTES](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_13.html#ch5-sec004)
+    1. [ESTABLISHING A TEAM SCOREBOARD](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_13.html#ch5-sec005)
+    1. [KEY POINTS—FOCUSING ON RESULTS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_13.html#ch5-sec006)
+    1. [NOTES ON FOCUSING ON RESULTS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_13.html#ch5-sec007)
+1. [Summary and Conclusion](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_14.html#summary)
+    1. [STRATEGIES FOR OVERCOMING THE FIVE DYSFUNCTIONS](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_14.html#summary-sec001)
+    1. [CASCADING COMMUNICATION](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_14.html#summary-sec002)
+    1. [PERSONAL COMMITMENT](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_14.html#summary-sec003)
+1. [Resources](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_15.html#resources)
+1. [About the Author](https://ebookreading.net/view/book/The+Five+Dysfunctions+of+a+Team%2C+Participant+Workbook-EB9780787986209_16.html)

@@ -1,0 +1,181 @@
+![Cover image for Web Caching and Replication](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB0201615703.jpg)
+
+[Web Caching and Replication](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_1.html "Web Caching and Replication")
+====================================================================================================================
+
+Author : [Oliver Spatscheck](https://ebookreading.net/search/author/Oliver+Spatscheck),[ Michael Rabinovich](https://ebookreading.net/search/author/+Michael+Rabinovich)
+
+Release Date : 2001/12/01
+
+ISBN : 0201615703
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+"Rabinovich and Spatscheck report a wealth of detailed information about how to implement Web caching and replication mechanisms, but more importantly, they teach me how to think about the general problem of content distribution. I'm pleased that there is finally a comprehensive book on this important subject." --Larry Peterson, Professor of Computer Science, Princeton University
+"This book is a remarkable piece of work, well-organized and clearly articulated. The authors have masterfully presented advanced topics in Internet Web infrastructure and content delivery networks in a way that is suitable for both novices and experts." --Steve McCanne, Chief Technology Officer, Inktomi
+As the Internet grows, evolving from a research tool into a staple of daily life, it is essential that the Web's scalability and performance keep up with increased demand and expectations. Every day, more and more users turn to the Internet to use resource-hungry applications like video and audio on-demand and distributed games. At the same time, more and more computer applications are built to rely on the Web, but with much higher sensitivity to delays of even a few milliseconds. The key to satisfying these growing demands and expectations lies in the practices of caching and replication and in the increased scalability solutions they represent.
+Web Caching and Replication provides essential material based on the extensive real-world experience of two experts from AT&amp;T Labs. This comprehensive examination of caching, replication, and load-balancing practices for the Web brings together information from and for the commercial world, including real-life products; technical standards communities, such as IETF and W3C; and academic research.
+By focusing on the underlying, fundamental ideas that are behind the varied technologies currently used in caching and replication, this book will remain a relevant, much-needed resource as the multi-billion dollar industries that rely on the Web continue to grow and evolve.
+The book approaches its two central topics in two distinct parts. The part on caching includes coverage of:
+Proxy caching, including latency reduction and TCP connection caching
+Transparent and nontransparent proxy deployment
+Cooperative caching
+Cache consistency
+Replacement policies
+Prefetching
+"Caching the uncacheable"
+The part on replication includes coverage of:
+Basic mechanisms for request distribution, including content-blind and content-aware request distribution
+CDNs, including DNS request distribution, streaming content delivery, and secure content access
+Server selection
+Examples and illustrations are included throughout the book. Extensive cross-referencing also enables readers to identify the corresponding parts of each section. Web Caching and Replication concludes with a thorough look into the future. It not only considers how new services can be implemented on caching and replication platforms, but also outlines emerging technologies that will allow for cooperation between different caching and replication enterprises in order to improve the overall performance of the Web.
+ 0201615703B11262001
+              
+Table of Contents
+-----------------
+
+1. [Copyright](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_1.html)
+1. [Preface](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_2.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_3.html)
+1. [Introduction](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_4.html)
+1. [Background](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_5.html)
+    1. [Network Layers and Protocols](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_6.html)
+        1. [The ISO/OSI Reference Model](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_7.html)
+        1. [Network Components at Different Layers](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_8.html)
+        1. [Overview of Internet Protocols](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_9.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_10.html)
+    1. [The Internet Protocol and Routing](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_11.html)
+        1. [Addressing](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_12.html)
+        1. [IP Datagram Header](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_13.html)
+        1. [Routing](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_14.html)
+        1. [Multicast](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_15.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_16.html)
+    1. [Transmission Control Protocol](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_17.html)
+        1. [Segment Header](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_18.html)
+        1. [Opening a Connection](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_19.html)
+        1. [Closing a Connection](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_20.html)
+        1. [Flow Control](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_21.html)
+        1. [Congestion Control](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_22.html)
+        1. [Retransmission](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_23.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_24.html)
+    1. [Application Protocols for the Web](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_25.html)
+        1. [Uniform Resource Locators](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_26.html)
+        1. [The Domain Name System](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_27.html)
+        1. [The HyperText Transfer Protocol](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_28.html)
+        1. [The HTTP Message Exchange](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_29.html)
+        1. [Hyperlinks and Embedded Objects](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_30.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_31.html)
+    1. [HTTP Support for Caching and Replication](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_32.html)
+        1. [Conditional Requests](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_33.html)
+        1. [Age and Expiration of Cached Objects](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_34.html)
+        1. [Request Redirection](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_35.html)
+        1. [Range Requests](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_36.html)
+        1. [The cache-control Header](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_37.html)
+        1. [Storing State for a Stateless Server: Cookies](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_38.html)
+        1. [Support for Server Sharing](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_39.html)
+        1. [Expanded Object Identifiers](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_40.html)
+        1. [Learning the Proxy Chain](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_41.html)
+        1. [Cacheability of Web Content](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_42.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_43.html)
+    1. [Web Behavior Rules of Thumb](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_44.html)
+        1. [Evaluation Methods](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_45.html)
+        1. [Object Size](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_46.html)
+        1. [Object Types and Cacheability](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_47.html)
+        1. [Object Popularity](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_48.html)
+        1. [Locality of Reference](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_49.html)
+        1. [Rate of Object Modifications](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_50.html)
+        1. [Other Observations](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_51.html)
+        1. [Summary: Rules of Thumb for the Web](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_52.html)
+1. [Web Caching](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_53.html)
+    1. [Proxy Caching: Realistic Expectations](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_54.html)
+        1. [Do Proxy Caches Deserve a Hearing?](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_55.html)
+        1. [Latency Reduction](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_56.html)
+        1. [Bandwidth Savings](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_57.html)
+        1. [Proxies and Streaming Media](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_58.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_59.html)
+    1. [Proxy Deployment](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_60.html)
+        1. [Overview of Internet Connectivity Architectures](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_61.html)
+        1. [Nontransparent Proxy Deployment](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_62.html)
+        1. [Transparent Proxy Deployment](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_63.html)
+        1. [Security and Access Control Issues](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_64.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_65.html)
+    1. [Cooperative Proxy Caching](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_66.html)
+        1. [Shared Cache: How Big Is Big Enough?](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_67.html)
+        1. [Issues in Cooperative Proxy Caching](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_68.html)
+        1. [Location Management](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_69.html)
+        1. [Caching on a Global Scale: Proxy Pruning](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_70.html)
+        1. [An Overview of Existing Platforms](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_71.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_72.html)
+    1. [Cache Consistency](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_73.html)
+        1. [Cache Validation](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_74.html)
+        1. [Cache Invalidation](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_75.html)
+        1. [Issues in Cooperative Cache Consistency](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_76.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_77.html)
+    1. [Replacement Policy](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_78.html)
+        1. [Replacement Policy Metrics](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_79.html)
+        1. [Replacement Policy Algorithms](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_80.html)
+        1. [The Value of Replacement Policy](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_81.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_82.html)
+    1. [Prefetching](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_83.html)
+        1. [Performance Metrics](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_84.html)
+        1. [Performance Bounds of Prefetching](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_85.html)
+        1. [Taxonomy](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_86.html)
+        1. [Nondata Prefetching](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_87.html)
+        1. [Nontransparent Prefetching](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_88.html)
+        1. [Server Push versus Client Pull](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_89.html)
+        1. [Information Used in Prefetching Algorithms](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_90.html)
+        1. [Prediction Algorithms](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_91.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_92.html)
+    1. [Caching the Uncacheable](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_93.html)
+        1. [A Note on Implementation](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_94.html)
+        1. [Modified Content and Stale Delivery Avoidance](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_95.html)
+        1. [Cookied Content](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_96.html)
+        1. [Expressly Uncacheable Content and Hit Metering](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_97.html)
+        1. [Dynamic Content](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_98.html)
+        1. [Active Proxies](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_99.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_100.html)
+1. [Web Replication](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_101.html)
+    1. [Basic Mechanisms for Request Distribution](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_102.html)
+        1. [Content-Blind Request Distribution with Full Replication](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_103.html)
+        1. [Content-Blind Request Distribution with Partial Replication](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_104.html)
+        1. [Content-Aware Request Distribution](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_105.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_106.html)
+    1. [Content Delivery Networks](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_107.html)
+        1. [Types of CDNs](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_108.html)
+        1. [Delivering Requests to a CDN](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_109.html)
+        1. [Finding Origin Servers](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_110.html)
+        1. [Request Distribution in CDNs](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_111.html)
+        1. [Pitfalls of DNS-Based Request Distribution](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_112.html)
+        1. [Fine-Tuning DNS Request Distribution](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_113.html)
+        1. [Data Consistency in CDNs](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_114.html)
+        1. [Streaming Content Delivery](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_115.html)
+        1. [Supporting Secure Content Access](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_116.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_117.html)
+    1. [Server Selection](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_118.html)
+        1. [Metrics](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_119.html)
+        1. [Algorithms](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_120.html)
+        1. [Server Selection with Multiple Metrics](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_121.html)
+        1. [DNS-Based Server Selection](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_122.html)
+        1. [Why Choose a Server When You Can Have Them All?](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_123.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_124.html)
+1. [Further Directions](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_125.html)
+    1. [Adding Value at the Edge](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_126.html)
+        1. [Content Filtering](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_127.html)
+        1. [Content Transcoding](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_128.html)
+        1. [Watermarking](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_129.html)
+        1. [Custom Usage Reporting](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_130.html)
+        1. [Implementing New Services with an Edge Server API](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_131.html)
+        1. [The ICAP Protocol](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_132.html)
+        1. [Distributing Web Applications](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_133.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_134.html)
+    1. [Content Distribution Internetworking](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_135.html)
+        1. [Pros and Cons of CDI](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_136.html)
+        1. [Request Distribution](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_137.html)
+        1. [Content Distribution](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_138.html)
+        1. [Accounting](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_139.html)
+        1. [Summary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_140.html)
+    1. [Glossary](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_141.html)
+    1. [Bibliography](https://ebookreading.net/view/book/Web+Caching+and+Replication-EB0201615703_142.html)

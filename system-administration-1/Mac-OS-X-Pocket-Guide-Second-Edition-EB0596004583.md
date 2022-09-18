@@ -1,0 +1,93 @@
+![Cover image for Mac OS X Pocket Guide, Second Edition](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB0596004583.jpg)
+
+[Mac OS X Pocket Guide, Second Edition](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_1.html "Mac OS X Pocket Guide, Second Edition")
+====================================================================================================================
+
+Author : [Chuck Toporek](https://ebookreading.net/search/author/Chuck+Toporek)
+
+Release Date : 2002/11/01
+
+ISBN : 0596004583
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ Known as Jaguar, Mac OS X 10.2 is a stunning technical achievement that has seduced Unix, Windows, and Mac OS 9 users. Adopting Jaguar is easy; mastering this new OS can take a bit more. And no matter how good your reference books are, you can't always stop to thumb through hundreds of pages to find the piece of information you need. Concise, easy to use, and thoroughly updated to cover Mac OS X 10.2, this new edition of the Mac OS X Pocket Guide introduces you to the fundamental concepts of Mac OS X. It also features a handy "Mac OS X Survival Guide," that shows Mac users what's changed from Mac OS 9, and helps Windows and Unix converts get acclimated to their new OS. The Mac OS X Pocket Guide, 2nd Edition shows you how to use tools such the Finder and the Dock, and includes an overview of the System Preferences, the Terminal application, and the Developer Tools. It covers all the essential commands and keys, includes basic UNIX command info, printer, modem configurations, and provides instant help when you need it at your keyboard or on the road. This slim guide also includes a quick reference for creating special characters and a listing of basic keyboard commands. If you need to add a user, remove a user, correct OS preferences, log in, log out, tune the dock, or change passwords, you'll find the information you need easily in a book that really can fit in your back pocket. With over 250 tips and tricks, this practical, to-the-point Mac OS X Pocket Guide is a small but powerful roadmap to unleashing the power of Mac OS X. 
+              
+Table of Contents
+-----------------
+
+1. [Mac OS X Pocket Guide, 2nd Edition](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_2.html)
+    1. [Mac OS X Pocket Guide](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_3.html)
+        1. [Introduction](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_3.html#macosxpg2-PREF-SECT)
+        1. [Conventions Used in This Book](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_4.html)
+    1. [1. Mac OS X Survival Guide](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_5.html)
+        1. [Changes to Mac OS Xfrom Mac OS 9](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_5.html#macosxpg2-CHP-1-SEC)
+            1. [The Apple Menu](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_5.html#macosxpg2-CHP-1-SEC)
+            1. [Think System Preferences, Not Control Panels](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_5.html#macosxpg2-CHP-1-SEC)
+            1. [Other Missing Items](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_5.html#macosxpg2-CHP-1-SEC)
+        1. [Tips for Switchers](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_6.html)
+            1. [General Tips for Switchers](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_6.html#macosxpg2-CHP-1-SEC)
+            1. [Tips for Windows Switchers](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_6.html#macosxpg2-CHP-1-SEC)
+            1. [Tips for Unix Switchers](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_6.html#macosxpg2-CHP-1-SEC)
+    1. [2. Mac OS X Basics](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_7.html)
+        1. [Window Controls](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_7.html#macosxpg2-CHP-2-SEC)
+        1. [Window Tips](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_8.html)
+        1. [The Finder](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_9.html)
+            1. [The Finder Toolbar](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_9.html#macosxpg2-CHP-2-SEC)
+            1. [Searching from the Finder](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_9.html#macosxpg2-CHP-2-SEC)
+            1. [Finder Tips](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_9.html#macosxpg2-CHP-2-SEC)
+        1. [Keyboard Shortcuts](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_10.html)
+            1. [Basic Keyboard Shortcuts](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_10.html#macosxpg2-CHP-2-SEC)
+            1. [Startup and Shutdown Keys](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_10.html#macosxpg2-CHP-2-SEC)
+        1. [The Dock](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_11.html)
+            1. [Using and Configuring the Dock](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_11.html#macosxpg2-CHP-2-SEC)
+            1. [Dock Tricks](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_11.html#macosxpg2-CHP-2-SEC)
+        1. [Mac OS X and the Classic Environment](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_12.html)
+        1. [Users and Logging In](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_13.html)
+            1. [Tips for Users](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_13.html#macosxpg2-CHP-2-SEC)
+            1. [User Subdirectories](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_13.html#macosxpg2-CHP-2-SEC)
+            1. [The root User Account](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_13.html#macosxpg2-CHP-2-SEC)
+            1. [Get Info and Setting File Permissions](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_13.html#macosxpg2-CHP-2-SEC)
+    1. [3. System Tools](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_14.html)
+        1. [System Preferences](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_14.html#macosxpg2-CHP-3-SEC)
+            1. [Personal](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_14.html#macosxpg2-CHP-3-SEC)
+            1. [Hardware](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_14.html#macosxpg2-CHP-3-SEC)
+            1. [Internet &amp; Network](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_14.html#macosxpg2-CHP-3-SEC)
+            1. [System](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_14.html#macosxpg2-CHP-3-SEC)
+        1. [Applications and Utilities](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_15.html)
+            1. [Applications](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_15.html#macosxpg2-CHP-3-SEC)
+            1. [Utilities](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_15.html#macosxpg2-CHP-3-SEC)
+        1. [Developer Tools](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_16.html)
+            1. [Installing the Developer Tools](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_16.html#macosxpg2-CHP-3-SEC)
+            1. [Overview of the Developer Tools](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_16.html#macosxpg2-CHP-3-SEC)
+    1. [4. Mac OS X Unix Basics](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_17.html)
+        1. [Configuring and Using the Terminal](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_17.html#macosxpg2-CHP-4-SEC)
+            1. [Terminal Settings](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_17.html#macosxpg2-CHP-4-SEC)
+            1. [Keyboard Shortcuts](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_17.html#macosxpg2-CHP-4-SEC)
+        1. [Command-Line Editing with tcsh](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_18.html)
+            1. [Emacs Mode](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_18.html#macosxpg2-CHP-4-SEC)
+            1. [vi Mode](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_18.html#macosxpg2-CHP-4-SEC)
+            1. [Additional Command-Line Keys](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_18.html#macosxpg2-CHP-4-SEC)
+        1. [Additional Shell Commands](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_19.html)
+            1. [bindkey](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_19.html#macosxpg2-CHP-4-SEC)
+            1. [defaults](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_19.html#macosxpg2-CHP-4-SEC)
+                1. [Examples](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_19.html#macosxpg2-CHP-4-SEC)
+            1. [open](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_19.html#macosxpg2-CHP-4-SEC)
+        1. [Basic Unix Commands](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_20.html)
+    1. [5. Task and Setting Index](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_21.html)
+        1. [Task and Setting Index](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_21.html#macosxpg2-CHP-5-SEC)
+            1. [Customizing the System](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_21.html#macosxpg2-CHP-5-SEC)
+            1. [Files and Folders](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_21.html#macosxpg2-CHP-5-SEC)
+            1. [Fonts and Font Management](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_21.html#macosxpg2-CHP-5-SEC)
+            1. [Searching for and Locating Files](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_21.html#macosxpg2-CHP-5-SEC)
+            1. [Obtaining Information About the System](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_21.html#macosxpg2-CHP-5-SEC)
+            1. [Internet, Web, and Email](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_21.html#macosxpg2-CHP-5-SEC)
+            1. [Modems and Dial-Up Networking](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_21.html#macosxpg2-CHP-5-SEC)
+            1. [Networking](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_21.html#macosxpg2-CHP-5-SEC)
+            1. [Printer Configuration and Printing](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_21.html#macosxpg2-CHP-5-SEC)
+            1. [Maintenance and Troubleshooting](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_21.html#macosxpg2-CHP-5-SEC)
+        1. [Special Characters](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_22.html)
+    1. [Index](https://ebookreading.net/view/book/Mac+OS+X+Pocket+Guide%2C+Second+Edition-EB0596004583_23.html)

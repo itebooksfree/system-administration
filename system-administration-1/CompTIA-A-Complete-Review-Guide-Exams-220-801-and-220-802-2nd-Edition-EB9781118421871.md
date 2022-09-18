@@ -1,0 +1,131 @@
+![Cover image for CompTIA A+ Complete Review Guide: Exams 220-801 and 220-802, 2nd Edition](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9781118421871.jpg)
+
+[CompTIA A+ Complete Review Guide: Exams 220-801 and 220-802, 2nd Edition](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_1.html "CompTIA A+ Complete Review Guide: Exams 220-801 and 220-802, 2nd Edition")
+====================================================================================================================
+
+Author : [Troy McMillan](https://ebookreading.net/search/author/Troy+McMillan),[ Emmett Dulaney](https://ebookreading.net/search/author/+Emmett+Dulaney)
+
+Release Date : 2012/09/01
+
+ISBN : 9781118421871
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+A concise, focused study aid for the 2012 edition of CompTIA A+ Certification exams
+More than a million PC technicians hold the CompTIA A+ certification, which is a require certification by some software and hardware vendors. Designed to work with the Sybex family of certification guides for exams 220-801 and 220-802, this Review Guide is organized by objective to provide a quick review and reinforcement of important exam topics. It includes more than 170 review questions, and reader will have access to 4 practice exams, over 100 electronic flashcards, and a searchable Glossary of Key Term.
+Provides effective review and reinforcement to help prepare students for the CompTIA A+ certification exams
+A perfect companion to other Sybex CompTIA A+ Study Guides
+Covers all exam objectives, including hardware, networking, laptops and printers, operating procedures, operating systems, security, mobile devices, and troubleshooting
+Packed with tightly focused review questions, and access to bonus practice exams, electronic flashcards, and a searchable list of key terms to reinforce study
+Includes review for both required exams: 220-801 and 220-802
+CompTIA A+ Complete Review Guide adds additional support to prepare you to achieve the number one certification for PC technicians.
+Note: The ebook version does not provide access to the companion files.
+              
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_1.html)
+1. [Comp TIA Discount Coupon](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_2.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_5.html#ffirs-anchor-1)
+1. [About the Authors](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_5.html#ffirs-anchor-2)
+1. [Introduction](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_6.html)
+1. [Part I: CompTIA A+ 220-801](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html)
+    1. [Chapter 1: PC Hardware](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-4)
+        1. [1.1 Configure and apply BIOS settings](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-5)
+        1. [1.2 Differentiate between motherboard components, their purposes, and properties](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-6)
+        1. [1.3 Compare and contrast RAM types and features](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-7)
+        1. [1.4 Install and configure expansion cards](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-8)
+        1. [1.5 Install and configure storage devices and use appropriate media](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-9)
+        1. [1.6 Differentiate among various CPU types and features and select the appropriate cooling method](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-10)
+        1. [1.7 Compare and contrast various connection interfaces and explain their purpose](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-11)
+        1. [1.8 Install an appropriate power supply based on a given scenario](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-12)
+        1. [1.9 Evaluate and select appropriate components for a custom configuration, to meet customer specifications or needs](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-13)
+        1. [1.10 Given a scenario, evaluate types and features of display devices](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-14)
+        1. [1.11 Identify connector types and associated cables](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-15)
+        1. [1.12 Install and configure various peripheral devices](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-16)
+        1. [Review Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_7.html#c01-anchor-17)
+    1. [Chapter 2: Networking](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_8.html)
+        1. [2.1 Identify types of network cables and connectors](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_8.html#c02-anchor-3)
+        1. [2.2 Categorize characteristics of connectors and cabling](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_8.html#c02-anchor-4)
+        1. [2.3 Explain properties and characteristics of TCP/IP](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_8.html#c02-anchor-5)
+        1. [2.4 Explain common TCP and UDP ports, protocols, and their purpose](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_8.html#c02-anchor-6)
+        1. [2.5 Compare and contrast wireless network standards and encryption types](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_8.html#c02-anchor-7)
+        1. [2.6 Install, configure, and deploy a SOHO wireless/wired router using appropriate settings](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_8.html#c02-anchor-8)
+        1. [2.7 Compare and contrast Internet connection types and features](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_8.html#c02-anchor-9)
+        1. [2.8 Identify various types of networks](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_8.html#c02-anchor-10)
+        1. [2.9 Compare and contrast network devices and their functions and features](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_8.html#c02-anchor-11)
+        1. [2.10 Given a scenario, use appropriate networking tools](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_8.html#c02-anchor-12)
+        1. [Review Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_8.html#c02-anchor-13)
+    1. [Chapter 3: Laptops](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_9.html)
+        1. [3.1 Install and configure laptop hardware and components](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_9.html#c03-anchor-3)
+        1. [3.2 Compare and contrast the components within the display of a laptop](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_9.html#c03-anchor-4)
+        1. [3.3 Compare and contrast laptop features](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_9.html#c03-anchor-5)
+        1. [Review Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_9.html#c03-anchor-6)
+    1. [Chapter 4: Printers](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_10.html)
+        1. [4.1 Explain the differences between the various printer types and summarize the associated imaging process](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_10.html#c04-anchor-3)
+        1. [Exam Essentials](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_10.html#c04-anchor-4)
+        1. [4.2 Given a scenario, install and configure printers](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_10.html#c04-anchor-5)
+        1. [4.3 Given a scenario, perform printer maintenance](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_10.html#c04-anchor-6)
+        1. [Review Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_10.html#c04-anchor-7)
+    1. [Chapter 5: Operational Procedures](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_11.html)
+        1. [5.1 Given a scenario, use appropriate safety procedures](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_11.html#c05-anchor-3)
+        1. [5.2 Explain environmental impacts and the purpose of environmental controls](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_11.html#c05-anchor-4)
+        1. [5.3 Given a scenario, demonstrate proper communication and professionalism](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_11.html#c05-anchor-5)
+        1. [5.4 Explain the fundamentals of dealing with prohibited content/activity](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_11.html#c05-anchor-6)
+        1. [Review Questions ](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_11.html#c05-anchor-7)
+1. [Part II: CompTIA A+ 220-802](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_12.html)
+    1. [Chapter 6: Operating Systems](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_12.html#c06-anchor-4)
+        1. [1.1 Compare and contrast the features and requirements of various Microsoft Operating Systems](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_12.html#c06-anchor-5)
+        1. [1.2 Given a scenario, install and configure the operating system using the most appropriate method](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_12.html#c06-anchor-6)
+        1. [1.3 Given a scenario, use appropriate command line tools](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_12.html#c06-anchor-7)
+        1. [1.4 Given a scenario, use appropriate operating system features and tools](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_12.html#c06-anchor-8)
+        1. [1.5 Given a scenario, use Control Panel utilities](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_12.html#c06-anchor-9)
+        1. [1.6 Setup and configure Windows networking on a client/desktop](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_12.html#c06-anchor-10)
+        1. [1.7 Perform preventive maintenance procedures using appropriate tools](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_12.html#c06-anchor-11)
+        1. [1.8 Explain the differences among basic OS security settings](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_12.html#c06-anchor-12)
+        1. [1.9 Explain the basics of client-side virtualization](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_12.html#c06-anchor-13)
+        1. [Review Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_12.html#c06-anchor-14)
+    1. [Chapter 7: Security](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_13.html)
+        1. [2.1 Apply and use common prevention methods](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_13.html#c07-anchor-3)
+        1. [2.2 Compare and contrast common security threats](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_13.html#c07-anchor-4)
+        1. [2.3 Implement security best practices to secure a workstation](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_13.html#c07-anchor-5)
+        1. [2.4 Given a scenario, use the appropriate data destruction/disposal method](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_13.html#c07-anchor-6)
+        1. [2.5 Given a scenario, secure a SOHO wireless network](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_13.html#c07-anchor-7)
+        1. [2.6 Given a scenario, secure a SOHO wired network](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_13.html#c07-anchor-8)
+        1. [Review Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_13.html#c07-anchor-9)
+    1. [Chapter 8: Mobile Devices](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_14.html)
+        1. [3.1 Explain the basic features of mobile operating systems](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_14.html#c08-anchor-3)
+        1. [3.2 Establish basic network connectivity and configure email](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_14.html#c08-anchor-4)
+        1. [3.3 Compare and contrast methods for securing mobile devices](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_14.html#c08-anchor-5)
+        1. [3.4 Compare and contrast hardware differences in regards to tablets and laptops](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_14.html#c08-anchor-6)
+        1. [3.5 Execute and configure mobile device synchronization](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_14.html#c08-anchor-7)
+        1. [Review Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_14.html#c08-anchor-8)
+    1. [Chapter 9: Troubleshooting](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_15.html)
+        1. [4.1 Given a scenario, explain the troubleshooting theory](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_15.html#c09-anchor-3)
+        1. [4.2 Given a scenario, troubleshoot common problems related to motherboards, RAM, CPU and power with appropriate tools](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_15.html#c09-anchor-4)
+        1. [4.3 Given a scenario, troubleshoot hard drives and RAID arrays with appropriate tools](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_15.html#c09-anchor-5)
+        1. [4.4 Given a scenario, troubleshoot common video and display issues](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_15.html#c09-anchor-6)
+        1. [4.5 Given a scenario, troubleshoot wired and wireless networks with appropriate tools](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_15.html#c09-anchor-7)
+        1. [4.6 Given a scenario, troubleshoot operating system problems with appropriate tools](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_15.html#c09-anchor-8)
+        1. [4.7 Given a scenario, troubleshoot common security issues with appropriate tools and best practices](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_15.html#c09-anchor-9)
+        1. [4.8 Given a scenario, troubleshoot, and repair common laptop issues while adhering to the appropriate procedures](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_15.html#c09-anchor-10)
+        1. [4.9 Given a scenario, troubleshoot printers with appropriate tools](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_15.html#c09-anchor-11)
+        1. [Review Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_15.html#c09-anchor-12)
+1. [Appendix A: Answers to Review Questions](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_16.html)
+    1. [Chapter 1: PC Hardware](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_16.html#bapp01-anchor-3)
+    1. [Chapter 2: Networking](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_16.html#bapp01-anchor-4)
+    1. [Chapter 3: Laptops](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_16.html#bapp01-anchor-5)
+    1. [Chapter 4: Printers](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_16.html#bapp01-anchor-6)
+    1. [Chapter 5: Operational Procedures](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_16.html#bapp01-anchor-7)
+    1. [Chapter 6: Operating Systems](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_16.html#bapp01-anchor-8)
+    1. [Chapter 7: Security](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_16.html#bapp01-anchor-9)
+    1. [Chapter 8: Mobile Devices](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_16.html#bapp01-anchor-10)
+    1. [Chapter 9: Troubleshooting](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_16.html#bapp01-anchor-11)
+1. [Appendix B: About the Additional Study Tools](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_17.html#bapp02-anchor-3)
+    1. [System Requirements](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_17.html#bapp02-anchor-4)
+    1. [Using the Study Tools](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_17.html#bapp02-anchor-5)
+    1. [Troubleshooting](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_17.html#bapp02-anchor-6)
+1. [Index](https://ebookreading.net/view/book/CompTIA+A%2B+Complete+Review+Guide%3A+Exams+220-801+and+220-802%2C+2nd+Edition-EB9781118421871_18.html)
