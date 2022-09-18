@@ -1,0 +1,145 @@
+![Cover image for Extending Ansible](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9781782175001.jpg)
+
+[Extending Ansible](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_1.html "Extending Ansible")
+====================================================================================================================
+
+Author : [Rishabh Das](https://ebookreading.net/search/author/Rishabh+Das)
+
+Release Date : 2016/03/01
+
+ISBN : 9781782175001
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ Discover how to efficiently deploy and customize Ansible in the way your platform demands
+About This Book
+Get the first book on the market that maximizes the functionalities of AnsibleMaster the skill of extending Ansible by deep diving into its modules and pluginsWork through this step-by-step guide to customizing Ansible according to your requirementsWho This Book Is For
+This book is perfect for developers and administrators who are familiar with Ansible and Python programming, but have no knowledge of how to customize Ansible.
+What You Will Learn
+Get a thorough understanding of Ansible modulesFind out everything about plugins that fit in the Ansible architectureGet to grips with designing modules and handling errorsWork with data structuresDistribute Ansible extensions using PyPi and Git submodulesGet to know the various distribution methods of modules and pluginsIn Detail
+Ansible is an IT automation tool that lets you manage your Infrastructure as a Code. It helps you deploy your applications and manage configurations, thus making life easier. Ansible, in most ways, is self sufficient to address most of your requirements.
+Ideally, standard modules, libraries, or plugins are used to automate a given IT platform. Customizing Ansible can be done by custom module and plugin development.
+This book shows you how to automate most of the tasks in your IT environment, thus minimizing the need to manually perform scheduled tasks and extend your Ansible implementation by developing customized modules and plugins.
+You'll begin by getting an understanding of the fundamental aspects of extending the Ansible framework, such as custom functions and reusable modules. You'll then progress to building custom plugins and extensions using the fundamental building blocks explained earlier. We'll also show you how to automate some tasks using scripts. Finally, we'll demonstrate how these extensions can be seamlessly integrated into existing Ansible installations and explain how to conduct unit testing on these extensions to ensure they work as desired.
+Style and approach 
+This book is a learning book on the fundamentals of Ansible framework and how it can be leveraged to extend it using the modules and plugins. 
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Extending Ansible](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_3.html)
+    1. [Table of Contents](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_2.html)
+    1. [Extending Ansible](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_4.html)
+    1. [Credits](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_5.html)
+    1. [About the Author](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_6.html)
+    1. [About the Reviewer](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_7.html)
+    1. [www.PacktPub.com](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_8.html)
+        1. [eBooks, discount offers, and more](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_8.html#ch00lvl1sec01)
+            1. [Why subscribe?](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_8.html#ch00lvl2sec01)
+    1. [Preface](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_9.html)
+        1. [What this book covers](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_9.html#ch00lvl1sec02)
+        1. [What you need for this book](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_10.html)
+        1. [Who this book is for](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_11.html)
+        1. [Conventions](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_12.html)
+        1. [Reader feedback](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_13.html)
+        1. [Customer support](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_14.html)
+            1. [Downloading the example code](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_14.html#ch00lvl2sec02)
+            1. [Errata](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_14.html#ch00lvl2sec03)
+            1. [Piracy](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_14.html#ch00lvl2sec04)
+            1. [Questions](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_14.html#ch00lvl2sec05)
+    1. [1. Getting Started with Ansible](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_15.html)
+        1. [Why Ansible?](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_15.html#ch01lvl1sec08)
+        1. [Why extend Ansible?](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_16.html)
+            1. [Need something new](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_16.html#ch01lvl2sec06)
+            1. [Company-wide abstraction](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_16.html#ch01lvl2sec07)
+            1. [Diving into Ansible](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_16.html#ch01lvl2sec08)
+        1. [Contributing to Ansible](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_17.html)
+        1. [Ansible architecture](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_18.html)
+            1. [Brief overview of Ansible components](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_18.html#ch01lvl2sec09)
+            1. [Ansible runner](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_18.html#ch01lvl2sec10)
+                1. [Connection plugins](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_18.html#ch01lvl3sec01)
+                1. [Playbook](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_18.html#ch01lvl3sec02)
+                1. [Roles](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_18.html#ch01lvl3sec03)
+                1. [Variables](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_18.html#ch01lvl3sec04)
+                1. [Facts](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_18.html#ch01lvl3sec05)
+                1. [Runner](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_18.html#ch01lvl3sec06)
+        1. [Playbook expressiveness](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_19.html)
+            1. [Extending Ansible](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_19.html#ch01lvl2sec11)
+                1. [Custom fact scripts](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_19.html#ch01lvl3sec07)
+                1. [Modules](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_19.html#ch01lvl3sec08)
+                1. [Plugins](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_19.html#ch01lvl3sec09)
+                1. [Python API](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_19.html#ch01lvl3sec10)
+        1. [Summary](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_20.html)
+    1. [2. Getting to Know Ansible Modules](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_21.html)
+        1. [Writing your first Ansible module](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_21.html#ch02lvl1sec14)
+            1. [Execution environment](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_21.html#ch02lvl2sec12)
+            1. [Step 1 – module placement](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_21.html#ch02lvl2sec13)
+            1. [Writing a basic Bash module](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_21.html#ch02lvl2sec14)
+            1. [Reading arguments](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_21.html#ch02lvl2sec15)
+            1. [Handling errors](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_21.html#ch02lvl2sec16)
+        1. [Creating Ansible modules in Python](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_22.html)
+            1. [The AnsibleModule boilerplate](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_22.html#ch02lvl2sec17)
+        1. [Documenting modules](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_23.html)
+        1. [Testing and debugging modules](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_24.html)
+        1. [Quick local execution](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_25.html)
+        1. [Best practices](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_26.html)
+        1. [Summary](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_27.html)
+    1. [3. Digging Deeper into Ansible Modules](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_28.html)
+        1. [Dry run (check mode)](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_28.html#ch03lvl1sec21)
+        1. [Loading modules](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_29.html)
+        1. [Exploiting Ansible](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_30.html)
+            1. [Diving deeper into the AnsibleModule boilerplate](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_30.html#ch03lvl2sec18)
+        1. [Complex arguments](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_31.html)
+            1. [Reading complex arguments](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_31.html#ch03lvl2sec19)
+        1. [Summary](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_32.html)
+    1. [4. Exploring API](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_33.html)
+        1. [Python API](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_33.html#ch04lvl1sec26)
+            1. [Runner](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_33.html#ch04lvl2sec20)
+            1. [Playbook](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_33.html#ch04lvl2sec21)
+            1. [Callbacks](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_33.html#ch04lvl2sec22)
+        1. [Ansible plugins](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_34.html)
+            1. [PluginLoader](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_34.html#ch04lvl2sec23)
+        1. [Summary](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_35.html)
+    1. [5. An In-Depth Look at Ansible Plugins](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_36.html)
+        1. [Lookup plugins](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_36.html#ch05lvl1sec29)
+            1. [Lookup pluginfile](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_36.html#ch05lvl2sec24)
+            1. [Lookup plugin – csvfile](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_36.html#ch05lvl2sec25)
+            1. [Lookup plugin – dig](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_36.html#ch05lvl2sec26)
+            1. [Lookup plugin – ini](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_36.html#ch05lvl2sec27)
+        1. [Loops – lookup plugins for iteration](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_37.html)
+            1. [Standard loop – with_items](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_37.html#ch05lvl2sec28)
+            1. [Do until loop–until](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_37.html#ch05lvl2sec29)
+            1. [Create your own lookup plugin](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_37.html#ch05lvl2sec30)
+        1. [Callback plugins](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_38.html)
+        1. [Var plugins](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_39.html)
+        1. [Connection plugins](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_40.html)
+        1. [Filter plugin](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_41.html)
+            1. [Using filters with conditions](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_41.html#ch05lvl2sec31)
+            1. [Version comparison](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_41.html#ch05lvl2sec32)
+            1. [IP address filter](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_41.html#ch05lvl2sec33)
+            1. [Understanding the code](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_41.html#ch05lvl2sec34)
+        1. [Summary](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_42.html)
+    1. [6. Fitting It All Together – Integration](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_43.html)
+        1. [Configuring Ansible](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_43.html#ch06lvl1sec36)
+            1. [Environment configuration](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_43.html#ch06lvl2sec35)
+        1. [Contributing to Ansible](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_44.html)
+        1. [Galaxy–sharing roles](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_45.html)
+        1. [Galaxy – best practices](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_46.html)
+        1. [Sharing modules and plugins](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_47.html)
+            1. [Getting a module into Ansible](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_47.html#ch06lvl2sec36)
+        1. [Getting plugins into Ansible](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_48.html)
+            1. [Points to remember](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_48.html#ch06lvl2sec37)
+        1. [Best practices](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_49.html)
+        1. [Summary](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_50.html)
+    1. [7. Becoming a Master – A Complete Configuration Guide](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_51.html)
+        1. [One playbook, different applications, multiple targets](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_51.html#ch07lvl1sec44)
+        1. [Ansible roles – using tags](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_52.html)
+        1. [Getting infrastructure information and hosting it centrally](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_53.html)
+        1. [Creating a dynamic inventory of just launched instances](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_54.html)
+        1. [Ansible through a bastion host](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_55.html)
+        1. [Happy managers = happy you](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_56.html)
+        1. [Summary](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_57.html)
+    1. [Index](https://ebookreading.net/view/book/Extending+Ansible-EB9781782175001_58.html)

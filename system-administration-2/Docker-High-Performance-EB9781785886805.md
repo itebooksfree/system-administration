@@ -1,0 +1,136 @@
+![Cover image for Docker High Performance](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9781785886805.jpg)
+
+[Docker High Performance](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_1.html "Docker High Performance")
+====================================================================================================================
+
+Author : [Allan Espinosa](https://ebookreading.net/search/author/Allan+Espinosa)
+
+Release Date : 2016/01/01
+
+ISBN : 9781785886805
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ Master performance enhancement practices for Docker, and unlock faster and more efficient container deployment that will improve your development workflow
+About This Book
+Implement a scalable Docker infrastructure that has been optimized for greater efficiencyTackle the challenges of large-scale container deployment with this fast-paced guideExtend your capabilities as a developer to take full advantage of Docker and containerizationWho This Book Is For
+If you are a software developer with a good understanding of managing Docker services and the Linux file system and are looking for ways to optimize working with Docker containers, then this is the book for you.
+What You Will Learn
+Tune your Dockerfiles and optimize the performance and size of your Docker containersConfigure and tune your Docker hosts at scale with ChefDeploy containers without downtime using load balancersListen to your Docker container and host logs with an ELK stackMonitor the performance of your Docker containers with collectdBenchmark the performance of your web application containers with Apache JMeterTroubleshoot and diagnose containers using standard Linux diagnostic toolsPrepare for production with the most effective DevOps practicesIn Detail
+Docker is a portable container format that allows you to run code anywhere from your desktop to the cloud. The workflow around Docker makes development, testing, and deployment much easier and much faster. However, it's essential that you know the best practices most techniques for optimization so Docker can help you deploy your application most effectively.
+This comprehensive guide will improve your Docker workflows and will ensure your application's production environment runs smoothly. It starts with a short refresher on working with Docker, then you will learn how to take this basic knowledge to the next level by optimizing your Docker infrastructure and applications at scale. At the end of the book, we will put the concepts and everything you have learned about Docker's features into practice by rolling out supplementary monitoring and troubleshooting instrumentation to your infrastructure. All of these things will ensure your application succeeds using Docker.
+Style and approach
+This is a comprehensive guide on real-world Docker workflows, and each topic is explained in an easy step-by-step format, accompanied by screenshots where required.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Docker High Performance](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_3.html)
+    1. [Table of Contents](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_2.html)
+    1. [Docker High Performance](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_4.html)
+    1. [Credits](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_5.html)
+    1. [About the Author](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_6.html)
+    1. [About the Reviewer](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_7.html)
+    1. [www.PacktPub.com](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_8.html)
+        1. [Support files, eBooks, discount offers, and more](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_8.html#ch00lvl1sec01)
+            1. [Why subscribe?](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_8.html#ch00lvl2sec01)
+            1. [Free access for Packt account holders](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_8.html#ch00lvl2sec02)
+    1. [Preface](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_9.html)
+        1. [What this book covers](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_9.html#ch00lvl1sec02)
+        1. [What you need for this book](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_10.html)
+        1. [Who this book is for](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_11.html)
+        1. [Conventions](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_12.html)
+        1. [Reader feedback](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_13.html)
+        1. [Customer support](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_14.html)
+            1. [Downloading the example code](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_14.html#ch00lvl2sec03)
+            1. [Errata](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_14.html#ch00lvl2sec04)
+            1. [Piracy](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_14.html#ch00lvl2sec05)
+            1. [Questions](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_14.html#ch00lvl2sec06)
+    1. [1. Preparing Docker Hosts](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_15.html)
+        1. [Preparing a Docker host](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_15.html#ch01lvl1sec08)
+        1. [Working with Docker images](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_16.html)
+            1. [Building Docker images](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_16.html#ch01lvl2sec07)
+            1. [Pushing Docker images to a repository](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_16.html#ch01lvl2sec08)
+            1. [Pulling Docker images from a repository](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_16.html#ch01lvl2sec09)
+        1. [Running Docker containers](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_17.html)
+            1. [Exposing container ports](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_17.html#ch01lvl2sec10)
+            1. [Publishing container ports](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_17.html#ch01lvl2sec11)
+                1. [--publish-all](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_17.html#ch01lvl3sec01)
+                1. [--publish](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_17.html#ch01lvl3sec02)
+            1. [Linking containers](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_17.html#ch01lvl2sec12)
+            1. [Interactive containers](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_17.html#ch01lvl2sec13)
+        1. [Summary](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_18.html)
+    1. [2. Optimizing Docker Images](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_19.html)
+        1. [Reducing deployment time](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_19.html#ch02lvl1sec12)
+        1. [Improving image build time](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_20.html)
+            1. [Using registry mirrors](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_20.html#ch02lvl2sec14)
+            1. [Reusing image layers](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_20.html#ch02lvl2sec15)
+            1. [Reducing the build context size](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_20.html#ch02lvl2sec16)
+            1. [Using caching proxies](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_20.html#ch02lvl2sec17)
+        1. [Reducing Docker image size](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_21.html)
+            1. [Chaining commands](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_21.html#ch02lvl2sec18)
+            1. [Separating build and deployment images](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_21.html#ch02lvl2sec19)
+        1. [Summary](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_22.html)
+    1. [3. Automating Docker Deployments with Chef](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_23.html)
+        1. [An introduction to configuration management](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_23.html#ch03lvl1sec16)
+        1. [Using Chef](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_24.html)
+            1. [Signing up for a Chef server](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_24.html#ch03lvl2sec20)
+            1. [Setting up our workstation](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_24.html#ch03lvl2sec21)
+            1. [Bootstrap nodes](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_24.html#ch03lvl2sec22)
+        1. [Configuring the Docker host](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_25.html)
+        1. [Deploying Docker containers](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_26.html)
+        1. [Alternative methods](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_27.html)
+        1. [Summary](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_28.html)
+    1. [4. Monitoring Docker Hosts and Containers](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_29.html)
+        1. [The importance of monitoring](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_29.html#ch04lvl1sec22)
+        1. [Collecting metrics to Graphite](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_30.html)
+            1. [Graphite in production](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_30.html#ch04lvl2sec23)
+        1. [Monitoring with collectd](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_31.html)
+            1. [Collecting Docker-related data](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_31.html#ch04lvl2sec24)
+                1. [Running collectd inside Docker](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_31.html#ch04lvl3sec03)
+        1. [Consolidating logs in an ELK stack](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_32.html)
+        1. [Forwarding Docker container logs](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_33.html)
+        1. [Other monitoring and logging solutions](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_34.html)
+        1. [Summary](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_35.html)
+    1. [5. Benchmarking](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_36.html)
+        1. [Setting up Apache JMeter](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_36.html#ch05lvl1sec29)
+            1. [Deploying a sample application](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_36.html#ch05lvl2sec25)
+            1. [Installing JMeter](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_36.html#ch05lvl2sec26)
+        1. [Building a benchmark workload](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_37.html)
+            1. [Creating a test plan in JMeter](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_37.html#ch05lvl2sec27)
+        1. [Analyzing benchmark results](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_38.html)
+            1. [Viewing the results of JMeter runs](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_38.html#ch05lvl2sec28)
+                1. [Calculating throughput](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_38.html#ch05lvl3sec04)
+                1. [Plotting response time](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_38.html#ch05lvl3sec05)
+            1. [Observing performance in Graphite and Kibana](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_38.html#ch05lvl2sec29)
+        1. [Tuning the benchmark](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_39.html)
+            1. [Increasing concurrency](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_39.html#ch05lvl2sec30)
+            1. [Running distributed tests](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_39.html#ch05lvl2sec31)
+        1. [Other benchmarking tools](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_40.html)
+        1. [Summary](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_41.html)
+    1. [6. Load Balancing](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_42.html)
+        1. [Preparing a Docker host farm](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_42.html#ch06lvl1sec35)
+        1. [Balancing load with Nginx](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_43.html)
+        1. [Scaling out our Docker applications](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_44.html)
+            1. [Deploying with zero downtime](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_44.html#ch06lvl2sec32)
+        1. [Other load balancers](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_45.html)
+        1. [Summary](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_46.html)
+    1. [7. Troubleshooting Containers](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_47.html)
+        1. [Inspecting containers](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_47.html#ch07lvl1sec40)
+        1. [Debugging from the outside](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_48.html)
+            1. [Tracing system calls](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_48.html#ch07lvl2sec33)
+            1. [Analyzing network packets](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_48.html#ch07lvl2sec34)
+            1. [Observing block devices](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_48.html#ch07lvl2sec35)
+        1. [A stack of troubleshooting tools](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_49.html)
+        1. [Summary](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_50.html)
+    1. [8. Onto Production](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_51.html)
+        1. [Performing web operations](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_51.html#ch08lvl1sec44)
+        1. [Supporting web applications with Docker](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_52.html)
+        1. [Deploying applications](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_53.html)
+        1. [Scaling applications](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_54.html)
+        1. [Further reading](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_55.html)
+        1. [Summary](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_56.html)
+    1. [Index](https://ebookreading.net/view/book/Docker+High+Performance-EB9781785886805_57.html)

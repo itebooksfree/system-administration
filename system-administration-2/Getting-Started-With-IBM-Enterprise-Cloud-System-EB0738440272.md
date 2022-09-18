@@ -1,0 +1,132 @@
+![Cover image for Getting Started With IBM Enterprise Cloud System](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB0738440272.jpg)
+
+[Getting Started With IBM Enterprise Cloud System](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_1.html "Getting Started With IBM Enterprise Cloud System")
+====================================================================================================================
+
+Author : [Qi Ye](https://ebookreading.net/search/author/Qi+Ye),[ Ashley Freeth](https://ebookreading.net/search/author/+Ashley+Freeth),[ Liliana Draghici](https://ebookreading.net/search/author/+Liliana+Draghici),[ Bill White](https://ebookreading.net/search/author/+Bill+White)
+
+Release Date : 2014/12/01
+
+ISBN : 0738440272
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+This IBM® Redbooks® publication introduces the IBM Enterprise Cloud System to new users of IBM System z®. We include high-level descriptions of this solution, its value and architecture, and how best to get started. The Enterprise Cloud System is a pre-integrated cloud infrastructure solution that is designed to help you meet the unique needs of hosting enterprise grade applications in the cloud, quickly and affordably.
+In uniting the IBM leading mainframe, storage, and software technologies, the Enterprise Cloud System delivers a ready-to-use, easy-to-consume, highly manageable cloud. This enables service providers to rapidly deploy a trusted, scalable, OpenStack-managed, Linux-based cloud environment.
+With the ability to start small and scale up to 6,000 virtual machines (VMs) in a single footprint, this solution can provide superior service for half the cost of x86-based public or private cloud alternatives.
+The Enterprise Cloud System provides the tools to create and manage cloud environments and to build complex workflows for deployment as patterns for later reuse. The scenarios in this book identify the required components and steps to build and deploy specific cloud services.
+This book is directed to IT architects and systems administrators who perform the following tasks:
+Manage and operate an Enterprise Cloud System infrastructure
+Develop and deploy services
+Monitor Enterprise Cloud System performance
+Back up and restore data
+              
+Table of Contents
+-----------------
+
+1. [Front cover](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_1.html)
+1. [Notices](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_3.html)
+    1. [Trademarks](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_3.html#ww459879)
+1. [IBM Redbooks promotions](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_4.html)
+1. [Preface](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_5.html)
+    1. [Authors](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_5.html#ww786648)
+    1. [Now you can become a published author, too!](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_5.html#ww786870)
+    1. [Comments welcome](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_5.html#ww775129)
+    1. [Stay connected to IBM Redbooks](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_5.html#ww782351)
+1. [Chapter 1. Introducing the IBM Enterprise Cloud System](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html)
+    1. [1.1 Enterprise Cloud System overview](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww460940)
+        1. [1.1.1 The value of the Enterprise Cloud System](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww460959)
+    1. [1.2 Architectural overview of the Enterprise Cloud System](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww460986)
+        1. [1.2.1 Core infrastructure](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww462164)
+        1. [1.2.2 Virtualization and cloud management infrastructure](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww461043)
+    1. [1.3 Core infrastructure components](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww461123)
+        1. [1.3.1 zEnterprise System](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww461125)
+        1. [1.3.2 System storage](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww461137)
+        1. [1.3.3 Network infrastructure](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww466227)
+    1. [1.4 Virtualization management](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww461146)
+        1. [1.4.1 IBM z/VM V6.3](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww461148)
+        1. [1.4.2 IBM Wave for z/VM V1.1](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww461180)
+    1. [1.5 Performance monitoring](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww473172)
+    1. [1.6 Backup and restore](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww461251)
+    1. [1.7 Cloud management](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww472148)
+        1. [1.7.1 IBM SmartCloud Orchestrator](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww461297)
+        1. [1.7.2 Systems Management APIs (SMAPIs)](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww463807)
+        1. [1.7.3 Extreme Cloud Administration Tool (xCAT)](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_6.html#ww463852)
+1. [Chapter 2. Managing the Enterprise Cloud System](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html)
+    1. [2.1 Getting started with Enterprise Cloud System components](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww463072)
+        1. [2.1.1 Getting started with IBM Wave for z/VM](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww477364)
+        1. [2.1.2 Getting started with the IBM Tivoli Monitoring Portal](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww477642)
+        1. [2.1.3 Getting started with TN3270 emulator](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww477686)
+        1. [2.1.4 Getting started with Tivoli Storage Manager Operation Center](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww506222)
+        1. [2.1.5 Getting started with the zEnterprise HMC](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww498436)
+    1. [2.2 Enterprise Cloud System virtualization management](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww498871)
+        1. [2.2.1 Modifying CPU resources](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww461377)
+        1. [2.2.2 Modifying memory resources](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww461138)
+        1. [2.2.3 Managing virtual storage](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww464354)
+        1. [2.2.4 Managing virtual networks](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww464470)
+        1. [2.2.5 Relocating VMs (instances)](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww474417)
+        1. [2.2.6 Installing a new Linux virtual machine](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww476393)
+    1. [2.3 Performance monitoring](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww500490)
+        1. [2.3.1 Accessing the Tivoli Monitoring portal](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww476395)
+        1. [2.3.2 Monitoring the z/VM hypervisor](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww476412)
+        1. [2.3.3 Monitoring VMs](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww476463)
+        1. [2.3.4 Alerting](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww476471)
+    1. [2.4 Back up and restore data](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww461258)
+        1. [2.4.1 Back up and restore the hypervisor (z/VM) system files](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww460919)
+        1. [2.4.2 Back up and restore Linux VM data](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww474317)
+    1. [2.5 Security administration in the Enterprise Cloud System](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww479263)
+        1. [2.5.1 Controlling VM access from the hypervisor side](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww479254)
+        1. [2.5.2 Adding data network security to a new virtual switch and VLAN](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww481430)
+        1. [2.5.3 Protecting VM disks](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww481412)
+    1. [2.6 Operational monitoring and automation](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww499410)
+        1. [2.6.1 Operational monitoring](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww499439)
+        1. [2.6.2 Operational alerting](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww499885)
+        1. [2.6.3 Operational automation](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_7.html#ww500285)
+1. [Chapter 3. Delivering cloud services on the Enterprise Cloud System](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html)
+    1. [3.1 Accessing the SmartCloud Orchestrator environment](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461002)
+    1. [3.2 Onboard your customers, projects, and users](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461032)
+        1. [3.2.1 Users, projects, and domains](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461039)
+        1. [3.2.2 Roles](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461042)
+        1. [3.2.3 Create a customer domain](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461047)
+        1. [3.2.4 Create a project](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461064)
+        1. [3.2.5 Create a user](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461092)
+    1. [3.3 Build a virtual image](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461118)
+        1. [3.3.1 Create a Linux on System z source and loading scripts](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461129)
+        1. [3.3.2 Capture an image in xCAT](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461249)
+        1. [3.3.3 Upload an image to Glance](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461345)
+        1. [3.3.4 Add a virtual image to the catalog](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461369)
+    1. [3.4 Manage script packages](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww461382)
+    1. [3.5 Building a virtual system pattern](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww465973)
+    1. [3.6 Managing orchestration](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww466011)
+        1. [3.6.1 Self-service offerings](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww466019)
+        1. [3.6.2 Create an orchestration action](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww466024)
+    1. [3.7 Defining flavors](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww466073)
+    1. [3.8 Managing self-service offerings](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww466173)
+        1. [3.8.1 Create a self-service category](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww466182)
+        1. [3.8.2 Create a new self-service offering](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww466211)
+    1. [3.9 Importing content from the marketplace](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_8.html#ww466245)
+1. [Related publications](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_9.html)
+    1. [IBM Redbooks](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_9.html#ww454350)
+    1. [Other publications](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_9.html#ww455983)
+    1. [Online resources](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_9.html#ww455988)
+    1. [Help from IBM](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_9.html#ww456261)
+1. [Back cover](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_11.html#ww465861)
+1. [IBM System x Reference Architecture for Hadoop: IBM InfoSphere BigInsights Reference Architecture](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html)
+    1. [Introduction](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww510185)
+    1. [Business problem and business value](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww468750)
+    1. [Reference architecture use](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww549180)
+    1. [Requirements](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww476823)
+    1. [InfoSphere BigInsights predefined configuration](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww501885)
+    1. [InfoSphere BigInsights HBase predefined configuration](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww494430)
+    1. [Deployment considerations](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww497300)
+    1. [Customizing the predefined configurations](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww497358)
+    1. [Predefined configuration bill of materials](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww552575)
+    1. [References](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww477676)
+    1. [The team who wrote this paper](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww471347)
+    1. [Now you can become a published author, too!](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww471408)
+    1. [Stay connected to IBM Redbooks](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_12.html#ww471445)
+1. [Notices](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_13.html)
+    1. [Trademarks](https://ebookreading.net/view/book/Getting+Started+With+IBM+Enterprise+Cloud+System-EB0738440272_13.html#ww459879)

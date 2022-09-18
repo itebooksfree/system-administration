@@ -1,0 +1,145 @@
+![Cover image for Deploying and Managing a Cloud Infrastructure: Real-World Skills for the CompTIA Cloud+ Certification and Beyond: Exam CV0-001](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9781118875100.jpg)
+
+[Deploying and Managing a Cloud Infrastructure: Real-World Skills for the CompTIA Cloud+ Certification and Beyond: Exam CV0-001](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_1.html "Deploying and Managing a Cloud Infrastructure: Real-World Skills for the CompTIA Cloud+ Certification and Beyond: Exam CV0-001")
+====================================================================================================================
+
+Author : [Abdul Salam](https://ebookreading.net/search/author/Abdul+Salam),[ Salman Ul Haq](https://ebookreading.net/search/author/+Salman+Ul+Haq),[ Zafar Gilani](https://ebookreading.net/search/author/+Zafar+Gilani)
+
+Release Date : 2015/01/01
+
+ISBN : 9781118875100
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+Learn in-demand cloud computing skills from industry experts
+Deploying and Managing a Cloud Infrastructure is an excellent resource for IT professionals seeking to tap into the demand for cloud administrators. This book helps prepare candidates for the CompTIA Cloud+ Certification (CV0-001) cloud computing certification exam. Designed for IT professionals with 2-3 years of networking experience, this certification provides validation of your cloud infrastructure knowledge.
+With over 30 years of combined experience in cloud computing, the author team provides the latest expert perspectives on enterprise-level mobile computing, and covers the most essential topics for building and maintaining cloud-based systems, including:
+Understanding basic cloud-related computing concepts, terminology, and characteristics
+Identifying cloud delivery solutions and deploying new infrastructure
+Managing cloud technologies, services, and networks
+Monitoring hardware and software performance
+Featuring real-world examples and interactive exercises, Deploying and Managing Cloud Infrastructure delivers practical knowledge you can apply immediately. And, in addition, you also get access to a full set of electronic study tools including:
+Interactive Test Environment
+Electronic Flashcards
+Glossary of Key Terms
+Now is the time to learn the cloud computing skills you need to take that next step in your IT career.
+              
+Table of Contents
+-----------------
+
+1. [Cover Page](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_1.html)
+1. [Title Page](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_2.html)
+1. [Copyright](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_3.html)
+1. [Dedication](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_4.html)
+1. [Acknowledgments](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_5.html)
+1. [About the Authors](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_6.html)
+1. [Contents at a Glance](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_7.html)
+1. [Contents](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_8.html)
+1. [Table of Exercises](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_9.html)
+1. [Introduction](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_11.html#introduction)
+1. [Chapter 1: Understanding Cloud Characteristics](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_12.html#chap1)
+    1. [Basic Terms and Characteristics](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_12.html#s2h001)
+    1. [Object Storage Concepts](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_12.html#s2h026)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_12.html#s2h041)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_12.html#s2h042)
+1. [Chapter 2: To Grasp the Cloud—Fundamental Concepts](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_13.html#chap2)
+    1. [The True Nature of the Cloud](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_13.html#s2h043)
+    1. [Virtualization and Scalability](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_13.html#s2h050)
+    1. [The Cloud Hypervisor](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_13.html#s2h053)
+    1. [Key Benefits of Implementing Hypervisors](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_13.html#s2h081)
+    1. [Foundations of Cloud Computing](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_13.html#s2h090)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_13.html#s2h095)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_13.html#s2h096)
+1. [Chapter 3: Within the Cloud: Technical Concepts of Cloud Computing](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_14.html#chap3)
+    1. [Technical Basics of Cloud and Scalable Computing](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_14.html#s2h097)
+    1. [The Cloud Infrastructure](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_14.html#s2h108)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_14.html#s2h113)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_14.html#s2h114)
+1. [Chapter 4: Cloud Management](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_15.html#chap4)
+    1. [Understanding Cloud Management Platforms](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_15.html#s2h115)
+    1. [Service-Level Agreements](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_15.html#s2h123)
+    1. [Policies and Procedures](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_15.html#s2h124)
+    1. [Managing Cloud Workloads](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_15.html#s2h144)
+    1. [Securing Data in the Cloud](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_15.html#s2h147)
+    1. [Managing Devices](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_15.html#s2h148)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_15.html#s2h151)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_15.html#s2h152)
+1. [Chapter 5: Diagnosis and Performance Monitoring](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_16.html#chap5)
+    1. [Performance Concepts](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_16.html#s2h153)
+    1. [Disk Performance](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_16.html#s2h172)
+    1. [Impact of Configuration Changes](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_16.html#s2h186)
+    1. [Common Issues](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_16.html#s2h187)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_16.html#s2h188)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_16.html#s2h189)
+1. [Chapter 6: Cloud Delivery and Hosting Models](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_17.html#chap6)
+    1. [Private](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_17.html#s2h190)
+    1. [Public](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_17.html#s2h193)
+    1. [Hybrid](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_17.html#s2h194)
+    1. [Community](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_17.html#s2h195)
+    1. [On-Premises vs. Off-Premises Hosting](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_17.html#s2h196)
+    1. [Accountability and Responsibility Based on Delivery Models](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_17.html#s2h205)
+    1. [Security Differences between Models](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_17.html#s2h210)
+    1. [Functionality and Performance Validation](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_17.html#s2h214)
+    1. [Orchestration Platforms](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_17.html#s2h218)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_17.html#s2h219)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_17.html#s2h220)
+1. [Chapter 7: Practical Cloud Knowledge: Install, Configure, and Manage](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_18.html#chap7)
+    1. [Setting Up the Cloud](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_18.html#s2h221)
+    1. [Virtual Resource Migration](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_18.html#s2h249)
+    1. [Virtual Components of the Cloud](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_18.html#s2h258)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_18.html#s2h266)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_18.html#s2h267)
+1. [Chapter 8: Hardware Management](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_19.html#chap8)
+    1. [Cloud Hardware Resources](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_19.html#s2h268)
+    1. [Management Differences between Public, Private, and Hybrid Clouds](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_19.html#s2h297)
+    1. [Tiering](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_19.html#s2h301)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_19.html#s2h306)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_19.html#s2h307)
+1. [Chapter 9: Storage Provisioning and Networking](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_20.html#chap9)
+    1. [Cloud Storage Concepts](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_20.html#s2h308)
+    1. [Cloud vs. SAN Storage](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_20.html#s2h316)
+    1. [Cloud Provisioning](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_20.html#s2h319)
+    1. [Cloud Storage Technology](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_20.html#s2h329)
+    1. [Cloud Storage Gateway](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_20.html#s2h347)
+    1. [Cloud Security and Privacy](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_20.html#s2h348)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_20.html#s2h352)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_20.html#s2h353)
+1. [Chapter 10: Testing and Deployment: Quality Is King](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_21.html#chap10)
+    1. [Overview of Deployment Models](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_21.html#s2h354)
+    1. [Cloud Management Strategies](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_21.html#s2h360)
+    1. [Cloud Architecture](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_21.html#s2h366)
+    1. [Cloud Deployment Options](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_21.html#s2h370)
+    1. [Creating and Deploying Cloud Services](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_21.html#s2h382)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_21.html#s2h390)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_21.html#s2h391)
+1. [Chapter 11: Cloud Computing Standards and Security](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_22.html#chap11)
+    1. [Cloud Computing Standards](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_22.html#s2h392)
+    1. [Security Concepts and Tools](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_22.html#s2h395)
+    1. [Encryption Techniques](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_22.html#s2h407)
+    1. [Access Control Methods](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_22.html#s2h412)
+    1. [Implementing Guest and Host Hardening Techniques](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_22.html#s2h420)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_22.html#s2h425)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_22.html#s2h426)
+1. [Chapter 12: The Cloud Makes It Rain Money: The Business in Cloud Computing](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_23.html#chap12)
+    1. [The Nature of Cloud Business](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_23.html#s2h427)
+    1. [Cloud Service Business Models](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_23.html#s2h431)
+    1. [The Enterprise Cloud](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_23.html#s2h443)
+    1. [Disaster Recovery](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_23.html#s2h447)
+    1. [Business Continuity and Cloud Computing](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_23.html#s2h451)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_23.html#s2h455)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_23.html#s2h456)
+1. [Chapter 13: Planning for Cloud Integration: Pitfalls and Advantages](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_24.html#chap13)
+    1. [Work Optimization](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_24.html#s2h457)
+    1. [The Right Cloud Model](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_24.html#s2h468)
+    1. [Adapting Organizational Culture for the Cloud](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_24.html#s2h474)
+    1. [Potholes on the Cloud Road](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_24.html#s2h478)
+    1. [Summary](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_24.html#s2h481)
+    1. [Chapter Essentials](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_24.html#s2h482)
+1. [Appendix: The CompTIA Cloud+ Certification Exam](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_25.html#appendix)
+    1. [Preparing for the Exam](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_25.html#s2h483)
+    1. [Taking the Exam](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_25.html#s2h484)
+    1. [Reviewing the Exam Objectives](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_25.html#s2h485)
+1. [Index](https://ebookreading.net/view/book/Deploying+and+Managing+a+Cloud+Infrastructure%3A+Real-World+Skills+for+the+CompTIA+Cloud%2B+Certification+and+Beyond%3A+Exam+CV0-001-EB9781118875100_26.html#index)

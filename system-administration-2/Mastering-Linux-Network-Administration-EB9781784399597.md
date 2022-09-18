@@ -1,0 +1,142 @@
+![Cover image for Mastering Linux Network Administration](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9781784399597.jpg)
+
+[Mastering Linux Network Administration](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_1.html "Mastering Linux Network Administration")
+====================================================================================================================
+
+Author : [Jay LaCroix](https://ebookreading.net/search/author/Jay+LaCroix)
+
+Release Date : 2015/11/01
+
+ISBN : 9781784399597
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ Master the skills and techniques that are required to design, deploy, and administer real Linux-based networks
+About This Book
+Master the art of using Linux and administering network services for enterprise environmentsPerform hands-on activities to reinforce expert-level knowledgeGet full coverage of both the CentOS and Debian systems, including how networking concepts differ for eachWho This Book Is For
+Mastering Linux Network Administration is recommended for those who already understand the basics of using Linux and networking, and would like to push those skills to a higher level through real-world Linux networking scenarios. Whether you intend to run a home office consisting of Linux nodes or a rollout of a Linux network within your organization, this book is a great fit for those that desire to learn how to manage networked systems with the power of Linux.
+What You Will Learn
+Install and configure the Debian and CentOS systemsSet up and configure file serversAdminister networked nodes remotelyDiscover how to monitor system performance for peak healthConfigure network services such as DNS and DHCPHost HTTP content via ApacheTroubleshoot Linux networking issuesIn Detail
+Linux is everywhere. Whether you run a home office, a small business, or manage enterprise systems, Linux can empower your network to perform at its very best. Armed with the advanced tools and best practice guidance of this practical guide, you'll be able to mold Linux networks to your will, empowering your systems and their users to take advantage of all that Linux-based networks have to offer.
+Understand how Linux networks function and get to grips with essential tips and tricks to manage them - whether you're already managing a networks, or even just starting out. With Debian and CentOS as its source, this book will divulge all the details you need to manage a real Linux-based network. With detailed activities and instructions based on real-world scenarios, this book will be your guide to the exciting world of Linux networking.
+Style and approach
+This practical guide will walk you through all the core concepts required to manage real Linux-based networks.
+Downloading the example code for this book. You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the code file.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Mastering Linux Network Administration](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_3.html)
+    1. [Table of Contents](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_2.html)
+    1. [Mastering Linux Network Administration](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_4.html)
+    1. [Credits](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_5.html)
+    1. [About the Author](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_6.html)
+    1. [About the Reviewers](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_7.html)
+    1. [www.PacktPub.com](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_8.html)
+        1. [Support files, eBooks, discount offers, and more](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_8.html#ch00lvl1sec01)
+            1. [Why subscribe?](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_8.html#ch00lvl2sec01)
+            1. [Free access for Packt account holders](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_8.html#ch00lvl2sec02)
+    1. [Preface](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_9.html)
+        1. [What this book covers](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_9.html#ch00lvl1sec02)
+        1. [What you need for this book](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_10.html)
+        1. [Who this book is for](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_11.html)
+        1. [Conventions](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_12.html)
+        1. [Reader feedback](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_13.html)
+        1. [Customer support](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_14.html)
+            1. [Downloading the example code](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_14.html#ch00lvl2sec03)
+            1. [Downloading the color images of this book](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_14.html#ch00lvl2sec04)
+            1. [Errata](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_14.html#ch00lvl2sec05)
+            1. [Piracy](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_14.html#ch00lvl2sec06)
+            1. [Questions](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_14.html#ch00lvl2sec07)
+    1. [1. Setting up Your Environment](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_15.html)
+        1. [Getting started](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_15.html#ch01lvl1sec08)
+        1. [Distributions to consider](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_16.html)
+        1. [Physical machines versus virtual machines](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_17.html)
+        1. [Setting up and configuring VirtualBox](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_18.html)
+            1. [Acquiring VirtualBox](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_18.html#ch01lvl2sec08)
+            1. [Downloading and installing the Extension Pack](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_18.html#ch01lvl2sec09)
+        1. [Acquiring and installing Debian 8](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_19.html)
+        1. [Acquiring and installing CentOS 7](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_20.html)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_21.html)
+    1. [2. Revisiting Linux Network Basics](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_22.html)
+        1. [Understanding the TCP/IP protocol suite](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_22.html#ch02lvl1sec15)
+        1. [Naming the network device](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_23.html)
+        1. [Understanding Linux hostname resolution](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_24.html)
+        1. [Understanding the net-tools and iproute2 suites](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_25.html)
+        1. [Manually managing network interfaces](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_26.html)
+        1. [Managing connections with Network Manager](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_27.html)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_28.html)
+    1. [3. Communicating Between Nodes via SSH](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_29.html)
+        1. [Using OpenSSH](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_29.html#ch03lvl1sec22)
+        1. [Installing and configuring OpenSSH](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_30.html)
+            1. [Connecting to network hosts via openssh-client](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_30.html#ch03lvl2sec10)
+        1. [The OpenSSH config file](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_31.html)
+        1. [Understanding and utilizing scp](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_32.html)
+            1. [Transferring files to another node via scp](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_32.html#ch03lvl2sec11)
+            1. [Tunneling traffic via SSH](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_32.html#ch03lvl2sec12)
+        1. [Generating public keys](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_33.html)
+        1. [Keeping SSH connections alive](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_34.html)
+        1. [Exploring an alternative to SSH – utilizing Mosh (mobile shell)](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_35.html)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_36.html)
+    1. [4. Setting up a File Server](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_37.html)
+        1. [File server considerations](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_37.html#ch04lvl1sec30)
+        1. [NFS v3 versus NFS v4](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_38.html)
+            1. [Setting up an NFS server](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_38.html#ch04lvl2sec13)
+        1. [Learning the basics of Samba](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_39.html)
+            1. [Setting up a Samba server](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_39.html#ch04lvl2sec14)
+        1. [Mounting network shares](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_40.html)
+        1. [Automatically mounting network shares via fstab and systemd](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_41.html)
+        1. [Creating networked filesystems with SSHFS](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_42.html)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_43.html)
+    1. [5. Monitoring System Resources](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_44.html)
+        1. [Inspecting and managing processes](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_44.html#ch05lvl1sec37)
+        1. [Understanding load average](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_45.html)
+        1. [Checking available memory](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_46.html)
+        1. [Using shell-based resource monitors](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_47.html)
+        1. [Scanning used storage](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_48.html)
+        1. [Introduction to logging](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_49.html)
+        1. [Maintaining log size with logrotate](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_50.html)
+        1. [Understanding the systemd init system](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_51.html)
+        1. [Understanding the systemd journal](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_52.html)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_53.html)
+    1. [6. Configuring Network Services](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_54.html)
+        1. [Planning your IP address layout](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_54.html#ch06lvl1sec47)
+        1. [Installing and configuring a DHCP server](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_55.html)
+        1. [Installing and configuring a DNS server](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_56.html)
+        1. [Setting up an internal NTP server](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_57.html)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_58.html)
+    1. [7. Hosting HTTP Content via Apache](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_59.html)
+        1. [Installing Apache](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_59.html#ch07lvl1sec52)
+        1. [Configuring Apache](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_60.html)
+        1. [Adding modules](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_61.html)
+        1. [Setting up virtual hosts](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_62.html)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_63.html)
+    1. [8. Understanding Advanced Networking Concepts](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_64.html)
+        1. [Dividing your network into subnets](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_64.html#ch08lvl1sec57)
+        1. [Understanding the CIDR notation](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_65.html)
+        1. [Implementing Quality of Service](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_66.html)
+        1. [Routing TCP/IP traffic](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_67.html)
+        1. [Creating redundant DHCP and DNS servers](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_68.html)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_69.html)
+    1. [9. Securing Your Network](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_70.html)
+        1. [Limiting the attack surface](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_70.html#ch09lvl1sec63)
+        1. [Securing OpenSSH](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_71.html)
+        1. [Configuring the iptables firewall](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_72.html)
+        1. [Protecting system services with fail2ban](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_73.html)
+        1. [Understanding SELinux](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_74.html)
+        1. [Configuring Apache to utilize SSL](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_75.html)
+        1. [Deploying security updates](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_76.html)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_77.html)
+    1. [10. Troubleshooting Network Issues](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_78.html)
+        1. [Tracing routing issues](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_78.html#ch10lvl1sec71)
+        1. [Troubleshooting DHCP issues](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_79.html)
+        1. [Troubleshooting DNS issues](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_80.html)
+        1. [Displaying connection statistics with netstat](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_81.html)
+        1. [Scanning your network with Nmap and Zenmap](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_82.html)
+        1. [Installing missing firmware on Debian systems](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_83.html)
+        1. [Troubleshooting issues with Network Manager](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_84.html)
+        1. [Summary](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_85.html)
+    1. [Index](https://ebookreading.net/view/book/Mastering+Linux+Network+Administration-EB9781784399597_86.html)

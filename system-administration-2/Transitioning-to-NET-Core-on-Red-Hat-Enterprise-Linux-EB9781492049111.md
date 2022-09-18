@@ -1,0 +1,103 @@
+![Cover image for Transitioning to .NET Core on Red Hat Enterprise Linux](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9781492049111.jpg)
+
+[Transitioning to .NET Core on Red Hat Enterprise Linux](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_1.html "Transitioning to .NET Core on Red Hat Enterprise Linux")
+====================================================================================================================
+
+Author : [Don Schenck](https://ebookreading.net/search/author/Don+Schenck)
+
+Release Date : 2016/09/01
+
+ISBN : 9781492049111
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+Everything in the .NET world has changed, and decidedly for the better. Not only is .NET Core now an open source framework, but thanks to Microsoft’s recent partnership with Red Hat, you can develop and run .NET web applications on Linux. In this report, author Don Schenck shows you how to create simple applications with ASP.NET, MVC, and Entity Framework, and then helps you tackle a full-featured application running in a Linux container.             
+                 If you have experience with .NET and the C# language—or a willingness to learn them—you’re ready to go. Experienced developers will be interested in the few key differences when developing for Linux, while beginning developers can use this book to learn some more advanced programming techniques.             
+   Build "hello world" console and web apps, and then examine the code output  Create a more complex model-view-controller web app with the ASP.NET MVC framework  Develop a RESTful service with the same techniques and technologies used for your MVC website  Get acquainted with several new features in Entity Framework Core 1.0  Use Visual Studio Code, the free code editor that supports several languages and operating systems  Learn how to keep and run your code in Linux and edit it in Windows  Perform "offroad debugging" on .NET applications from Visual Studio                Don Schenck is the Director of Developer Experience at Red Hat, focusing on Microsoft .NET on Linux. His mission is to bring .NET developers into the Linux and open source communities. Prior to Red Hat, Don was a front-end and mobile developer.             
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [What to Expect from This Book](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_5.html#idm139933622889600)
+    1. [Some Assumptions](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_5.html#idm139933622847888)
+    1. [Your Environment](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_5.html#idm139933622058592)
+    1. [Formatting](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_5.html#idm139933622851472)
+    1. [.NET Core Is the Future](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_5.html#idm139933619125056)
+    1. [What’s Missing](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_5.html#idm139933619124768)
+    1. [What’s New](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_5.html#idm139933618430592)
+1. [1. Setting Up Your Environment](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_6.html#setting_up_your_env)
+    1. [Your Red Hat Account](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_6.html#idm139933622897360)
+    1. [Installing the CDK](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_6.html#idm139933622572608)
+    1. [Disable Hyper-V](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_6.html#idm139933618442448)
+    1. [Start Your VM](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_6.html#idm139933618436480)
+    1. [Getting the Source Code](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_6.html#idm139933618242672)
+1. [2. Getting Started: From Zero to “Hello World” in One Chapter](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618191680)
+    1. [From Zero to “Hello World” in One Chapter](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618237216)
+    1. [Overview of .NET](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618199584)
+    1. [Installing .NET](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618193376)
+        1. [.NET CLR  ](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618231328)
+        1. [.NET CoreFX ](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618229552)
+        1. [.NET CLI](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618226080)
+        1. [ASP.NET Core ](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618224176)
+        1. [Tooling ](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618221824)
+        1. [Installation Instructions](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618216912)
+        1. [Other Linux Distros](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618175776)
+        1. [Keeping Current](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618119472)
+    1. [Your First .NET Application on Linux](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_7.html#idm139933618192752)
+1. [3. Diving into the “Hello World” Application](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_8.html#diving_into_the_hel)
+    1. [The dotnet new Command](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_8.html#idm139933618057552)
+    1. [The dotnet restore Command](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_8.html#idm139933618056896)
+        1. [What Gets Restored?](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_8.html#idm139933617946896)
+        1. [Where Do the Dependencies Go?](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_8.html#idm139933618010320)
+    1. [Library Versioning in project.json](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_8.html#library-versioning)
+    1. [What Gets Built?](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_8.html#idm139933617928608)
+1. [4. “Hello World” for the Web](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_9.html#hello_world_for_the)
+    1. [The Kestrel Web Server](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_9.html#idm139933617911024)
+    1. [The project.json File](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_9.html#idm139933617709808)
+        1. [“Microsoft.AspNetCore.Server.IISIntegration”: “1.0.0”](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_9.html#idm139933617707360)
+        1. [“Microsoft.AspNetCore.HttpOverrides”:&quot; 1.0.0”](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_9.html#idm139933617687232)
+        1. [“Microsoft.AspNetCore.Server.Kestrel”: “1.0.0”](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_9.html#idm139933617583296)
+        1. [“frameworks”: “netcoreapp1.0”](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_9.html#idm139933617581744)
+    1. [Program.cs: Where the Magic Happens](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_9.html#idm139933617678608)
+1. [5. ASP.NET and MVC](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_10.html#asp_net_and_mvc)
+    1. [Creating a Basic MVC Web Application](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_10.html#idm139933617451968)
+    1. [MVC: An Inside Look](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_10.html#idm139933617451344)
+    1. [Environments](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_10.html#idm139933617327968)
+    1. [Error-Handling Example](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_10.html#idm139933616867296)
+    1. [Startup Conventions and Environments](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_10.html#idm139933616866672)
+1. [6. Creating a RESTful Microservice](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_11.html#idm139933617454688)
+    1. [RESTful Microservices](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_11.html#idm139933616365216)
+1. [7. Using Entity Framework Core](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_12.html#idm139933616364592)
+    1. [Adding EF Is Easy](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_12.html#idm139933616035120)
+    1. [The EF Command](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_12.html#idm139933616034496)
+    1. [Other New Parts](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_12.html#idm139933615973872)
+1. [8. Creating a Standalone Application](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_13.html#idm139933616043232)
+    1. [Creating the Application](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_13.html#idm139933615961232)
+    1. [The Debug Build](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_13.html#idm139933615950304)
+    1. [The Release Build](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_13.html#idm139933615904464)
+1. [9. Visual Studio Code](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_14.html#idm139933615946656)
+    1. [Installing Visual Studio Code](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_14.html#idm139933615944832)
+    1. [Launching VS Code](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_14.html#idm139933615938224)
+1. [10. Editing from Windows](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_15.html#editing_from_window)
+    1. [The Key: Sharing](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_15.html#idm139933615811680)
+        1. [Step 1: Create a Share on Your Windows PC](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_15.html#idm139933615850992)
+        1. [Step 2: Share the Folder](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_15.html#idm139933615842512)
+        1. [Step 3: Share the Folder with Your Linux VM](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_15.html#idm139933615656752)
+        1. [Step 4: Restart the VM](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_15.html#idm139933615608688)
+        1. [Step 5: Move into the VM and View the Directory](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_15.html#idm139933615501056)
+1. [11. “Off-Road” Debugging](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_16.html#idm139933615857648)
+    1. [Installation and Configuration](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_16.html#idm139933615507392)
+        1. [Step 1: Enable Visual Studio on Windows](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_16.html#idm139933615483200)
+        1. [Step 2: Install CLRDBG on the Linux VM](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_16.html#idm139933615478672)
+        1. [Step 3: Set Up SSH](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_16.html#idm139933615473664)
+        1. [Step 4: Share a Folder/Directory](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_16.html#idm139933615473072)
+        1. [Step 5: Create Launch Options File](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_16.html#create-launch-optio)
+        1. [Step 6: Start Debugging](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_16.html#start_debugging)
+1. [12. .NET Core, Linux, and Containers](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_17.html#idm139933615430608)
+    1. [Building the Image](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_17.html#idm139933615416240)
+    1. [Configuring the Image](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_17.html#idm139933615410880)
+    1. [Running the Image in a Container](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_17.html#idm139933615410256)
+1. [13. Final Notes](https://ebookreading.net/view/book/Transitioning+to+.NET+Core+on+Red+Hat+Enterprise+Linux-EB9781492049111_18.html#idm139933615177712)

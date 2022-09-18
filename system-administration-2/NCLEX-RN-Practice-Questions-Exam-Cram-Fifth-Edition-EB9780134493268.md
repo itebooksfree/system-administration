@@ -1,0 +1,97 @@
+![Cover image for NCLEX-RN® Practice Questions Exam Cram, Fifth Edition](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9780134493268.jpg)
+
+[NCLEX-RN® Practice Questions Exam Cram, Fifth Edition](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_1.html "NCLEX-RN® Practice Questions Exam Cram, Fifth Edition")
+====================================================================================================================
+
+Author : [Clara Hurd](https://ebookreading.net/search/author/Clara+Hurd),[ Diann Sloan](https://ebookreading.net/search/author/+Diann+Sloan),[ Wilda Rinehart](https://ebookreading.net/search/author/+Wilda+Rinehart)
+
+Release Date : 2017/01/01
+
+ISBN : 9780134493268
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ The NCLEX-RN Practice Questions Exam Cram, Fifth Edition provides 1250 questions for the nursing student who wants to be better prepared for the exam. Updated to provide more relevant and challenging questions matching NCLEX adjustments made in 2015, this fifth edition improves upon the prior editions that have served as one of the most popular late-stage study tools for Nursing candidates.
+Anxiety about the exam is high among nursing students and results from the focus group say 'the more practice questions to study, the better'! The Exam Cram questions cover every topic the student will encounter on the real exam including more "new format" interactive questions. The Exam Cram gives the student as much experience with the real exam as possible. The NCLEX-PN Practice Questions Exam Cram, Fifth Edition offers a cram sheet for last minute study.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [About This E-Book](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_2.html#pref00)
+1. [Title Page](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_3.html#title)
+1. [Copyright Page](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_4.html#copyright)
+1. [Contents at a Glance](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_5.html#toc)
+1. [Table of Contents](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_6.html#bk01-toc)
+1. [About the Authors](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_7.html#pref01)
+1. [Dedication](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_8.html#ded01)
+1. [Acknowledgments](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_9.html#pref02)
+1. [We Want to Hear from You!](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_10.html#pref03)
+1. [Reader Services](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_11.html#pref04)
+1. [Pearson Test Prep Practice Test Software](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_12.html#pref05)
+    1. [Accessing the Pearson Test Prep Software Online](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_12.html#pref05lev2sec1)
+    1. [Accessing the Pearson Test Prep Software Offline](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_12.html#pref05lev2sec2)
+    1. [Customizing Your Exams](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_12.html#pref05lev2sec3)
+    1. [Updating Your Exams](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_12.html#pref05lev2sec4)
+1. [Introduction](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_13.html#ch00)
+    1. [Welcome to the NCLEX-RN® Practice Questions Exam Cram](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_13.html#ch00lev1sec1)
+    1. [Taking the Computerized Adaptive Test](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_13.html#ch00lev1sec2)
+    1. [The Cost of the Exam](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_13.html#ch00lev1sec3)
+    1. [How to Prepare for the Exam](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_13.html#ch00lev1sec4)
+    1. [What You Will Find in This Book](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_13.html#ch00lev1sec5)
+    1. [Hints for Using This Book](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_13.html#ch00lev1sec6)
+    1. [Need Further Study?](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_13.html#ch00lev1sec7)
+    1. [Contact the Authors](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_13.html#ch00lev1sec8)
+1. [Chapter 1. Practice Exam 1 and Rationales](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_14.html#ch01)
+    1. [Quick Answers](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_14.html#ch01lev1sec1)
+    1. [Answers and Rationales](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_14.html#ch01lev1sec2)
+1. [Chapter 2. Practice Exam 2 and Rationales](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_15.html#ch02)
+    1. [Quick Answers](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_15.html#ch02lev1sec1)
+    1. [Answers and Rationales](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_15.html#ch02lev1sec2)
+1. [Chapter 3. Practice Exam 3 and Rationales](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_16.html#ch03)
+    1. [Quick Answers](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_16.html#ch03lev1sec1)
+    1. [Answers and Rationales](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_16.html#ch03lev1sec2)
+1. [Chapter 4. Practice Exam 4 and Rationales](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_17.html#ch04)
+    1. [Quick Answers](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_17.html#ch04lev1sec1)
+    1. [Answers and Rationales](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_17.html#ch04lev1sec2)
+1. [Chapter 5. Practice Exam 5 and Rationales](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_18.html#ch05)
+    1. [Quick Answers](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_18.html#ch05lev1sec1)
+    1. [Answers and Rationales](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_18.html#ch05lev1sec2)
+1. [Chapter 6. Alternative Items: Questions and Rationales](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_19.html#ch06)
+    1. [Quick Answers](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_19.html#ch06lev1sec1)
+    1. [Alternative Items Answers and Rationales](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_19.html#ch06lev1sec2)
+1. [Appendix A. Things You Forgot](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01)
+    1. [Therapeutic Drug Levels](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01lev1sec1)
+    1. [Vital Signs](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01lev1sec2)
+    1. [Anticoagulant Therapy](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01lev1sec3)
+    1. [Intrapartal Normal Values](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01lev1sec4)
+    1. [Standard Precautions](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01lev1sec5)
+    1. [Airborne Precautions](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01lev2sec1)
+    1. [Droplet Precautions](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01lev2sec2)
+    1. [Contact Precautions](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01lev2sec3)
+    1. [Revised Life Support Guidelines (American Heart Association)](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01lev1sec6)
+    1. [Defense Mechanisms](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01lev1sec7)
+    1. [Nutrition Notes](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01lev1sec8)
+    1. [Immunization Schedule for Children and Adults](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_20.html#app01lev1sec9)
+1. [Appendix B. Need to Know More?](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02)
+    1. [Pharmacology](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec1)
+    1. [Care of the Client with Respiratory Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec2)
+    1. [Care of the Client with Genitourinary Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec3)
+    1. [Care of the Client with Hematological Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec4)
+    1. [Care of the Client with Fluid and Electrolyte/Acid-Base Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec5)
+    1. [Care of the Client with Integumentary Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec6)
+    1. [Care of the Client with Sensory Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec7)
+    1. [Care of the Client with Neoplastic Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec8)
+    1. [Care of the Client with Gastrointestinal Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec9)
+    1. [Care of the Client with Musculoskeletal and Connective Tissue Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec10)
+    1. [Care of the Client with Endocrine Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec11)
+    1. [Care of the Client with Cardiovascular Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec12)
+    1. [Care of the Client with Neurological Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec13)
+    1. [Care of the Client with Psychiatric Disorders](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec14)
+    1. [Maternal-Newborn Care](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec15)
+    1. [Care of the Pediatric Client](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec16)
+    1. [Emergency Nursing](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec17)
+    1. [Cultural Practices Influencing Nursing Care](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec18)
+    1. [Legal Issues in Nursing Practice](https://ebookreading.net/view/book/NCLEX-RN%C2%AE+Practice+Questions+Exam+Cram%2C+Fifth+Edition-EB9780134493268_21.html#app02lev1sec19)

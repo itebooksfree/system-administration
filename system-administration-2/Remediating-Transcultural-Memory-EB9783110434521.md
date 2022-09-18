@@ -1,0 +1,85 @@
+![Cover image for Remediating Transcultural Memory](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9783110434521.jpg)
+
+[Remediating Transcultural Memory](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_1.html "Remediating Transcultural Memory")
+====================================================================================================================
+
+Author : [Dagmar Brunow](https://ebookreading.net/search/author/Dagmar+Brunow)
+
+Release Date : 2015/09/01
+
+ISBN : 9783110434521
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ The impact of digital global media, geopolitical changes and migration demands new theorizations within memory studies. Despite the growing field of media memory studies, the impact from film and media studies has been scarce within memory studies. This unique study offers new theorizations of three crucial concepts for media memory studies: remediation, transculturality and the archive. This book takes a closer look at the media specificity of archival footage and how it is adapted, translated and appropriated. In its original approach this work reflects upon the role of documentary film images for the construction of memory. By merging film and media studies with memory studies the work offers multiple theoretical and methodological approaches for everyone interested in the heritage of audiovisual media: film and media scholars, memory scholars, historians, art historians, social scientists, librarians or archivists, curators and festival programmers alike.        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_1.html)
+1. [Title](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_4.html)
+1. [Copyright](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_5.html)
+1. [1. Introduction](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_8.html)
+    1. [1.1 Mediated memories: the transcultural turn and its epistemological challenges](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_8.html#sec1.1)
+    1. [1.2 Memory communities and the audiovisual archive: whose memory is it?](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_8.html#sec1.2)
+    1. [1.3 Aims – Methods – Structure](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_8.html#sec1.3)
+1. [2. Theory](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2)
+    1. [2.1 Conceptualising transcultural and transnational memory](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.1)
+        1. [2.1.1 The notion of transculturality](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.1.1)
+        1. [2.1.2 Transculturality and its discontents](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.1.2)
+        1. [2.1.3 Transnational memory: using the insights of transnational film studies](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.1.3)
+        1. [2.1.4 Conclusion	](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.1.4)
+    1. [2.2 The Archive](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.2)
+        1. [2.2.1 The archive in memory studiesArchive theory: power, knowledge and materiality](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.2.1)
+        1. [2.2.2 Archival interventions: remediation and curatorship](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.2.2)
+        1. [2.2.3 Conclusion: the archive as agent](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.2.3)
+    1. [2.3 Remediation](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.3)
+        1. [2.3.1 Remediation within media studies](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.3.1)
+        1. [2.3.2 Remediation within memory studies](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.3.2)
+        1. [2.3.3 Remediation and intermediality](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.3.3)
+        1. [2.3.4 Remediation and its discursive frameworks](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_9.html#sec2.3.4)
+1. [3. Mediatized memories in a global age: the transcultural turn?](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_10.html#sec3)
+    1. [3.1 Remembering Turkish-German labor migration (Fatih Akin’ v,,,;s We Forgot to Go Back/Wir haben vergessen zur&amp;#252;ckzukehren)](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_10.html#sec3.1)
+        1. [3.1.1 Mediating the cultural memory of migration	Migrant memories and national frameworks](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_10.html#sec3.1.1)
+        1. [3.1.2 Countering essentialism: aesthetic strategies](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_10.html#sec3.1.2)
+        1. [3.1.3 Migrant memories: transnational approaches](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_10.html#sec3.1.3)
+            1. [3.1.3.1 Transnational urban spaces](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_10.html#sec3.1.3.1)
+            1. [3.1.3.2 Transnational sonic spaces](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_10.html#sec3.1.3.2)
+    1. [3.2 Transcultural memories: post-punk Manchester in times of urban regeneration](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_10.html#sec3.2)
+        1. [3.2.1 The memory boom around 1980s post-punk Manchester and its gender dimensions](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_10.html#sec3.2.1)
+        1. [3.2.2 Feminist filmmaking practice as intervention (Carol Morley&#39;s The Alcohol Years)](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_11.html#sec3.2.2)
+        1. [3.2.3 Translating cultural memory: gentrification and subcultural nostalgia](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_11.html#sec3.2.3)
+        1. [3.2.4 Conclusion: multidirectional memories and the notion of transculturality](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_11.html#sec3.2.4)
+1. [4. Reworking the archive](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_12.html#sec4)
+    1. [4.1 Archival interventions: excavating the cultural memory of video art and activism](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_12.html#sec4.1)
+        1. [4.1.1 The cultural legacy of video collectives: film historiography as memory work](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_12.html#sec4.1.1)
+        1. [4.1.2 The practice of the video collectives: production, distribution and exhibition](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_12.html#sec4.1.2)
+        1. [4.1.3 Archival practice in times of digitization](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_12.html#sec4.1.3)
+        1. [4.1.4 Conclusion: video collectives, archival politics and digitization](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_12.html#sec4.1.4)
+    1. [4.2 Filmmaking as archival intervention – reworking cultural memory in the essay film (Handsworth Songs)](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_12.html#sec4.2)
+        1. [4.2.1 Recoding news footage: television, whiteness and national memory](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_13.html#sec4.2.1)
+        1. [4.2.2 Sonic interventions – remixing cultural memory](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_13.html#sec4.2.2)
+        1. [4.2.3 The archive as inventory: traces and links](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_13.html#sec4.2.3)
+        1. [4.2.4 Conclusion: essay filmmaking, auteurism and canon formation](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_13.html#sec4.2.4)
+1. [5. Remediation: reappropriations in digital media and in the essay film](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_14.html#sec5)
+    1. [5.1 Remediating the cultural memory of migration: reappropriating the audiovisual archive of the Windrush](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_14.html#sec5.1)
+        1. [5.1.1 Media specificity and the construction of the nation: The Pathe newsreel of the arrival of the Windrush (1948) and its Eurocentrism](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_14.html#sec5.1.1)
+        1. [5.1.2 Premediation and the discursive context of remediation](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_14.html#sec5.1.2)
+        1. [5.1.3 Digital archives of migration: reappropriating and reworking mediated memories on YouTube](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_14.html#sec5.1.3)
+        1. [5.1.4 Remediation and its discursive frameworks](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_14.html#sec5.1.4)
+    1. [5.2 Remediation and intermediary: media specificity and the discursive context (Looking for Langston)](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_14.html#sec5.2)
+        1. [5.2.1 Contemporising the past: intermediary and transtemporal dialogue](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_14.html#sec5.2.1)
+        1. [5.2.2 The discursive frameworks of media specificity: reworking photography](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_15.html#sec5.2.2)
+        1. [5.2.3 Discursive frameworks: the context of the 1980s](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_15.html#sec5.2.3)
+        1. [5.2.4 Remediating cultural memory: from &#39;memory matter&#39; to mnemonic discourses](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_15.html#sec5.2.4)
+1. [6. Conclusion &amp;#8211; Mediated cultural memory in a digital age](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_16.html#sec6)
+    1. [6.1 Transculturality](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_16.html#sec6.1)
+    1. [6.2 The archive](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_16.html#sec6.2)
+    1. [6.3 Remediation](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_16.html#sec6.3)
+    1. [6.4 Outlook](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_16.html#sec6.4)
+1. [Bibliography](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_17.html)
+1. [Index of Names](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_19.html)
+1. [Index of Titles](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_21.html)
+1. [Index of Terms](https://ebookreading.net/view/book/Remediating+Transcultural+Memory-EB9783110434521_20.html)

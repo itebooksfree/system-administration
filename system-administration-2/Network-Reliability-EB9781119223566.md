@@ -1,0 +1,95 @@
+![Cover image for Network Reliability](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9781119223566.jpg)
+
+[Network Reliability](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_1.html "Network Reliability")
+====================================================================================================================
+
+Author : [Sanjay K. Chaturvedi](https://ebookreading.net/search/author/Sanjay+K.+Chaturvedi)
+
+Release Date : 2016/05/01
+
+ISBN : 9781119223566
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ In Engineering theory and applications, we think and operate in terms of logics and models with some acceptable and reasonable assumptions. The present text is aimed at providing modelling and analysis techniques for the evaluation of reliability measures (2-terminal, all-terminal, k-terminal reliability) for systems whose structure can be described in the form of a probabilistic graph. Among the several approaches of network reliability evaluation, the multiple-variable-inversion sum-of-disjoint product approach finds a well-deserved niche as it provides the reliability or unreliability expression in a most efficient and compact manner. However, it does require an efficiently enumerated minimal inputs (minimal path, spanning tree, minimal k-trees, minimal cut, minimal global-cut, minimal k-cut) depending on the desired reliability. The present book covers these two aspects in detail through the descriptions of several algorithms devised by the ‘reliability fraternity’ and explained through solved examples to obtain and evaluate 2-terminal, k-terminal and all-terminal network reliability/unreliability measures and could be its USP. The accompanying web-based supplementary information containing modifiable Matlab® source code for the algorithms is another feature of this book.
+A very concerted effort has been made to keep the book ideally suitable for first course or even for a novice stepping into the area of network reliability. The mathematical treatment is kept as minimal as possible with an assumption on the readers’ side that they have basic knowledge in graph theory, probabilities laws, Boolean laws and set theory.
+        Show and hide more                
+Table of Contents
+-----------------
+
+1. [Cover](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_1.html)
+1. [Half Title page](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_3.html)
+1. [Title page](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_5.html)
+1. [Copyright page](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_6.html)
+1. [Dedication](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_7.html)
+1. [Preface](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_8.html)
+1. [Acknowledgements](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_9.html)
+1. [Chapter 1: Introduction](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_10.html)
+    1. [1.1 Graph Theory: A Tool for Reliability Evaluation](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_10.html#c01-s1)
+    1. [1.2 Large versus Complex System](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_10.html#c01-s2)
+    1. [1.3 Network Reliability Measures: Deterministic versus Probabilistic](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_10.html#c01-s3)
+    1. [1.4 Common Assumptions](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_10.html#c01-s4)
+    1. [1.5 Approaches for NSP Network Reliability Evaluation](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_10.html#c01-s5)
+    1. [Exercises](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_10.html#c01-s6)
+    1. [References](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_10.html#c01-s7)
+1. [Chapter 2: Reliability Evaluation of General SP-Networks](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_11.html)
+    1. [2.1 Notation and Assumptions](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_11.html#c02-s1)
+    1. [2.2 Unit-Reliability and Failure Models](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_11.html#c02-s2)
+    1. [2.3 Module Representation of Reliability Graphs](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_11.html#c02-s3)
+    1. [2.4 Misra Matrix Method](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_11.html#c02-s4)
+    1. [2.5 Algorithm](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_11.html#c02-s5)
+    1. [2.6 Implementation and Documentation](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_11.html#c02-s6)
+    1. [2.7 Remarks](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_11.html#c02-s7)
+    1. [Exercises](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_11.html#c02-s8)
+    1. [References](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_11.html#c02-s9)
+1. [Chapter 3: Path Sets Enumeration](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_12.html)
+    1. [3.1 Enumeration of (s, f) Connected Path Sets](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_12.html#c03-s1)
+    1. [3.2 Enumeration of All-node Connected Path Sets: Spanning Tree](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_12.html#c03-s2)
+    1. [3.3 Number of Spanning Trees](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_12.html#c03-s3)
+    1. [3.4 Enumeration of k-node Connected Path Sets: k-Trees](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_12.html#c03-s4)
+    1. [Appendix 3A.1: Enumeration of Path Sets Algorithm, Illustration and Matlab® Code Notation](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_12.html#c03-s5)
+    1. [Appendix 3A.2: Sample program I/O for Figure 3A.1](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_12.html#c03-s6)
+    1. [Exercises](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_12.html#c03-s7)
+    1. [References](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_12.html#c03-s8)
+1. [Chapter 4: Cut Sets Enumeration](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_13.html)
+    1. [4.1 (s, f) Cut Sets Enumeration](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_13.html#c04-s1)
+    1. [4.2 Global Cut Sets Enumeration](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_13.html#c04-s2)
+    1. [Appendix 4A.1: Node Fusion Technique and Generation of Node Set Combination](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_13.html#c04-s3)
+    1. [Appendix 4A.2: Code for Checking Validity of a Node Set and Converting Node-Sets into Link Cutsets](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_13.html#c04-s4)
+    1. [Appendix 4A.3: Sample Program I/O for Network Graph of Figure 4.3](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_13.html#c04-s5)
+    1. [Appendix 4A.4: g-Terminal Reliability Evaluation Program Sample I/O for Example of Figure 4.3](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_13.html#c04-s6)
+    1. [Exercises](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_13.html#c04-s7)
+    1. [References](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_13.html#c04-s8)
+1. [Chapter 5: Reliability Evaluation using MVI Techniques](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html)
+    1. [5.1 Notation and Assumptions](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s1)
+    1. [5.2 Preliminaries](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s2)
+    1. [5.3 MVI Methods](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s3)
+    1. [5.4 Method 3: Hybrid Methods-HM](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s4)
+    1. [5.5 Applying HM-1 and HM-2](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s5)
+    1. [5.6 Global and k-terminal Reliability with SDP Approach](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s6)
+    1. [5.7 Unreliability with SDP Approach](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s7)
+    1. [5.8 Some Suggested Guidelines](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s8)
+    1. [Appendix 5A.1: Program Output of g-reliability Expression for the Figure 5.1(b).](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s9)
+    1. [Appendix 5A.2: Program Output of k-terminal Reliability Expression for Figure 5.1(b).](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s10)
+    1. [Appendix 5A.3: Program Output of k-terminal Reliability Expression for Figure 5.1(b).](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s11)
+    1. [Exercises](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s12)
+    1. [References](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_14.html#c05-s13)
+1. [Chapter 6: Unified Framework and Capacitated Network Reliability](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_15.html)
+    1. [6.1 The Unified Framework](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_15.html#c06-s1)
+    1. [6.2 Capacitated Reliability Measure: An Introduction](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_15.html#c06-s2)
+    1. [6.3 Algorithm Description](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_15.html#c06-s3)
+    1. [6.4 The CRR Evaluation Algorithm](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_15.html#c06-s4)
+    1. [6.5 A Complete Example](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_15.html#c06-s5)
+    1. [6.6 Experimental Results, Comparison and Discussion](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_15.html#c06-s6)
+    1. [References](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_15.html#c06-s7)
+1. [Chapter 7: A LAN and Water Distribution Network: Case Studies](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_16.html)
+    1. [7.1 Case Study-I: IIT Kharagpur LAN Network](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_16.html#c07-s1)
+    1. [7.2 Case Study-II: Real-Type of Large Size Unsaturated Water Distribution Networks](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_16.html#c07-s2)
+    1. [References](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_16.html#c07-s3)
+1. [Epilogue](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_17.html)
+    1. [References](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_17.html#epi-s1)
+1. [Bibliography](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_18.html)
+1. [Index](https://ebookreading.net/view/book/Network+Reliability-EB9781119223566_19.html)

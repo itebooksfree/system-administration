@@ -1,0 +1,101 @@
+![Cover image for Linux Pocket Guide, 3rd Edition](https://imgdetail.ebookreading.net/cover/cover/system_admin/EB9781491927557.jpg)
+
+[Linux Pocket Guide, 3rd Edition](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_1.html "Linux Pocket Guide, 3rd Edition")
+====================================================================================================================
+
+Author : [Daniel J. Barrett](https://ebookreading.net/search/author/Daniel+J.+Barrett)
+
+Release Date : 2016/06/01
+
+ISBN : 9781491927557
+
+Topic : [System Administration](https://ebookreading.net/search/category/system-administration)
+
+Book Description
+-----------------
+
+ If you use Linux in your day-to-day work, this popular pocket guide is the perfect on-the-job reference. The third edition features new commands for processing image files and audio files, running and killing programs, reading and modifying the system clipboard, and manipulating PDF files, as well as other commands requested by readers. You’ll also find powerful command-line idioms you might not be familiar with, such as process substitution and piping into bash.
+Linux Pocket Guide provides an organized learning path to help you gain mastery of the most useful and important commands. Whether you’re a novice who needs to get up to speed on Linux or an experienced user who wants a concise and functional reference, this guide provides quick answers.
+Selected topics include:
+The filesystem and shellFile creation and editingText manipulation and pipelinesBackups and remote storageViewing and controlling processesUser account managementBecoming the superuserNetwork connectionsAudio and videoInstalling softwareProgramming with shell scripts        Show and hide more                
+Table of Contents
+-----------------
+
+1. [1. Linux Pocket Guide](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#linux_pocket_guide)
+    1. [What’s in This Book?](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#whatas_in_this_book)
+        1. [What’s New in the Third Edition?](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#whats_new_third_edi)
+        1. [What’s Linux?](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#whatas_linux_questi)
+        1. [What’s a Distro?](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#whatas_a_distro_que)
+        1. [What’s a Command?](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#whatas_a_command_qu)
+        1. [Reading This Book](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#reading_this_book)
+    1. [Practicing with This Book](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#practicing_with_thi)
+    1. [Getting Help](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#getting_help)
+    1. [Linux: A First View](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#linux_colon_a_first)
+        1. [Running a Shell](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#how_to_run_a_shell)
+        1. [Input and Output](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#input_and_output)
+        1. [Users and Superusers](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#users_and_superuser)
+    1. [The Filesystem](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#the_filesystem)
+        1. [Home Directories](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#home_directories)
+        1. [System Directories](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#system_directories)
+        1. [Operating System Directories](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#operating_system_di)
+        1. [File Protections](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#file_protections)
+    1. [Shell Features](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#shell_features)
+        1. [The Shell Versus Programs](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#the_shell_versus_pr)
+        1. [Selected Features of the bash Shell](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#selected_bash_featu)
+        1. [Shell Job Control](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#job_control)
+        1. [Running Multiple Shells at Once](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#running_multiple_sh)
+        1. [Killing a Command in Progress](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#killing_a_command_i)
+        1. [Terminating a Shell](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#terminating_a_shell)
+        1. [Tailoring Shell Behavior](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#tailoring_shell_beh)
+    1. [Basic File Operations](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#basic_file_operatio)
+    1. [Directory Operations](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#directory_operation)
+    1. [File Viewing](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#file_viewing)
+    1. [File Creation and Editing](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#file_creation_and_e)
+        1. [Creating a File Quickly](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#creating_a_file_qui)
+        1. [Your Default Editor](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#your_default_editor)
+    1. [File Properties](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#file_properties)
+    1. [File Location](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#file_location)
+    1. [File Text Manipulation](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#file_text_manipulat)
+    1. [File Compression and Packaging](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#file_compression_an)
+    1. [File Comparison](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#file_comparison)
+    1. [PDF and PostScript File Handling](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#pdf_file_handling)
+    1. [Printing](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#file_printing)
+    1. [Spellchecking](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#spelling_operations)
+    1. [Disks and Filesystems](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#disks_and_filesyste)
+    1. [Backups and Remote Storage](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#backups_and_remote_)
+    1. [Viewing Processes](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#viewing_processes)
+    1. [Controlling Processes](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#controlling_process)
+    1. [Scheduling Jobs](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#scheduling_jobs)
+    1. [Logins, Logouts, and Shutdowns](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#logins_comma_logout)
+    1. [Users and Their Environment](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#users_and_their_env)
+    1. [User Account Management](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#working_with_user_a)
+    1. [Becoming the Superuser](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#becoming_the_superu)
+    1. [Group Management](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#working_with_groups)
+    1. [Host Information](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#basic_host_informat)
+    1. [Host Location](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#host_location)
+    1. [Network Connections](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#network_connections)
+    1. [Email](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#email)
+    1. [Web Browsing](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#web_browsing)
+    1. [Instant Messaging](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#instant_messaging)
+    1. [Screen Output](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#screen_output)
+    1. [Copy and Paste](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#copy_and_paste)
+    1. [Math and Calculations](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#math_and_calculatio)
+    1. [Dates and Times](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#dates_and_times)
+    1. [Graphics](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#graphics)
+    1. [Audio and Video](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#audio)
+    1. [Installing Software](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#installing_software)
+    1. [Programming with Shell Scripts](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#programming_with_sh)
+        1. [Creating and Running Shell Scripts](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#creating_and_runnin)
+        1. [Whitespace and Linebreaks](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#whitespace_and_line)
+        1. [Variables](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#variables)
+        1. [Input and Output](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#script_input_and_ou)
+        1. [Booleans and Return Codes](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#booleans_and_return)
+        1. [Conditionals](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#conditionals)
+        1. [Loops](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#loops)
+        1. [Command-Line Arguments](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#command-line_argume)
+        1. [Exiting with a Return Code](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#exiting_with_a_retu)
+        1. [Piping to bash](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#piping_to_bash)
+        1. [Beyond Shell Scripting](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#beyond_shell_script)
+    1. [Final Words](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#final_words)
+        1. [Acknowledgments](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_4.html#acknowledgments)
+1. [Index](https://ebookreading.net/view/book/Linux+Pocket+Guide%2C+3rd+Edition-EB9781491927557_5.html#idm140153687156320)
