@@ -1,0 +1,107 @@
+![Cover image for Application Delivery and Load Balancing in Microsoft Azure](https://imgdetail.ebookreading.net/cover/cover/20201212/EB9781098115852.jpg)
+
+[Application Delivery and Load Balancing in Microsoft Azure](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_1.html "Application Delivery and Load Balancing in Microsoft Azure")
+====================================================================================================================
+
+Author : [Derek DeJonghe](https://ebookreading.net/search/author/Derek+DeJonghe),[ 
+            Arlan Nugara](https://ebookreading.net/search/author/+%0D%0A++++++++++++Arlan+Nugara)
+
+Release Date : 2020/12/01
+
+Book Description
+-----------------
+
+
+    
+    With more and more companies moving on-premises applications to the cloud, software and cloud solution architects alike are busy investigating ways to improve load balancing, performance, security, and high availability for workloads. This practical book describes Microsoft Azure's load balancing options and explains how NGINX can contribute to a comprehensive solution.
+Cloud architects Derek DeJonghe and Arlan Nugara take you through the steps necessary to design a practical solution for your network. Software developers and technical managers will learn how these technologies have a direct impact on application development and architecture. While the examples are specific to Azure, these load balancing concepts and implementations also apply to cloud providers such as AWS, Google Cloud, DigitalOcean, and IBM Cloud.
+Understand application delivery and load balancing--and why they're importantExplore Azure's managed load balancing optionsLearn how to run NGINX OSS and NGINX Plus on AzureExamine similarities and complementing features between Azure-managed solutions and NGINXUse Azure Front Door to define, manage, and monitor global routing for your web trafficMonitor application performance using Azure and NGINX tools and plug-insExplore security choices using NGINX and Azure Firewall solutions
+  
+
+Table of Contents
+-----------------
+
+1. [Preface](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_5.html#preface_idektYcw)
+    1. [Conventions Used in This Book](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_5.html#_conventions_used_i)
+    1. [Using Code Examples](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_5.html#_using_code_example)
+    1. [O’Reilly Online Learning](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_5.html#_safari_books_onlin)
+    1. [How to Contact Us](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_5.html#_how_to_contact_us)
+    1. [Acknowledgments](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_5.html#_acknowledgments)
+1. [1. What Are Application Delivery and Load Balancing, and Why Are They Important?](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_6.html#idm45426848183880)
+    1. [Application Delivery Controllers](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_6.html#idm45426848167512)
+        1. [Hardware or Software](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_6.html#idm45426846904440)
+        1. [Structure and Function of ADCs](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_6.html#idm45426846900040)
+        1. [Load Balancers](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_6.html#idm45426848150744)
+        1. [The OSI Model and Load Balancing](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_6.html#idm45426848138856)
+        1. [Problems Load Balancers Solve](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_6.html#idm45426848138584)
+        1. [The Solutions Load Balancers Provide](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_6.html#idm45426847967608)
+        1. [Application Delivery and Load Balancing: A Solution Overview](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_6.html#idm45426847649848)
+    1. [Conclusion](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_6.html#idm45426848167016)
+1. [2. Managed Load-Balancing Options in Azure](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#managed_load_balanc)
+    1. [Azure Native Load Balancing](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426846805416)
+        1. [Azure Load-Balancing Dimensions](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426846792264)
+    1. [Azure Load Balancer](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426848353496)
+    1. [Azure Application Gateway for Load Balancing](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426848352872)
+    1. [Azure Web Application Firewall (WAF) with ModSecurity](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426847912520)
+    1. [Azure Front Door](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426847895848)
+    1. [Azure Traffic Manager for Cloud-Based DNS Load Balancing](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426848064312)
+        1. [Priority Traffic Routing](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426848042120)
+        1. [Weighted Traffic Routing](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426848029576)
+        1. [Performance Traffic Routing](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426848016680)
+        1. [Geographic Traffic Routing](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426847868888)
+    1. [Designing Highly Available Systems](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426847851960)
+    1. [Conclusion](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_7.html#idm45426847838408)
+1. [3. NGINX and NGINX Plus on Azure](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#nginx_and_nginx_plu)
+    1. [NGINX Versus NGINX Plus](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#idm45426847830120)
+    1. [Installing NGINX OSS and NGINX Plus](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#idm45426847813400)
+        1. [Installing via Azure Marketplace](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#idm45426847731464)
+        1. [Installing Manually on VMs](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#idm45426847730520)
+        1. [Installing NGINX OSS via Azure Resource Manager and PowerShell](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#idm45426847730120)
+        1. [Deploying Infrastructure for NGINX OSS via Terraform](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#idm45426847681528)
+        1. [Deploying NGINX OSS in Debian and Ubuntu Linux](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#idm45426847589208)
+        1. [Deploying NGINX OSS in CentOS and Red Hat Linux](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#ch03deploynginxossc)
+        1. [Running Terraform](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#idm45426847533624)
+        1. [Installing NGINX Plus via Terraform](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#idm45426847523304)
+        1. [Running Terraform](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#idm45426847522680)
+    1. [Conclusion](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_8.html#idm45426847734536)
+1. [4. NGINX and Microsoft Managed Options](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_9.html#nginx_and_microsoft)
+    1. [Comparing NGINX and Azure Load Balancer](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_9.html#idm45426847440712)
+        1. [Use Cases](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_9.html#idm45426847424888)
+    1. [Comparing NGINX and Azure Application Gateway Functionality](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_9.html#idm45426847416024)
+    1. [Comparing NGINX and Azure Web Application Firewall Capabilities](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_9.html#ch04_compare_nginx_)
+        1. [ModSecurity](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_9.html#idm45426847355816)
+    1. [NGINX App Protect](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_9.html#idm45426847376088)
+    1. [Highly Available Multiregion NGINX Plus with Traffic Manager](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_9.html#idm45426847338344)
+    1. [Conclusion](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_9.html#idm45426841749128)
+1. [5. Azure Front Door with NGINX](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_10.html#azure_front_door_wi)
+    1. [What Is the Azure Front Door Service?](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_10.html#idm45426841745048)
+        1. [Split TCP](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_10.html#idm45426841738008)
+        1. [Front Door Features](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_10.html#idm45426841731704)
+        1. [Front Door’s Place in the Stack](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_10.html#idm45426841706328)
+    1. [Benefits of Azure Front Door Service with NGINX](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_10.html#idm45426841700296)
+    1. [Integrating Azure Front Door Service with NGINX](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_10.html#idm45426841690776)
+        1. [Front Door Features](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_10.html#idm45426841688328)
+        1. [Routing Rules](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_10.html#idm45426841685112)
+        1. [Optimizing with NGINX](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_10.html#idm45426841682888)
+    1. [Conclusion](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_10.html#idm45426841676392)
+1. [6. Monitoring NGINX in Microsoft Azure](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_11.html#idm45426841671400)
+    1. [Azure Monitor](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_11.html#idm45426841669544)
+        1. [Additional Tools Available in Azure for Monitoring](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_11.html#idm45426841659928)
+    1. [Azure Security Center with NGINX](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_11.html#idm45426841643368)
+        1. [Azure Monitor with NGINX](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_11.html#idm45426841632344)
+        1. [Azure Governance and Policy Management for NGINX](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_11.html#idm45426841627896)
+    1. [Azure Sentinel](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_11.html#idm45426841619528)
+        1. [Sentinel Integration](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_11.html#idm45426841612344)
+        1. [Sentinel Monitoring](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_11.html#idm45426841611720)
+        1. [Sentinel Automation](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_11.html#idm45426841547944)
+        1. [Azure Governance and Policy Management](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_11.html#idm45426841540760)
+    1. [Conclusion](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_11.html#idm45426841515672)
+1. [7. Security](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_12.html#idm45426841490664)
+    1. [NGINX Management with NGINX Controller](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_12.html#idm45426841479176)
+        1. [NGINX Controller Application Delivery Module with App Security Add-On](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_12.html#idm45426841462072)
+        1. [NGINX App Protect](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_12.html#idm45426841449016)
+    1. [NGINX ModSecurity WAF](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_12.html#idm45426841478552)
+    1. [Microsoft Azure Firewall Integration into a Load-Balancing Solution](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_12.html#idm45426841419240)
+    1. [NGINX Integration as an NVA Firewall](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_12.html#idm45426841407272)
+    1. [Conclusion](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_12.html#idm45426841395960)
+1. [Index](https://ebookreading.net/view/book/Application+Delivery+and+Load+Balancing+in+Microsoft+Azure-EB9781098115852_13.html#idm45426841373624)
